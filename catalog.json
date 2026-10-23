@@ -1,6 +1,69 @@
 {
   "videos": [
     {
+      "id": 575,
+      "title": "Легко не будет — ну и пусть! Ещё подход — и прочь вся грусть!",
+      "caption": "Легко не будет — ну и пусть! Ещё подход — и прочь вся грусть!",
+      "date": "2026-10-23T17:06:37+00:00",
+      "url": "https://t.me/masik2977/575",
+      "thumbnail": "https://cdn4.telesco.pe/file/hlxtjDDt3u2dCGvyFnmrobpBc5Ijmo57hwx8LPdVGw93Jo84yzpBJdKQUg9cYY5niioFu3Sofb-pXWMPCIXGZ-7u1JN4DsdcGlroUGcvsvkgsQ2w_6SndRKLFjF6TGFxGvHkx1KLG4XqfhKQe9tMUb8C0zLidbm2MAKHcrJafKs0JCMHfSb1tUEj-yb5eRO3qrTFAB1akAkStcnfNEISpbQ1OQUvDBrPPD1tt9Zlqe_FM8gJCoCQTfR9nvKEsgP5YJS9gK9mwjtvDrstLDnpkypjTwfzRxet4BrKF0khuvd8fO_R4rGGZPbvi6yQgT3kC2MNirjvWl3TF4ZBwTnacQ",
+      "categories": [
+        "train"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "train",
+        "scores": {
+          "train": 10
+        }
+      }
+    },
+    {
+      "id": 572,
+      "title": "Холод бодрит — радость внутри! Счастье лови — с улыбкой плыви!",
+      "caption": "Холод бодрит — радость внутри! Счастье лови — с улыбкой плыви!",
+      "date": "2026-10-23T10:49:03+00:00",
+      "url": "https://t.me/masik2977/572",
+      "thumbnail": "https://cdn4.telesco.pe/file/st636bDWqBUXIjMZEf5p0mP-lCza7R7hg8LxczNTFv9aaGVVml75lNWSQfZgaKMCx52M0UPt_MamPdwElrqif03McJVNpYh68DrliYzBBIWGU8FVBJwTaiUDZ51pYy6Rcq9w9y7sbHVcIVGB7Dn1RMQ5AOZ64Jmya3OhyE5V9qmBOl0el9tx8W064y7f6GzPYTZJAljVdXDsGvc5qtC6OcVJ5hHhkECe9aPPAFpIzS-_A94iA73WrcD5rSksr01nl24vToMS0Zewtyo2UKTy5dYdVzlLKjRvrGGim8UX9SWsj_5tsFCO4NgRiN7PIqkX7_JGg4MMOQuJfWkDAa7FkA",
+      "categories": [
+        "path"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "path",
+        "scores": {
+          "path": 6
+        }
+      }
+    },
+    {
+      "id": 571,
+      "title": "Видеопубликация №571",
+      "caption": "",
+      "date": "2026-10-23T10:46:42+00:00",
+      "url": "https://t.me/masik2977/571",
+      "thumbnail": "https://cdn4.telesco.pe/file/qAUgovGBeF2nBMXH1eMMt1_xKg9arpzCKDxXSSKcCDaSroRx5FZEtFQZmwRBivQadGG2_5fc0ZdBIAfWyCOYkIyJR6dTRytvPTPjjQZsQq9hMnrhKL5ebLwbnJw0HMgyRZnyxXiIg04tvzQ8ADoP5I6liXk9lp2TqjxuNy-6FQCNt3EAanS196gEBR9dVPVPyKNaro_5FffV5hR0Gk4ZoraFStiMmzqRCDtrXAEj6mEoCB2WvmA2JOWA5oqA1S7yf7qEf5qZ_G0SgUHrBiVqjS5Ti0UIwOPyjZuWy39Hl0jlo9GUn4Kg-7dwF4dwtSR7OkeSe5R1uVtbFc3wawLc2A",
+      "categories": [
+        "path"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "local_text_similarity",
+        "primary": "path",
+        "scores": {
+          "path": 1.0
+        }
+      }
+    },
+    {
       "id": 567,
       "title": "Пятница 😜 и снова бег и снова рассвет",
       "caption": "Пятница 😜 и снова бег и снова рассвет",
@@ -11,7 +74,16 @@
         "run"
       ],
       "status": "published",
-      "source": "public_channel"
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "run",
+        "scores": {
+          "run": 10,
+          "path": 6
+        }
+      }
     },
     {
       "id": 566,
@@ -19,12 +91,42 @@
       "caption": "Пришло время поговорить 😊 и рассказать есть много о чем 👍",
       "date": "2026-10-22T18:45:07+00:00",
       "url": "https://t.me/masik2977/566",
-      "thumbnail": "https://cdn4.telesco.pe/file/DPrDi5Q3N3gSg6kDeCW9LRJKAtU40_Dcs_3wpkxAVfWuoR78ge2ZGoMlYuXBUUJ3Xt37dcJEG-ucFM_Ho6ha8l4LeeofnA3GZNNqmhq03BU6GuR6hWAwh94-LGguMmBZrdXY2J3cPmMBppt1kJx4ysmW28IevqouBACwvSC48zrTCu965rgmN20t-i17H4BnrJ1k7ulwsONmrYp3HsXAJ5YjvmC8x9LoA2pTVDzC4xS5Ff708uKHmi_g1bRwURiVPCPy5ULGqJOj3c--9ifKvQS8R-0jX9rJOGXVwIdW8jKqmU4mPIz6X9jEDd_ZpLD65_Ob3C4TT9WF9m3INJCMFg",
+      "thumbnail": "https://cdn4.telesco.pe/file/u4gYmfZNqBeuEePbAofoT_1jw-Vc_Q3D8UAlHWnVemj28pao5Zc6oIcXVzktRvplT7wL4_0kf97FqO2r5iqR-FZ1K9UP1vq-iFmeCd8Dyd4XmEb62HscA0TE05bGDKT1fEZjYKdjknfASjag8ojC2qPyFuoBAblUlV-EgKy7sxPx5xPXgHWq0uyE3sA8jbG2pBRyrL_j8n9cbEUqcxgqRY8jL633JMn_8L8gBdtoT2LjzU5Ku4Dyo0pAV_ZCSXyoBPa_Oo5RXuohUI0r6tG2BeCw2qnY_DOz95E5TNukvcWMRmEXstPC2kZjxGJfUhVmrir5X-1RM2ZxctKvaSSgVA",
+      "categories": [
+        "talk",
+        "path"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "talk",
+        "scores": {
+          "talk": 15
+        }
+      }
+    },
+    {
+      "id": 565,
+      "title": "Нормально? Погнали! 🤘 🔥 Утро бодрит, настроение горит! 💪",
+      "caption": "Нормально? Погнали! 🤘 🔥 Утро бодрит, настроение горит! 💪",
+      "date": "2026-10-22T05:27:46+00:00",
+      "url": "https://t.me/masik2977/565",
+      "thumbnail": "https://cdn4.telesco.pe/file/vJx0qJ8xZHEFdDbr3vuWe5amtzogSI4kfQX3h72RKV8TZq4XCA6VTv2zpLDssgyJra8outthhnTw0hwBJL8VJ4DIKBsss5LJBRjbWz9WNjR58VU_cs_L6rBodumdqQXjQQu3srzA1opmMV0RDMw5BRUmlJTxaq6zarZguao-9pQM9EynVE9CopISAN3uf5qTbPBDntXzP9VDDjGRfJhiNwQgaWxMH2AOTKY9kOffmSak73jiDrRktuoo2la38EYEbtJhGSqshjRgJsBbHDnh72sN42_SO-aEqWnUWJbV9_ty46YKa5LWym7NNoas_rhCb2XVM1gPFeBRUzqGkN5kUQ",
       "categories": [
         "path"
       ],
       "status": "published",
-      "source": "public_channel"
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "local_text_similarity",
+        "primary": "path",
+        "scores": {
+          "path": 1.0
+        }
+      }
     },
     {
       "id": 564,
@@ -32,12 +134,43 @@
       "caption": "На улице мороз по коже, А в Волге нам теплее всё же! 🌊 😁",
       "date": "2026-10-21T15:42:48+00:00",
       "url": "https://t.me/masik2977/564",
-      "thumbnail": "https://cdn4.telesco.pe/file/RWrdNylPloKrFNto3jrlG8DQ07pgaWnQSOFAJFcyjLTJnQWiSEg77R40qzik8FLM9UaS-Ho4G-Kv6UrLl3TQJMTZZSMgJm6CbtfQGUlwrjN8S7xwJjgp0pblg0v4SvguqZTGigOIQd6gJhuKJsC6V0vZaYe-D9TQ4Wou5b8LvjoNuq8i0t1eHuDcCDz-kA_FsMCh5ozqj3zx8zTWjyyRTJOmmgDGfipQlSslZGJnH_oiCAsssOtOtkr8E1AOKzkSDR8AvRVvQNMeFdMuySRLfytD4DaEa4zuz4llKjTeYvliRXDvmFJv6VWfVqJN8JmKPRmE-tOz5mUJZ7tjWGFOuQ",
+      "thumbnail": "https://cdn4.telesco.pe/file/MElyLhSyoNtoo_R1-GdU8Pk4JdtwPHjNWFlhaKTCoF9lg5aZ7j9A4iUXlwUHcISq5sCCOpDB9Ovd0gGREav4ehf9LpyoJRYZkezkzuf_9UpWe6FQmEc6QXNzUMjyRJWnJsraCb7qC-mL7awKFLyP9Kb7MjkGcSnopydMl5yI1yOAaiUQX_QtvQnkV1dWgm6VeXl-R02mHW3hB0hkJUKJGphdZFkvl6B-qBaIlt0nmxKIER8kyCZPmXZ1-cCPCcIyTKidf2SkO12zC99nzEo8tdBnQf80NsgnQFWP42AIDC2VaevqMbf5Cqtc9lcGgG1YsvGBGXgh2FNyLY-Z-s6-xQ",
       "categories": [
         "swim"
       ],
       "status": "published",
-      "source": "public_channel"
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "swim",
+        "scores": {
+          "swim": 10
+        }
+      }
+    },
+    {
+      "id": 563,
+      "title": "Волна играет, солнце светит, Природа силой душу встретит! А Зима близко 👍",
+      "caption": "Волна играет, солнце светит, Природа силой душу встретит! А Зима близко 👍",
+      "date": "2026-10-21T05:59:38+00:00",
+      "url": "https://t.me/masik2977/563",
+      "thumbnail": "https://cdn4.telesco.pe/file/Sz6jQfjGycdc5yu6hFVeFSh9ZKdRckS_j2zkeqDsXbatxDhwMqLM69KvT3qf5Mxp0WQ0Om_LH-tt7aGBIuZYHtnHP5W2GFiE1BBAjPx_Gw0oBO8lbuKdg9C-AF_VxYERdOIgQSswYRbPi0sfpm_zydTAprfV7o4Dc0JmpJC5s92BRxJtsXO8guCiWqcxswlI6TUu9Nwc8u1XkWl13_EOXMwQsUBnyEdhfBpPEKj7KM0SITQ8qn2AOvRrusZc4vhdphSXBqcyZxuV5LCHt31gTQv1SAMkSVSbLK-f92XEpicVGH-sMcDVuHUdHMeh-BebnMJlXO7AfhxY46CXgBHHJA",
+      "categories": [
+        "philosophy",
+        "path"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "philosophy",
+        "scores": {
+          "philosophy": 8,
+          "path": 6
+        }
+      }
     },
     {
       "id": 562,
@@ -45,12 +178,63 @@
       "caption": "В водицу окунаюсь — душой омолаживаюсь! 😄 ❤️",
       "date": "2026-10-20T07:26:31+00:00",
       "url": "https://t.me/masik2977/562",
-      "thumbnail": "https://cdn4.telesco.pe/file/Bwjxtm1pu-HAvg2OsujD6kbxgoNfEPkTAchjelUq3j5d2D4cGIKGnIS6Y2z_n_M3TPa1t9cArhZweXlDpbUSApdK9B0oSAyP2tbKhYM5YJX1dXDwMU-CJf1wo5fqlphynnD02JbprqfckYjDGwd8VQkKXcyXCBM3brRb9043dBtPzJjU_WRRbAHY2IQY9l7NRMmAEV8T7NHTj3yWv6T-NCSlZiGBa9s2Vyaiiw1sihOEOYOOrGJGa8_xoBe8NZoqh0nfOpVgOKSpfVGMkWB4eblgap1g3j6UL9tUMRt53hOTHLgNyxZhVnlwwF19qU6TrFGZDHrnoDbndtxHCrJEog",
+      "thumbnail": "https://cdn4.telesco.pe/file/GSEX1G8AvUVrEK1w9Vs_r-KuQlKIxt-hslGntL7o5QU4eTNnzKoelRSStsyhFkW5S_pHhcfiPmusbXTV1UTGYyqhyPduon43Azr17MEjIW9AkdLK_CHwGHfy6p5oFJknu0kfy-tKD9Jpuh0oJj3LLlBXwnDu7oMNyg47DgLyPjpHKGD2egt8nfUYCN_ViFxN26yFuCSgEjZR4-5jkxQoxunOyG4OGCy8_E4rrDAg9TX6GHcwbV6mC86o-avpTpkDWVqdpeb6MeMSjpieSXsWv4H-1RR9DkNaRxARUVjpGZmvIZiEnCGAHFf_fcwVO1Chr87BTLOD75tWa4GQlYnWug",
       "categories": [
         "swim"
       ],
       "status": "published",
-      "source": "public_channel"
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "swim",
+        "scores": {
+          "swim": 15,
+          "philosophy": 8
+        }
+      }
+    },
+    {
+      "id": 561,
+      "title": "Как же все таки заряжает природа ,и суровая красота)",
+      "caption": "Как же все таки заряжает природа ,и суровая красота)",
+      "date": "2026-10-20T04:52:03+00:00",
+      "url": "https://t.me/masik2977/561",
+      "thumbnail": "https://cdn4.telesco.pe/file/RX9gV6azKrfJyF3Z94u5pTmPsZixxvMj9f_CYXxKs7YExQwC0gyI-gtwlIJa3W-8bjeVCQek4Aho1X-6bPnlLU3tgtzQhJArrFRi4D4XfvnsPgTZyHObAI7t4EBqu84SBEIb_UefdrLzpcG7V0tRFce9VuqVHiUgfGA0rx_KnOIT-3uJPMAxE2I6Pk3YQVRIHIeudy7LjSoWFoswKPv2H9--xQ8ZKYL4vI4JmjKnXJlLAShPikigiQdM_mcnap0_AP_GnP1gFesaLejXNXQ4U3mAJUw7r5F_noCsU88An8CApOEEXJD85dedhxccLZF4dWzXVwFU8JY4hkAe_6gzeA",
+      "categories": [
+        "path"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "path",
+        "scores": {
+          "path": 6
+        }
+      }
+    },
+    {
+      "id": 560,
+      "title": "Железный понедельник 😝",
+      "caption": "Железный понедельник 😝",
+      "date": "2026-10-19T12:43:12+00:00",
+      "url": "https://t.me/masik2977/560",
+      "thumbnail": "https://cdn4.telesco.pe/file/KM8HA77rIuwGikzvM5LYyXvvm_d71Aa5AkU_AgmTbPu9TNSZSYC6ddyBCvRzn1mJc-lAeHFTnhJWUbzQ2XW3Am-YxG98F1Rh9x6NxK9RRkPwW8wKiloX4Jfvx1WdEL6_2vQGMaL0EpvlWB5Rm-m6fV_ce73ruwY5NlGV23NucXD8mKugwbnAUg4kZduhtnCoARhx4ObdjXDuCbq5Egn--UeB31MD7-F8LNrDtWM2edhUkv1rmgmPxo2ibpOD6leAKtO6XUrKhDg8zOxQ1xystK-5EXjvz2LpHr78VUFJUyUsRuWxp5aQRGz1ZVWPyxUlM9Z9OVu1tGKdfoMru9XpKA",
+      "categories": [
+        "path"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "local_text_similarity",
+        "primary": "path",
+        "scores": {
+          "path": 1.0
+        }
+      }
     },
     {
       "id": 559,
@@ -58,12 +242,41 @@
       "caption": "Хорошее начало недели ,начинать с Холодной Водицы 😊",
       "date": "2026-10-19T05:06:30+00:00",
       "url": "https://t.me/masik2977/559",
-      "thumbnail": "https://cdn4.telesco.pe/file/Rncr0tfKT_bGGOgD_dDJxmIaBvzPhYyX1vsCM7NLP8aFjmBE6nGxxX_52XqUJ-sv0DsT2xs_frmM514e8O9eFuo4krQYf2572oG-La2Uv6fS7SjhH-XIr-iEPm9rfbtR_9EGjvolmIuxZAWxUIJC8KzgXplZsLpnm7aWM5XNtys5AfcLOG2u1RKKqUPqBrgnYOnddGGqEFAbT_CSJgQzYRKtsUpEirQQCeSjbp9-LWu6nidsBwXg62zy5rVxWAvQjajC6TNT6eFwQ-vVJX9yZ3JCN-eth2-y2E1n0RjyYmMVxSzw_tJyALOMyW3al0vtOJNjfKrled7fEm7OAJVwsA",
+      "thumbnail": "https://cdn4.telesco.pe/file/PILK0GyH1LiWr1XklsVbbRUZlsmrCjED1Khy-VDCFwSeb6Lx-9X_RNhmdrTTZPYuxMyMWPu1tPUE6wMEOrolx8uxD3-HwlGdqbulfW9BiCyy2eVxn9xef2qrFpwu1l3QOEt4KgIeTd-moyJ6Frr85TQfqQXe3lfi-8YIE3fuSTmSTD5I7on5ffPHFOqaJgmTdEQjRgIBkvIikasedwVeokI-20hXw1GX66U5H8jcGLI9xaP25vadSu7uSSyLsL_sTQgmPQGwGZBdbsS5JhL9I7nB_mp-BOpPLOn5AHNMzANsWBmQESgf1Nxc6qZzMSkEcTHqdRpRlxMtUaQuW05A7A",
       "categories": [
         "swim"
       ],
       "status": "published",
-      "source": "public_channel"
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "swim",
+        "scores": {
+          "swim": 16
+        }
+      }
+    },
+    {
+      "id": 558,
+      "title": "Утро на дачи взбодрило не подетски 😜",
+      "caption": "Утро на дачи взбодрило не подетски 😜",
+      "date": "2026-10-18T11:49:25+00:00",
+      "url": "https://t.me/masik2977/558",
+      "thumbnail": "https://cdn4.telesco.pe/file/bHU4crAYWZtSv5uAy9Oz2OLChPMoof91umzPFcTX--UAYPnTzWQqNXjPQdqMuKWvWl4X_lIhLD4yTkLoG9VJq8gBz5RDscbsVbc7_J4hQJDPQkr3TQYb6pcezHJ7T52UVVQymYbVQ2Z_iEAe-dqSq_-kniw6ZDTVAEhmDaWKqndiGT3ql40l_3GwSXBbkXTvyIf7tZ1-xAGc7tpcNFtArDgUpJSQ1hAraTsUL9sRDsuDTr-X3TwrOO7IKL2sYotqAn343JW1c2Dug6nfBySXghjHdcFxGaLr3jLW4CjZb88Y1unPmrx17HiNI02V1vtWGJR5Byfecy_oZWlf_v7Kew",
+      "categories": [
+        "path"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "local_text_similarity",
+        "primary": "path",
+        "scores": {
+          "path": 1.0
+        }
+      }
     },
     {
       "id": 557,
@@ -71,12 +284,21 @@
       "caption": "Вода холодная бодрит, А сердце радостью горит! Улыбка, счастье и заряд — И каждой клеточкой я рад! Хороших выходных и настроения 🙏",
       "date": "2026-10-17T06:35:51+00:00",
       "url": "https://t.me/masik2977/557",
-      "thumbnail": "https://cdn4.telesco.pe/file/hm88SWpbO9OlNOvp1cnQ8ptJAx0RJkBhKotkZ0HSKWWrJTTyCG4Z1O7EM6ZwV6GKQgU7jrWOXLyohAcHq_NHV8gad1yPN07iyHDvow_xS3Qs9MM8YY6OU5wSP0RGTFbR33VL_PzJHGGp6lPd4BDzB05yn94k_zgYjkL2j5Te5virVDMK252EEGrI0aLxhpnglYRI8LDD2UrycPoTShH9eHxjXwAPQ-Qa7nEMtI0j1taxdjk-RBmLWLGvV58J88GegU7DVJukVHCU4-GpMjmPJARUl4iQsNwffqAZCteutcYc8uLK1b5ZzuJR0I90Lbe6C44hNcpm0_VmyUjTC0ftQg",
+      "thumbnail": "https://cdn4.telesco.pe/file/vD5ukzHiqsB_tP1xWHUkswLurX_xKYH3Q5-pFn8pTdtNFOtzEYxwh0eFHi6jWTDg2ErAhg3EZCubdSF5RMvfY_sJGZIIxYSa2aBqcrrsA-qNFIIX1SqUiHYdMRYq25b1FL7-Lx7q277AeB1pUxBAilXxkWaFMdH6ob30CxIEyP23N8f60iC90yI_ykMGzb7VhtRl-oCe6kbPDFZCohaZTc_f0g-7-uSxFoVwGIiAXt2dgnLBncDe2MGY2cJO_sphezcuj2NpBAg9K6OpoU6FaEYDmxZgZwR4KzZKFMXNskza2hiFsuW0Peltg4izfiJjxfx6TZoea5McrnTrAy3L0A",
       "categories": [
         "swim"
       ],
       "status": "published",
-      "source": "public_channel"
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "swim",
+        "scores": {
+          "swim": 6,
+          "path": 6
+        }
+      }
     },
     {
       "id": 555,
@@ -84,12 +306,41 @@
       "caption": "С утра водица нас бодрит, И настроение шалит! 😁",
       "date": "2026-10-16T16:09:30+00:00",
       "url": "https://t.me/masik2977/555",
-      "thumbnail": "https://cdn4.telesco.pe/file/H4CmQZvRacAKNFtwpYOMRnw-vwz1YvPve-mSSqLE1yUoALgRXl7RFDcEuBBNkl5ylvWvA_yvIgu6neC1IPYemRON1786IrcmoG6JUw1_GRVcnPsCQ-yLXqEjqU1VdvwrTVWELLztmVKgWVJhSjHkZQL4fCXW1NghkGeSf7JMSmRn9FmMBHfWojJCSjF7TcQvG6ps_BqQ9kgAlCf6AVfH_oWx_FvQx-I_y3ONvr7XX6UaabjdJoZGLLxKarG8XnUZmk1SkG6eU6Tq_7pLUbeN3L9Z418w8LT4FydJ3gm4YenT_m3KvfyXvBKOsKcb9jSBsoySYQ3cLRZwFVnJdXZSkw",
+      "thumbnail": "https://cdn4.telesco.pe/file/ZO_5uFQfaWewrC0L7mkI4pNh9M5WQis5bOMpq7ZPcxdBrONgkVUHAcbe6HGuqsWr-oXt5cS-bglqV6gGwXHEb5-3AmjmtVdvIIvs-9EJwmHAydzKc1Y3mEuxyIyqodkFNDeuMnxGFruXLKHtCeNeV1HC4nPGgvJViIFJfd8SvGs8U1GFio5gRmFYVz1NmKvGWh_2X1AlnOiZ1til2tBgA585ju6AxGH_n8n2LNaTzh78D6eMf33tn3tPRNjITD27QvvcCjjYOoYMIgJT1YYMjwToZrBQx6vSlgJ84aqH13yHGipqkCtQktl67UuPRXy9PAtCYvUlKrlbBXLyzxHSeQ",
       "categories": [
         "swim"
       ],
       "status": "published",
-      "source": "public_channel"
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "swim",
+        "scores": {
+          "swim": 10
+        }
+      }
+    },
+    {
+      "id": 554,
+      "title": "Пятница 👌 Хорошее начало дня",
+      "caption": "Пятница 👌 Хорошее начало дня",
+      "date": "2026-10-16T06:23:33+00:00",
+      "url": "https://t.me/masik2977/554",
+      "thumbnail": "https://cdn4.telesco.pe/file/L2QziIcCiWhDBXuOBgjCpJV_rMuaSHDT092PHakNsyyIzH9H2Um10Mg8uQP-3ENuDZ2gm0fJkTZtOBHBmpr0wJ0QiRTEzN5HuyHjk_dgL9C9ENgxXnJfPknVL50EEg_8Cf1yLA9CcRXyOR8q-izekLAdlvAOFuB-EA-SvouiFJRhV2TNNN8_7XIdzBB2suXmZXIvbKdBV0VJWsol-GnrYFOmqywFcWPFE1KyWOvWf-_ibbzbQaNH0Fywx10bBXVAnZe3w5zVMnd69k8MDbXP-OzDqGJxJoz2O9KwIhIGv3AQhzmz0hZ27g23lWy5Ma92sh0WdjisJ6-jG-L2kmtadg",
+      "categories": [
+        "path"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "local_text_similarity",
+        "primary": "path",
+        "scores": {
+          "path": 1.0
+        }
+      }
     },
     {
       "id": 553,
@@ -97,12 +348,20 @@
       "caption": "Санек уже привыкает к воде ,на второй раз посидел и поплавал и сам удивился 😜 какая вода стала теплая",
       "date": "2026-10-15T10:45:19+00:00",
       "url": "https://t.me/masik2977/553",
-      "thumbnail": "https://cdn4.telesco.pe/file/mAWZpkpJOP6eM_KgNgsAjfpnSxnyRydsoPAwdZz1hYFrzqiLea1UMg-bokQOSWs7a045njS2tnpArLTXR4mjPtL4mw35DTpJ6dfaOpFF_ohynk13q7QmNLl0PRNXoa3OQitYv4domhlBRKt3uSOgQwu6y7j8UzustDbaODericvmtuVE3hmn426_xxfAZ_CjbAjR0OUOZ87ZKvlzd6e40p-cizsTQVx6OCmjwiGAMgZt6kw-X00Q2sWbzzZKPkUpVdh6IzL7pZeXCQbYOI6FUT7xyuhk9BYXmvcal0A4CoMpPHrOnEMapMtOEpPxhzQyJ16be9SrKjtV9Mk4SOXlUw",
+      "thumbnail": "https://cdn4.telesco.pe/file/fF4NuFxaEQ4_CQUMyhJUdXIIzsDuZt29nCUk52rh6cPubxXzF2OgAq_CBZ8Lv6zuH-7yrwPwpdDWnXv2zuz4BHl2RRqS3vdkxoM52k-1rUGcns3C3s3QVce3M6euV7rfp_OqbhO4_ECrABg0EMXi0a2OAKz2uhE1ceXVuCVItjfmhbhGPc_3av5gdSK92YnXcM-fPqsAdwZWBhNmqp_jrnxYBU1920QEKp0jUvfztUV1E7qn1UbNdNH1nafSOorZehfd96WTB1C1Tjfbxl7uDsdQ3WZtt3O5qOA50GAXKKzJmpG4fj0Kjv6lZqBT3h1jhYtX5U0JhvIIDMIXik9gmw",
       "categories": [
         "swim"
       ],
       "status": "published",
-      "source": "public_channel"
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "swim",
+        "scores": {
+          "swim": 19
+        }
+      }
     },
     {
       "id": 552,
@@ -110,12 +369,43 @@
       "caption": "Бегу, смеюсь — душа поёт, А осень нежно вдаль зовёт. Туман укрыл родные дали, А мы мгновенье счастья поймали! ☀️ 🍂",
       "date": "2026-10-15T09:10:40+00:00",
       "url": "https://t.me/masik2977/552",
-      "thumbnail": "https://cdn4.telesco.pe/file/eUkXhtDIIyaSyol5CKBujJswsJ4zj_tT5WR1d08wbUC5TcdiQFXFEjKq_9wG-1oJY7HBWvLik62DtWOn8lRBplMB1CPppmFl2s7FMxAimnkvQKZr7erp_NSy-Wui57BavIHQQjek1QuKTFek_tIP8snlKHWM4F0v8KK00l7oIdKV75Vs7UPcfvm2vXXyU8GGWGphY_tkBx2kRHz-Z6ud2TPb7Mn-Pr-vwtpscZW-0lmXvhFR0gHwy5Pv59PKDDgUnJHiu34vco36uFi6htumiWS3bHJP_OWJokVdHcLsXjnXsHaxw7bg39DM0Wgo82QeIjDpi7URJ2RtWr6rc9emQA",
+      "thumbnail": "https://cdn4.telesco.pe/file/imUHlDZaZ2Oc7-gXOVeKs1upoNb3jcsi48Eq81y5sG61u4_A9sY27VR8fkdDxM0f5meQPqyzIqCGFzVf5OjpNvpzHBlbOZvAAnLg2Vy33apJ_WBLpbPmZJdplrnmH1EjCpubqyv6gMaYPovnVHe4jKuSOVjQtG3mIBGfeYXvSj-YeYln9KuYPIXKF-XdH9vO8OvnRyjL7_CCQ1I7sqStraqjnaqE3Bvfi7lYCgnCFFc4SwGcOgKZFpFOHyrIl63s0vt_mwJ5PFB4hVFCFVKYuJLT4pEqdVc_jeyY35fae06mapQjWqBdw4Gz1cXY8iJEIF-aQQsKSCqTLGcZXs_KDA",
       "categories": [
         "run"
       ],
       "status": "published",
-      "source": "public_channel"
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "run",
+        "scores": {
+          "run": 10,
+          "philosophy": 8
+        }
+      }
+    },
+    {
+      "id": 551,
+      "title": "49 — и только вперёд! 💪 🔥 В душе огонь, в движении — взлёт!",
+      "caption": "49 — и только вперёд! 💪 🔥 В душе огонь, в движении — взлёт!",
+      "date": "2026-10-14T13:31:44+00:00",
+      "url": "https://t.me/masik2977/551",
+      "thumbnail": "https://cdn4.telesco.pe/file/ASckZ_hb1ImoNhepi2ovJcjmtl-CiHbzZS2_7BMDpAutzZD73zA26HZ8tAiIlWjPejaZ_v3Jbaijwh2VHgmhnjVi1POoE7zC4RyExf8UmgZLFlzxE91FT0qrCsNdJEbTAfyfR-q_zmyiHNM5JNmjldeGGAtvUTE1b68riflYlJiOTjYRn8Va4tO79iOdLMJ_1At7dm7Bg5JBi89CPpanrivR0f1ibBYKCBl0JHr218bwKzIAdHwnKgMVDEWzWjH7fhwLY_6AJwr-ZNtG7MbBfc_zE998zgg3NlorG1WQSVHRd6aeljlcHiGFEV4OHNCsEbjh7jbTK5-Ni9dzyLFo4Q",
+      "categories": [
+        "philosophy",
+        "path"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "philosophy",
+        "scores": {
+          "philosophy": 8
+        }
+      }
     },
     {
       "id": 550,
@@ -123,12 +413,22 @@
       "caption": "Не жалей о том, что было, Всё начать тебе по силам. С малого свой путь начни, Себя цени и жизнь люби! ❤️",
       "date": "2026-10-14T09:20:56+00:00",
       "url": "https://t.me/masik2977/550",
-      "thumbnail": "https://cdn4.telesco.pe/file/deA_Vppurk4mCmUdnI54AgFoG8OA-vvigb7fv-Ffg29LwZdNgyYbAfn_Xz6BJPlBXvDvn2TXsD-l0NoPfNuZ1JnzDj1w32_zf20i6aSAkcZrNncWELpcVN-hX3Y7AmSWF3XQy65f9RwxS9ggJrsHui2MjKvkiCOBj8hgYGrhFSwEnGPyc1GqM4NJGYRtrlbzgz07mctmilkoK0ipxbFn6RvJNx61GJW5fNOoXC0JSVuR-ul8Hi_mxMNl4CltZ7JHRgdGsofwqM46lOP92kqkpN63yZLWwOrWL1HaV05Y6NXuLpeS6GqC9KhZmw6XgKJ4Inb3rB4XWVy23Bj8thLUeA",
+      "thumbnail": "https://cdn4.telesco.pe/file/vfrA-DVdWu0yRh20ee_A2-Lh_5ysOuOe_grqQTh8261gkgoURkDIpiuxixhbzKVfPZNpEqRLR_FlX-HArNKy4_zgRQ-YUViVIOoc7HUMB0fMI9VCh0ZfqrQMeWX7qliBGxmzzhCBPjLKbKCVsBKhF5BkvznyLqVywfYiOqTDMplBEggV9v3ltJxvroZaBq82lt-eZSMMGOR8pe_CadnQ3c6cI5ZrI41C3ruHRQ378HXQgsFYqqKtdFDPHHB7NXx6Bs5kIu9dS2V9U_pD3zZcYHeDN0vZSGAGw3SX5nbgONT1Xx2AfxYE8W2plezCC6OdvYfIqYp9b_J2N9dtvFBbXA",
       "categories": [
+        "philosophy",
         "path"
       ],
       "status": "published",
-      "source": "public_channel"
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "philosophy",
+        "scores": {
+          "philosophy": 8,
+          "path": 6
+        }
+      }
     },
     {
       "id": 549,
@@ -136,12 +436,104 @@
       "caption": "Вот так встреча утром 🙏 👌 Санек приехал поплавать и зарядится настроением",
       "date": "2026-10-14T04:53:19+00:00",
       "url": "https://t.me/masik2977/549",
-      "thumbnail": "https://cdn4.telesco.pe/file/Jm0VlbMn1gTWYawX_RvQnra8Ww7K_GL4K14A_InbVzdlIYlESCgU4k0omH9YZALrAHAGAecFS4jRbh4O879sM3WlBD-BbbDxjIY8Pt91oi_PW1KOli1ZBg2LSvooyt9sLcv5qnJF_XsSW7uH5GaEI9dA14MqrKaj9C3-gRRxnHd6NWgugrJuq5T9GhNFE-h7ICQhaMkYFtls5ipzijRj24bUo91umZQVkHlpWTLv1RXuQRLwXZz3BZfK6G-3POi44SHNyBiLrzftPwAJC0djAyLTV5QeY36dw3uzpS3vc-wPbwhg14abgJwzci-SpyR5OMHh7wJ03Und907A2kj3lg",
+      "thumbnail": "https://cdn4.telesco.pe/file/pt-3DTg8znPTBe5TRnHLY7mfJK6HJtGPgBqFS-xJUTCGyFXn27uvkGpZ9qf0v7nCyL1tyvFLq9rxKa5sy2YwPp7jU-qVGn9OPjV1EF-PImj3YChxueimu-xXaqZHNOl7amjljBUwVMNX0Nv5bZboncD8CsZUSSgI156zz87vI6o0zm0yfvIjuonEfazPCY9WRN4K91Z9mQKAeGKN3EYtRVkpKuqczN0AY3yLxVkTd9GDx8hHs2jupTDBvVa4-TkpToha90xGX-061j2VLdMcPqG4zlCvtP1_pU4YwUOrlIkZI7eplGRLOXjLcVeCa2d-q_voEF4y2Awwcu3DY14mqQ",
       "categories": [
         "swim"
       ],
       "status": "published",
-      "source": "public_channel"
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "swim",
+        "scores": {
+          "swim": 10
+        }
+      }
+    },
+    {
+      "id": 548,
+      "title": "Доброго утра,энэргии и заряда 😁",
+      "caption": "Доброго утра,энэргии и заряда 😁",
+      "date": "2026-10-13T05:45:59+00:00",
+      "url": "https://t.me/masik2977/548",
+      "thumbnail": "https://cdn4.telesco.pe/file/CtHZgK4P3FNNQAyjgaMMlsSMn0k1nGY2RdB_5zUnUZRpNEPCwei0T4JvsrRHOIze5oTm0D4ZdKSdzFmRJtac4W5ws8BTpbOB1Pf6gGzk9Y3WmyFj0HGoezoN8uKUavRt5jg4wbbmyL7SSQIZt0k-06vLFbvmgzZqtJBjVfQzpmdGtTy2SnViv7k167et3OiYapMVPPHuKaNQYMkAnzrwWwF1y0o93Xh9FlLZRqXByOu4uIQeUGO7WfJkqpRthnkE2flswWU3-rldB2qAkIgEQ4kKCAyQBTK40KAdLuviskrLFYVU8oLPsrEgPDtuCspFuf581Ncy9IMisp8CsZXFCg",
+      "categories": [
+        "path"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "local_text_similarity",
+        "primary": "path",
+        "scores": {
+          "path": 1.0
+        }
+      }
+    },
+    {
+      "id": 547,
+      "title": "Видеопубликация №547",
+      "caption": "",
+      "date": "2026-10-12T11:07:24+00:00",
+      "url": "https://t.me/masik2977/547",
+      "thumbnail": "https://cdn4.telesco.pe/file/c4J18AfhJo1jrgkzRpLgSK7W4gNpA03wxV5zQ06gEWGd8GO243jrx2EiWS7rHgVLTDKDsCdd5XFjn9kXprGfGUn7MVUqYA6ALgZAVVSORtk13va1NRROOiye2ozC2c2eruXMrzgLCtpFLGIzlP1ATtN8YVYTr7UVkC6RKH8MW0yIR3SqAS-buOFQIdjQv5QV-i6qRzzHrZ08fFOZ82PYADz0V4T8nvLHZ1UaQtnFtqMELpN6AHk2f8Ss-dhD_rWbwbb4BicLFbCQrAkq3pZxbCENl91Hcd3QSiQJF7PZjbIa5k8fCckoP3nXfGlt5drSdO9SC0xryWXoHP4Z6afJ9g",
+      "categories": [
+        "path"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "local_text_similarity",
+        "primary": "path",
+        "scores": {
+          "path": 1.0
+        }
+      }
+    },
+    {
+      "id": 546,
+      "title": "Утро понедельника вышло удивительно красивым 👍",
+      "caption": "Утро понедельника вышло удивительно красивым 👍",
+      "date": "2026-10-12T10:12:50+00:00",
+      "url": "https://t.me/masik2977/546",
+      "thumbnail": "https://cdn4.telesco.pe/file/CHchD-0QTGgwS9KqksaOkKtT0FvAHSN5vcC9hnDzeeUG9rfAVvRFNMSF-petsGYRLzA2yttsuxgrhHsHveoiV_F-7GFmbpxzDvLvaYqD-QjjqJppHq4EDYjay2E4zzCQs4iddkbCkcQvYCF3FauKuZlwUof_CkbQZZ3a5MyTYLYKDLjQKWVdUTUzdEv9-dvU_3iVYuXcncOtdSyFhui1BO4WV_mWIGokBRT8143o_dJuRdnU1RiVJQxbjQbHWeW-cO2doo9OlL8dtICLsQ43EOTM9fYJhGsDM7wCamEcALQwhYVWNBk71rCPTZo2pW4VyW3yRDlyg3yCy8FkB27qSw",
+      "categories": [
+        "path"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "local_text_similarity",
+        "primary": "path",
+        "scores": {
+          "path": 1.0
+        }
+      }
+    },
+    {
+      "id": 545,
+      "title": "Сегодня дивное воскресное,прекрасное утро 🙏",
+      "caption": "Сегодня дивное воскресное,прекрасное утро 🙏",
+      "date": "2026-10-11T06:26:56+00:00",
+      "url": "https://t.me/masik2977/545",
+      "thumbnail": "https://cdn4.telesco.pe/file/PD4Eu3ywAE0o5ObF-b-heG8Xg_QmbaAH2v2M8vXkl5uAyBhfc3r5yorsYY0rQox0RmgSCYzzvd_WqmkcHaCSDJSxB5uBDXGP1RxPQLiWMo1r4siLDna0oAEztbtRYMrNkXJvnKz3g2wgnTDwxL3Vv0aLlO5pB2rze8Fo4bNLUK0zJmhUUs12iJUFoLTH9iOdpOl7GzasndQjItOVjlFyzW51kx9fYhJxDroI6cQs031fW2-Rtwmq_wL6H1ceLtcb3Di6of8zQ7ptHa5uky5M3SWr1C3cw4yKs4vnH67K_2MZ4mYqzfFKB7KpTO4q2lbD9Bu2rahbGMPkGfYADU7-qA",
+      "categories": [
+        "path"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "path",
+        "scores": {
+          "path": 6
+        }
+      }
     },
     {
       "id": 543,
@@ -149,12 +541,20 @@
       "caption": "Сегодня бегал на городских соревнованиях 👌",
       "date": "2026-10-10T15:27:14+00:00",
       "url": "https://t.me/masik2977/543",
-      "thumbnail": "https://cdn4.telesco.pe/file/SezwLoy8CJ1UKmx7L8TaCTS4r_hHDByVjtDcy560s-fanTD--sO6uuW6We1bpHXAjzQID27u8MRn-KqtykkKe-Ri80uN6REWil45-xKWV8jsm13-iWltVsQm4I5FCpSfbrtLGLZYvuyy-ZlSVEvrxa6b6MMZjjFQBbEKovaV519lvhbFiw2-mCvK4Iv-yl2iiMgdv4WgGa5MI1AV8unYdXvwklbeoT2FDQSmPnBaKB_le2z4kwtnQkxqiifiD03LIthhsbotmGVJWjk0yyGy-nB1-kTXjr8d9y0QADf5hdXVPCAgB5grOu64rn2pyMaazcwaE19FTF3wvv6VQJUbgQ",
+      "thumbnail": "https://cdn4.telesco.pe/file/u9goJ8MgRaqX05hOyPZRrxMPo47B6NrtdVMfrSBXYgkapt-6Ggl43DpCWnHJR2SN3yfwgOdTV3vu_aW3gwhqu3i-mF7FHcOaXvJYjULbWhPwevHwPMR9mcqxBnjnVFamN7L6dMzHdJVjuHHTBhgsMV3QC5hKwCZMvD_KN9mSyUVszPR__ja3Dc37zjm-po7pwzqTt2zskteH3woRTF096ANqruYlVABHkiNuHKyNxj9kgGsoHGeZjWTGPnaHneJN-61Qtg82fQnM967SFaHLjfL8g6nO1MQxiU7soBzWbTuSXf6UrzwpM_Hcjk1n-sSFNhdKp9M2U_2Oeu41z5upbw",
       "categories": [
-        "run"
+        "path"
       ],
       "status": "published",
-      "source": "public_channel"
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "path",
+        "scores": {
+          "path": 6
+        }
+      }
     },
     {
       "id": 542,
@@ -162,12 +562,41 @@
       "caption": "Вода +9 — бодрит до мурашек! А рядом сын — и день ещё краше! ❤️ Холод по телу, а в сердце тепло, Как же прекрасно, когда нам светло! ☀️",
       "date": "2026-10-10T09:24:35+00:00",
       "url": "https://t.me/masik2977/542",
-      "thumbnail": "https://cdn4.telesco.pe/file/fLY36CdNB93sqldk2lqsKvvAC41X9D1iBahXOQ6ZX5pGnoU_f-bnBU1I89gmXwXdSegDzR80_opEcaqp2j-rULRlYpRFKIh04tel7oK7Ny_awhhmdjyEXk0nQEj_ArH4autgmO-ju3XvtiewnXXHvsACVDJ6Eu917B0699fE6X63stLOeXcWCMH_qUwvdnxi76cFeCAnQ47BSyrly0E9v0pY5XxQmDWD7QmPamAslpoK8gDWucgYmvg2LKobmmmEkoh8qDUhhypleFFgpcawCZQahlqQ1Oeh-Y8I_C4hia4e-7FDzsgujEcIIi4xQeHH5VaG2CvJB1kJWdovdOfOMQ",
+      "thumbnail": "https://cdn4.telesco.pe/file/tZRGNRfQmxe4okiJMF4lY719tSnBvgWELy7p2YB9TXTSrB0wI5tSeIzm-11jbfQTKPv8-GKJnwU-bkVds0-BWrdn7zotZh5r6baNluFY0iC-HYpOLwRYszlqPfkuI0S8T7iT22STKkg86ur6Im7RJSIh2RhcyCctpMLumxW1wdTKNwGmaRxzcW7Oh9COH4gL0RBxE3Cux98hQ0163vyOtaUROsjVLntH-WcFKZTqGV3uOneMm3wzfQUlFDHnXP-quXxTw1wO7MAc5ljbhsbGiM0gd6KpJ-I5cNs456SNIUSB5joZa0yG281Pz-LQttEbeR9M75xAczGbfYMtnXJQ-Q",
       "categories": [
         "swim"
       ],
       "status": "published",
-      "source": "public_channel"
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "swim",
+        "scores": {
+          "swim": 6
+        }
+      }
+    },
+    {
+      "id": 541,
+      "title": "Видеопубликация №541",
+      "caption": "",
+      "date": "2026-10-09T17:10:14+00:00",
+      "url": "https://t.me/masik2977/541",
+      "thumbnail": "https://cdn4.telesco.pe/file/Hm2JFf9tWCao-N9X5XnV09iE_98S6rPfDNa51mRiLjOo8A_qjv39QxoljCv4Ov6KuJp6b8opqFq83eQM6e0NCUhoXjfuqL37rikWDIz55UP3tD9_Z8FUdm3ePV1tHxjsyt3Ul-TW9FsQeobXWL59MJwVBgTr7qlA_W8hsW4zLZvLhb3YBW261PjMPqiJTEeEydG1koPspKF_XhXnlyWSFLu48sR5yjGMeUIzPvDXYiowEAVvrXRDf91jk0Z0plf-hbTTEJvY0POPIBqeNpx5OFUPMU0El_9uldNkRzHXPnlCMUecQFnKezwZbq6lrAtUHuNWde1_YkvYZqyEYo7BXA",
+      "categories": [
+        "path"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "local_text_similarity",
+        "primary": "path",
+        "scores": {
+          "path": 1.0
+        }
+      }
     },
     {
       "id": 540,
@@ -175,12 +604,20 @@
       "caption": "Туман над Волгой, и пятница играет — Вода бодрит, а драйв переполняет!",
       "date": "2026-10-09T10:59:23+00:00",
       "url": "https://t.me/masik2977/540",
-      "thumbnail": "https://cdn4.telesco.pe/file/IsTqZipZ3qCrqmzdIEtaUdP1Z76mCkGlL48ydjE0IqFtgsgVUE0szJQLwGkMn2HK4OEn9YEwAUWpYh8YM5pkC4jMgenersA2C7JNwygzGYXuT4KoB2ujKFyrRTOIlAbFstkhYICHZ1_Qqd0CvglTC3nuWOPG3HgWhILiULIKAgXkxWKps-Gk6qUlLPYO80l0-UW4P-dzSbbopYgk2kCmBUqJeSGS5W3-2smtTaPJu4ZqrAZ_R-kvcEOMxxm1i3mWA0Dm9R6et89bCgPpreel7wceCd0kpBR5iEoVaZQiaQ2SNpqI8--XBo6oxFIqlmA_Rby_2ToPSS6bCmZ2K6fh9g",
+      "thumbnail": "https://cdn4.telesco.pe/file/pXixQ6mME0EROTVfsL047M7__oUZepRQ3mI9QLMduHuYhV1E99mkAKC8Nx4ErLh-sYh7pfXI6rjH8XvDoHvzo0putFUPpZj6pkodU1ateOH1AHxhgMhsL_GcnqE1Tv7oCz83UQH-kmsHnbqGsML-UYkHs_rEtezut0WLh4NTobqH0M8dCnOUvqNLuVXLgnUksvyOfI2KcqDunnyjSW6iqOQcTZsG-7MLpuzM74lCiD-fcOt2dNqYQFp9KWYK7UKKhOeuSc8x_331UJ-FHI_6iBGIgD9HhZEjRdFgdMn5IeiGKl4bLc_l9G3_iDxsqedV45DWaHoJ6aCx5hb6C6oYBg",
       "categories": [
         "swim"
       ],
       "status": "published",
-      "source": "public_channel"
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "swim",
+        "scores": {
+          "swim": 16
+        }
+      }
     },
     {
       "id": 539,
@@ -188,12 +625,42 @@
       "caption": "Бегу, а солнце обнимает — И счастье душу наполняет!",
       "date": "2026-10-09T05:05:57+00:00",
       "url": "https://t.me/masik2977/539",
-      "thumbnail": "https://cdn4.telesco.pe/file/bEs1lh4-8Q9jVEwC6W85WCPYW5lRVUlzizlxukS8i2XVFTT1RtG16eqeRmuFrqn5ll1A3WfnsxPy-2WdrUPxNw-RrrzlP_lk0BhhUv2Rzt0M7Y4Eyjq62lFz-1Jbrz7VgFcU1GpwMs7Gkd1NWhvW-ndsCRcJ70PTDeLS4W5pncW3nJOk7wIZVV3slpvjlM-NjjF6FbJfapXE7h9eWSYOiKP05i1IdfbQ53mvhmcgotKdHx576LyqQIP5DVzRqj-mw8E5y62uXCLTz1bn_A3LCErIKECrB9r-yoULUFu4rEbF7Di60bxH3DhzWqDXn9l0HMo_wFl6DmXqtW3DUjUBdw",
+      "thumbnail": "https://cdn4.telesco.pe/file/YVwrZJI3Cj0y4MYJg2PxsQxkvs2m4DOumZUEqyvCza-FTTK9-1ScQB1Wl3Ltg5QhBocZzNr1s54spibpTws-cytWOrjrAVaeLHhSfxwenzGf_w69wB8wy20Nm8EawhYSPsJcOPVbQ-dl-fKN_5KZOH_9wMccqV9X6CCe7GP8f4xujgQxh5HcjxcfNROT7WMPHxV8yfZFbCmQxc9-eHhmLJrB1Pd5A-8CzRGlbLd-pVjPWOJaC27SOTSpiOL5qi9xwTRcjXwRi54--p0MO1hDLUg1b21jiqHSk60dgaiuZFASYZXsFenlZdrjsfSWwYrGQA8W7HlTKK5iPMPhZ5jMZw",
       "categories": [
         "run"
       ],
       "status": "published",
-      "source": "public_channel"
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "run",
+        "scores": {
+          "run": 10,
+          "philosophy": 8
+        }
+      }
+    },
+    {
+      "id": 538,
+      "title": "Железо скрипит, но спина не сдаётся, С каждым повтором характер куётся! 💪 🔥",
+      "caption": "Железо скрипит, но спина не сдаётся, С каждым повтором характер куётся! 💪 🔥",
+      "date": "2026-10-08T16:44:10+00:00",
+      "url": "https://t.me/masik2977/538",
+      "thumbnail": "https://cdn4.telesco.pe/file/BVvLFxFxc57Q8oGy9ljV9R8Hjex-Ika6MmSPTcZCnKK0VWpeco6uXPZJek1NwS9zrvd3pDX1sFk_IPYopYfkTkdmSNrQI8_CkVusfjPB17gu_FUI-8ET6no45UfO94acQm7d7nBEgztsEisIkV_8r8YM6FfsgMAx_rYBT1_Vu_8YDmMpkAZ3pX-Yc-c6NGhge8HUVQ2iPkBf2FK3QxW1uAV9puCOjDuKnZ0pj4hZTJJEp3YX7BLF7-dO7hE-fwbEYaP_PMJW60kQVRcWo5-jViY_6LUgkHBJxepX1yJncKPGVyAqe-7XxsXQ7E0Y-ucsKnHrx-MXkW9daCXamMeK3A",
+      "categories": [
+        "path"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "local_text_similarity",
+        "primary": "path",
+        "scores": {
+          "path": 1.0
+        }
+      }
     },
     {
       "id": 537,
@@ -201,12 +668,41 @@
       "caption": "Сын и я, вода и свет — Вот оно, счастье, вот ответ.",
       "date": "2026-10-08T10:19:54+00:00",
       "url": "https://t.me/masik2977/537",
-      "thumbnail": "https://cdn4.telesco.pe/file/SBCzGnTffV0ZQvskAGDUdDuf7Jns2OB4y3y4uyzBmEstnVnFYaidd8N8BsEKRJtwr5U7GNKqpWmjd3yoF80Dj8Ev55dkfIzECXlPO--lg1UhAWNX3IBcf0FFDgdGipfgBqoFr9_zarI7-qSphdnnACDw-vuT2YhJ2YBd6XHZO6lcmmVU6cVhxWUxnwyg2QRkqq_5zJGvTjQzN4OOqtQWm5Dn3agddZpnxnm1FC2Bq5WzU2oJidBeWrvE6tsKEkCkA-xQXFz9CxJjxnl1LxpUM52CU_-PYmVapln09q7wPEfJUsxy28ElUs7eXMZ_z4kcyjguXx66Nq0H3BSstNcAgg",
+      "thumbnail": "https://cdn4.telesco.pe/file/SirVUTdRatfnZYbdsyDyOIxCyfXREi8W2x3tMncr-yTZGWrara9-gtnEdSapTgjb2YsbEQRvoxs2Zc_vdQqH6MQ_p9fl_TFpt8kA7XHT5-0KZgnY-cY0tmzeqUkY_dAJELUQ9WzjqQfRqYwBNg16exWdUJKoKLONbxem8hsDa88S6ek01oGpBltE_SnL9X4HXRVyW3MdEqbhI_u2nKCww15ByHlnIrC9iQJZWCY5CPzJXEj_fU651f8K2fLshVNxFDvHJJeW4YfBlMcAJV8l0FqvySa7C800rVnwoJEXXmTNdF5ay58obK1n9wGcK2jeIdVwJQf-DC5VBUIY_dk8NA",
       "categories": [
         "swim"
       ],
       "status": "published",
-      "source": "public_channel"
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "swim",
+        "scores": {
+          "swim": 6
+        }
+      }
+    },
+    {
+      "id": 536,
+      "title": "Видеопубликация №536",
+      "caption": "",
+      "date": "2026-10-08T04:50:44+00:00",
+      "url": "https://t.me/masik2977/536",
+      "thumbnail": "https://cdn4.telesco.pe/file/ahl2dtW9L9pfPmGfNggVgks75UZQkRjh4kzCJZ5IyFZvHqKOsZ31gX_z5v_LUOtXKQ6V93AATObRtJ9JSxCO01DN3MH6hGdmMTN0v8EsgPcWky_yFbal4ZjjvRlM5plYI7CFYfkrb3ThjDco9fbQcLulUyBBRb2tjGPNjwKyQiG9Q3FXKj7yB29rEhshDAmVYjQL5u0W66RGpA1_8MX-g7qG7sf92tC5CDUGNU0wgpf-l_y-HhKOfdDOW72O78bATiRzc_-ov1gb2-jYmky_vv40jghMpqjAmCTZnaKskHspFoXpQDKJz9MDObpl2_4pG75Pna6gTh9BKrkwWpakBQ",
+      "categories": [
+        "path"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "local_text_similarity",
+        "primary": "path",
+        "scores": {
+          "path": 1.0
+        }
+      }
     },
     {
       "id": 533,
@@ -214,12 +710,21 @@
       "caption": "В воде утром энэргией зарядился 👍 в спортзале выложился",
       "date": "2026-10-07T09:31:52+00:00",
       "url": "https://t.me/masik2977/533",
-      "thumbnail": "https://cdn4.telesco.pe/file/OPljKed9wRmBGkympmaPizfIQHXIWMpCsummALBy8KhAokt1RCYEfoei9ou41piBQWohIB6sjDA7ufw6KAUfhiJ7REsFPTsr7GvBPnAfbV0GGmk3MX5OtjuOCYQqFNfq0P9e5Smq9QTjLwg692yhM0xOfOcSdF4f9_p_9Vr_eNZioUzTJvkklws0rRImOcd67_ZI_BjRasof-zfKu2A0dgMYyrJyiMOXUWoDVdn2LsFZJY-zJY8vlVxHjy1haRV-pjJPeUE1Caq_Yrmc60H9WpjsOe4IRevhMzDl4mlOidNciBcUhhGhO4ZCaq6GegohtReH_xVJ6aoyAw3fzd-v6A",
+      "thumbnail": "https://cdn4.telesco.pe/file/dqfgk9kWW4MWQj8x7bj6LMeDcvhwL74cBLP2do6SvtT_r_buQcM21caUZlIbOlL_-gKn9RemnPkv6e_RwU7N6qq985rjNp8Dprht1dVrC4K6_kJu0ob6AosNKcBBnMYNxMPCOPFhKHSXUBVrvZwqqOuildNlm1DDMtgHDVJZNJ-qnsChZgRtdLX6ZWzdCeVDu7uPQFT7MLMAkzeIPpEDJfM5v3cX_GFQCOoo3cGxh1nv_g0FyNLEgfbUJvg3yaaIxrGca0f5VB13_Z86_IarloMzAOxPQoFtBfenjchAcmEZ568Xt2rQXGkXurYV9eQtbm9W6E1sJZ02ejGiOfx36w",
       "categories": [
-        "swim"
+        "train"
       ],
       "status": "published",
-      "source": "public_channel"
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "train",
+        "scores": {
+          "swim": 6,
+          "train": 10
+        }
+      }
     },
     {
       "id": 532,
@@ -227,12 +732,20 @@
       "caption": "Утро встречаю — энергией заряжаюсь. Бег, улыбка, настрой — и день уже мой. ☀️ 💪",
       "date": "2026-10-07T04:56:05+00:00",
       "url": "https://t.me/masik2977/532",
-      "thumbnail": "https://cdn4.telesco.pe/file/JDswF2dw35ffcYhF57IyvE3CK0ohQnutHPxoHBmVA2BX04coAuggaWpQ3iJe5Bcvsvnwua4DZpVPsRu68wyt5kVMSu05pw2YVQ1rZdBLWrpQ_3N1nTmsD9kHHypq9Fw-ysZamDNHaVkPnDT5akCGQPrG9-MlgXuxj8u9wZuE5eMvN-A6P82JhSahzNZPLfMQRq6PGV7dSZsTsOE8ua7dNUSm8HnPORH4ARt5Yo_voxx50_x2tB_Dy4_wrB4yiIvQ3fgHBWUCALRDQHnoXGsT69snVRsk9nnQmSI-fH05IUAhZ22_S976J7q3qYOnyAqjAVJnRGkq86ZObhWpXLivHQ",
+      "thumbnail": "https://cdn4.telesco.pe/file/VlV0xiD_x_WmCD1seLZmdeXSCsv-oRjObzxxkQxlusDjAgKbDLn1RBaXc6QBEhgGi5Hpd1_KZMQEgdj9TlA1YDYaM8rwIwyeDbDfSRtI4KaqMMyIf6v8egNCBc94RaD30GoYhIYgmmjwWp0Ts_7gT-uox3Gk3tz_63E1N-nJf1gNreCz_AX6kqEvCPU2Bil7G--JtmnH4SJoI59YkV4bTnhc8zhl01KxfjFO0Gl085m8dLy2zVfY6tvY_EyD5R5z7b2qYQjXvcH-FUZqTdRW7Fc3azR-uhiU03sF73SDzwTZnSaySOgB6gBAS8Z7VkiSQ-_iTFk3b-IDp1x0XVSE0A",
       "categories": [
         "run"
       ],
       "status": "published",
-      "source": "public_channel"
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "run",
+        "scores": {
+          "run": 10
+        }
+      }
     },
     {
       "id": 531,
@@ -245,7 +758,15 @@
         "swim"
       ],
       "status": "published",
-      "source": "public_channel"
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "swim",
+        "scores": {
+          "swim": 6
+        }
+      }
     },
     {
       "id": 530,
@@ -258,7 +779,79 @@
         "swim"
       ],
       "status": "published",
-      "source": "public_channel"
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "swim",
+        "scores": {
+          "swim": 10,
+          "path": 6
+        }
+      }
+    },
+    {
+      "id": 529,
+      "title": "Сын решил заболеть) Но папа сказал ныряй 😜",
+      "caption": "Сын решил заболеть) Но папа сказал ныряй 😜",
+      "date": "2026-10-05T18:53:52+00:00",
+      "url": "https://t.me/masik2977/529",
+      "thumbnail": "https://cdn4.telesco.pe/file/TYoUYv6nYtpDCt-DhoceyrYAfvWbf9gUg0i96p3nlGnJ5uRUXuSoQIBpeZlCKrlipVyxcGxC5GPPVjYPBW2qX3hsRWc-p__wLonx63gHFN_h5hxU2Gde1FKdDFkXUdh46MacXf-a-CquYljpN1fW8FnM69SmHBUcG3jbKaWU1E_81E71Xu9O1lCyNl8pCCg2KokHCP01v2QuDJGz4Xia0LDQ7UqLjzjpTlpKPRIaecd8Aa2J4cNvUzkW_DcM3CexJohQ16aoNVtjgupJccf5SY2IaI7Ui4Lh_CWSb5DvmjWgYi6xQXK-2V27nOhHnULnAlaH8MYEKtS9DEAasw3Ayw",
+      "categories": [
+        "swim"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "swim",
+        "scores": {
+          "swim": 10
+        }
+      }
+    },
+    {
+      "id": 528,
+      "title": "Октябрь, спортзал — и улыбка со мной. Качаю бицуху, доволен собой! 💪",
+      "caption": "Октябрь, спортзал — и улыбка со мной. Качаю бицуху, доволен собой! 💪",
+      "date": "2026-10-05T16:29:11+00:00",
+      "url": "https://t.me/masik2977/528",
+      "thumbnail": "https://cdn4.telesco.pe/file/XE1cvxEpYg2sDpOQ1M_6SmocytjFg3HByVVz8bxJcGbCE2wOUJzPMbq3f1y9W-PA9Mzni_xfv8gGicgVso4h5ulZGRIfwh-fNKdOQINEkkSVfd15wGZnWv9Ee-ZJr-tSN7ECJjwXMUhpTmW_knW_rTsbGxIy8JGCnOtw7yGjKb6pxe0bjWV4eDFQnBC6xpBG-I7Fkom6j7BiOFHsR4rqMyfHXSbE0ytORr5QaKvgw-6fJvoBziIsZPbfrKRFfuSlVfLgxyn2AZIiCxnOTsddhTEGyBj_wv81ipguRdBWrjgUQQmlvt5X8umpdrNizL8KuMxvzJ5spAvHwEDEdEfabA",
+      "categories": [
+        "train"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "train",
+        "scores": {
+          "train": 10
+        }
+      }
+    },
+    {
+      "id": 527,
+      "title": "Прохлада бодрит, над рекой свежий свет — понедельник встречаем с улыбкой в ответ.",
+      "caption": "Прохлада бодрит, над рекой свежий свет — понедельник встречаем с улыбкой в ответ.",
+      "date": "2026-10-05T05:12:56+00:00",
+      "url": "https://t.me/masik2977/527",
+      "thumbnail": "https://cdn4.telesco.pe/file/fhzODZ3Y_V65uj7fknY71CZj9qpR86cT2Lvzs7rFFF6A3IlzP3ZYrQ2ALtqppDRETbxbpImZF8kBHZWNag86jTfU--_ijkon8XZuCfpICYvB3qg2b1P7FktS7jiHRNlZO-8ewc1naBhvwxXxr1rgMkNrPcYt1CzNa8pi4dQKPbYkp-IsKwQv836fjIOKWusler9bxOdQAmPLYehfU-mX4BiQVEIZv0kYpvjFc00yqhBcN1oeVuN9QdYS9y6hJH71GloMUjIxV73yp4ouuT73WjoMINeI2lM36FslLtScyLhZ0RIVlerYCvtiuQ553n8CHqlsAdSf5oHOrDX-1u3ARw",
+      "categories": [
+        "path"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "general_channel_context",
+        "primary": "path",
+        "scores": {
+          "path": 1
+        }
+      }
     },
     {
       "id": 526,
@@ -271,7 +864,36 @@
         "swim"
       ],
       "status": "published",
-      "source": "public_channel"
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "swim",
+        "scores": {
+          "swim": 19
+        }
+      }
+    },
+    {
+      "id": 522,
+      "title": "Собрал в кучу свои последние жидкие дни 😊 Почти 2 месяца в таком ритме питаюсь 10 ем потом 5 без еды ,в этот раз кушал сок 😜 хочу даже при этом набрать 5 кг,эксперементирую с собой",
+      "caption": "Собрал в кучу свои последние жидкие дни 😊 Почти 2 месяца в таком ритме питаюсь 10 ем потом 5 без еды ,в этот раз кушал сок 😜 хочу даже при этом набрать 5 кг,эксперементирую с собой ,но главное потому что слушаю свое тело , без фанатизма ,а потому что по другому не могу и мне это нравится 👍",
+      "date": "2026-10-04T01:35:05+00:00",
+      "url": "https://t.me/masik2977/522",
+      "thumbnail": "https://cdn4.telesco.pe/file/ISk1OlEBxOYr095B7GJLY7s3Dh2-hSHMcmIUgh73h1O5x11DQILhvjOEZkpG4SmRiy6lTZFf-UQTzyeAarh94nv0pHFshtOyLELB6Xz105D48uNpux_IhUGeeJDobMF3Wo4kCZIowpeD35vbElhQ43IaBzYWBaCbwYBV8BYTVGbihl62V6v4_hIcuwg4L-eU6EVc8TExe7Hp0Xeq9HxM3NV9_2zb3szGcaEmmoig_yzMczz6J-L6ksl94oOb2_Bg3GgoaNd2PSmqIT-19S6urjLxn2Pa5hnxIOh7mmNAzKFCFbfRoiB2EFrFsl2eS5OlYCzEliEN6EIaAGG89dgx6w",
+      "categories": [
+        "path"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "general_channel_context",
+        "primary": "path",
+        "scores": {
+          "path": 1
+        }
+      }
     },
     {
       "id": 521,
@@ -284,7 +906,16 @@
         "swim"
       ],
       "status": "published",
-      "source": "public_channel"
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "swim",
+        "scores": {
+          "swim": 6,
+          "path": 6
+        }
+      }
     },
     {
       "id": 520,
@@ -297,7 +928,15 @@
         "swim"
       ],
       "status": "published",
-      "source": "public_channel"
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "swim",
+        "scores": {
+          "swim": 16
+        }
+      }
     },
     {
       "id": 519,
@@ -310,7 +949,37 @@
         "swim"
       ],
       "status": "published",
-      "source": "public_channel"
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "swim",
+        "scores": {
+          "swim": 15
+        }
+      }
+    },
+    {
+      "id": 518,
+      "title": "Почему я бегаю? как ем?зачем иногда не ем и при чём тут энергия. Не про спорт — про жизнь.",
+      "caption": "Почему я бегаю? как ем?зачем иногда не ем и при чём тут энергия. Не про спорт — про жизнь.",
+      "date": "2026-10-01T22:23:55+00:00",
+      "url": "https://t.me/masik2977/518",
+      "thumbnail": "https://cdn4.telesco.pe/file/Xt-XRWQhXSz2P3ddzwlkrWaos-GV4iDWVZNtM7urLz9sX1c7aALWqDUhMAsKeFuiasfdg0LHepVRtMBJpf7p7kmJQ-8_8O50D9EfdbRMKPH5s7TITfi30RXwh5aGwHXwSDw5tmryyh6FsKFHBhNkE631fCvtRDfdU6BIXovNn1llhenN1SNWqTQkdxI5V08I2vJniwdqXSgzVH5i723ol6wU35dZih3kOfPDWTLNf0ysY8Op1uCvTlo862zTU13doSb2CzDWUsB8k9Xs0ZFfhq_N6xMk7gjCanOBpvcbHqfapanX0OKRR1_WSRYrtFTBqOODXGCk_Dm3PiY3R8jitQ",
+      "categories": [
+        "run"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "run",
+        "scores": {
+          "run": 10,
+          "philosophy": 8
+        }
+      }
     },
     {
       "id": 517,
@@ -323,7 +992,36 @@
         "swim"
       ],
       "status": "published",
-      "source": "public_channel"
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "swim",
+        "scores": {
+          "swim": 6
+        }
+      }
+    },
+    {
+      "id": 516,
+      "title": "С 1 Октября 😁 Пока город спит — воин уже бежит 😁 Хорошего настроения 🤟",
+      "caption": "С 1 Октября 😁 Пока город спит — воин уже бежит 😁 Хорошего настроения 🤟",
+      "date": "2026-10-01T05:44:51+00:00",
+      "url": "https://t.me/masik2977/516",
+      "thumbnail": "https://cdn4.telesco.pe/file/XwL-vTh1Wfn4-6-qs_32G2_84uXTNo5i5tqfCzVgiNqPkBeVzKP2rnauPqUKPAFpVqHu4tm6_sXuyb8KCy3iU-UxxOyVHiAXuWZwYeDcJJGqql1KAIb91cUaLbUMj3LTz_c_pJYKgbGVRA34KKBw3yMzuuCvDunBlcdcCU4NEVrrQT7Q1F-IIAtZ_xts2d4lEo2zTqVXhhXbdUm7V6wEe6-G7o4_FP2lTOTDrq5xTFTQapBFO0f8_nDYOi8qqBsjiUL4FJHmrY7YP3mPzqVZObpJWGWfmban1vjuYHZMLnNBAmFrLy_wDzTzKSgWW-ixzjhls6meVbDWll_J-b7dGQ",
+      "categories": [
+        "path"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "general_channel_context",
+        "primary": "path",
+        "scores": {
+          "path": 1
+        }
+      }
     },
     {
       "id": 515,
@@ -336,7 +1034,36 @@
         "swim"
       ],
       "status": "published",
-      "source": "public_channel"
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "swim",
+        "scores": {
+          "swim": 6
+        }
+      }
+    },
+    {
+      "id": 514,
+      "title": "Доброе утро 🙏 Среда,прекрасное утро и хорошее настроение",
+      "caption": "Доброе утро 🙏 Среда,прекрасное утро и хорошее настроение",
+      "date": "2026-09-30T05:16:08+00:00",
+      "url": "https://t.me/masik2977/514",
+      "thumbnail": "https://cdn4.telesco.pe/file/VfVI85MRdkTblzb7GbHIJ7HOTeJG2EM0X0VFFkP4EEKeD3PiyfHqWq3KiyEL-w4XdIA7ohYr5ra7rVaPbtBGSoYPrl70_7KMRgvBlv4jm5H9wKupIzWpBIxkjETu69AHUJ6qM2nIH7lMYdKe15eUdqbkZv7IXnvYQYzZtdOxBYYjhsuqCcpiKjYrDzd5GjIP5KpxwE7-qcT-MwUPivHa7yPw01Hd7spBLjA1JABU_69If6KlGYhfQjkCcKrY8yuvQoAYKUWLU7_EA9QcW_5vuvT4KYVUKY_0GQTiRt3TLy8z8VPyWBADbkDaHa9cOh37ukP7o-ZQxD7mQJTrJhdTrQ",
+      "categories": [
+        "swim"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "local_text_similarity",
+        "primary": "swim",
+        "scores": {
+          "swim": 0.235
+        }
+      }
     },
     {
       "id": 513,
@@ -349,7 +1076,57 @@
         "run"
       ],
       "status": "published",
-      "source": "public_channel"
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "run",
+        "scores": {
+          "run": 10
+        }
+      }
+    },
+    {
+      "id": 511,
+      "title": "Просыпаемся Заряжаемся 😊",
+      "caption": "Просыпаемся Заряжаемся 😊",
+      "date": "2026-09-29T05:20:39+00:00",
+      "url": "https://t.me/masik2977/511",
+      "thumbnail": "https://cdn4.telesco.pe/file/nCQMSQegMp7BJIeRMP2f8_Oc0c70iB1mwdessLEbq0H0nBiiHyTFbKubkL2VqSzqofv_jtwHa08mJ3sy2rPo1RuCbv45necRUimNUC6scn6a-bXXLRoTXSzcnstB_1j_S_sH4eJvJPU4tce9PMDLVL_erhjbqXwheh1ulIn09cyiBFdiLnQo7H4qPO021qFQQYLExTbKiHcY4UmSN8LJMS5ZFFd_As-EMUw60IPnsqmFQxB-vXSNVLIszbiIQ4c4PmjmUykP9klHV5eVVxP7b1NplJMaQ5Y1C3x5nLUsw2tEGEnoUU9cJut2Uy-zcXIVyrioqkk84T0E1Xa4shhvKg",
+      "categories": [
+        "run"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "local_text_similarity",
+        "primary": "run",
+        "scores": {
+          "run": 0.167
+        }
+      }
+    },
+    {
+      "id": 510,
+      "title": "Сутки уже на жидком питании)все что нужно организму есть в соках и травяном чае 😜",
+      "caption": "Сутки уже на жидком питании)все что нужно организму есть в соках и травяном чае 😜",
+      "date": "2026-09-28T13:03:25+00:00",
+      "url": "https://t.me/masik2977/510",
+      "thumbnail": "https://cdn4.telesco.pe/file/tUW79ukmjtpIzczqfysfckeluAVK7vJJvHEWSBRDmeXrjvsK0Y4UZkdMmSjujVgmBdTbz7GUdBxvtUhJTM3ryz1KjawSyn2-GJTmKDom2aZnMP5BGZlbLheLAauIUvnYaP3RW_MyfV4IZfA4ktfbUplm-y1Y46m4wOSqW3KoKhp0b8r5Xb2-DCcK7xXli64bnbU-mM2BAN70nzHQxuVxM82cRD-rUNg4j1Dfp5QNwR9tSNU50EElUzxxe3v6vEXlyG-E9rdTndubXjem6tSBBUBFZMoG7TyfITQhfiUA2g6Xy-fN227UfbgFaw9NQzs5AimyA6xaev5Es5TlbiWEDg",
+      "categories": [
+        "path"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "general_channel_context",
+        "primary": "path",
+        "scores": {
+          "path": 1
+        }
+      }
     },
     {
       "id": 509,
@@ -359,10 +1136,61 @@
       "url": "https://t.me/masik2977/509",
       "thumbnail": "https://cdn4.telesco.pe/file/OWxNG1mHFNzgNmLeCo_A3F_FDa9ymAk1hfKcuFr0Qs0ZourBEgHlnjAoBbuJ6POjCsAOx0FVU4oFpaASc45jF2mtmCXmtbK4iCmig9-7EnNL0OpQKmcG63haxGErew8Ney-IuNKIUJuJFsad3RrqPtt7lWHIpl6fcburvrRgNSr_WkiEDsroX1HrZpwjJvhyaW5WJ2HLWqzXPx8XFkNMiBhNTOOJrwT6coyIljmCbatGOn-nINWQf4gwZMBpkGuGJYaWfjMr8J1TDYJc56G-8GTaFj9P0WhnQoQ8WjXK8dLtHDVZnFQmhHYSOaDi65dqnjsw6YAbSpVEf8o9aMHlRw",
       "categories": [
+        "philosophy",
         "path"
       ],
       "status": "published",
-      "source": "public_channel"
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "philosophy",
+        "scores": {
+          "philosophy": 12
+        }
+      }
+    },
+    {
+      "id": 508,
+      "title": "Понедельник день тяжолый 😁 Но не для меня",
+      "caption": "Понедельник день тяжолый 😁 Но не для меня",
+      "date": "2026-09-28T04:58:21+00:00",
+      "url": "https://t.me/masik2977/508",
+      "thumbnail": "https://cdn4.telesco.pe/file/HILMmqBBQ-fJWjrLANwEbwNKrF7VgsPmfJyIGgcUaxTMcKnzGk1t2fUEqymHEJbS5-MTL9tSReMPN6N8qkJpJ0bTwDYwxqSAgFc1brOF-oWaN6PiJvi738F0C354ot95FlMPmrZz4RaRIbRpq5zprwU0Bbcte-SPBU06SQKDPMAfIxLt-iLXaYf3-9s18yiePIMuHn8V6E-7rWDGV9ADjP0Qzsmala-9Z96HjXp_EEQVBUwiLfcxUI2GjAKxCD63cpLs1tZCMCAU9ukviiL8DS6JxEKFkJMN4swDm1EYPfRtlCR0Y8jRcXLsG-onMAQ1367GqQQvEqpFCKT-eW785g",
+      "categories": [
+        "path"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "local_text_similarity",
+        "primary": "path",
+        "scores": {
+          "path": 0.167
+        }
+      }
+    },
+    {
+      "id": 507,
+      "title": "Природа приподнесла подарочек 😁 Волны меня просто качали и убаюкивали 😝",
+      "caption": "Природа приподнесла подарочек 😁 Волны меня просто качали и убаюкивали 😝",
+      "date": "2026-09-27T07:13:18+00:00",
+      "url": "https://t.me/masik2977/507",
+      "thumbnail": "https://cdn4.telesco.pe/file/crW5JzjWUfsPOmRI3xlNjHElcIEiyOhiTI-AlhXJGz743c3Fj9kDvxvlznfv4RaV0m_YRe6qJeLWIlhyWdflDXhPUzc4mjRRnkup3WJcT6yd22WYnnP9w5prfZhXK0J3X2pEJqbFTZHZBZf8p9F5j1isZVGrtmACqIzQG-W_LpSnlc9rHsWEmchVDOJBXE_FaJ2O2hxWoeOO6r9QGG58EOOBn8zweB_XwxlCKXlENzk95EO6cpqouR6WEYPvZN0GIv6mQOFUJitMUSNnSpJofVH7C7xVNzaMr15Fa4BWyoOxJqxZWQXueV4e8iuspEaOEyTOA2G_bC6qBOi89Q6uew",
+      "categories": [
+        "path"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "path",
+        "scores": {
+          "path": 6
+        }
+      }
     },
     {
       "id": 506,
@@ -372,10 +1200,104 @@
       "url": "https://t.me/masik2977/506",
       "thumbnail": "https://cdn4.telesco.pe/file/e-4YXyckWvWqHtsWmNpK8r-DV8va8qndTEiAAfMH2_uv91yv5cM_4n-yTF92wP3fTGCm20uBJO9lne3SHWZeMKF8aT_4oDVq8Pez3BTFknenSP9Fr_AsqaF-qACZSp-UpjcTeppHp--8Q63zjUbTlVqRbuWu51k_Nj-y2_tXxftgU-oa8zKSHQU967PpZ4MaYKPkk1zMhsrphszeFmjlnKCpOx5AH6MAPGHq6JCmHedZvw9hP7ouk9OD-n5ys_eQIjTOoPIgXDKm2SJrp2Ayga8i6AShxSNyazHF73IY1ECbdKwAU28YXQjiGBMkhJcPnDc2QCkeGsbwnL8q7ItGMw",
       "categories": [
+        "philosophy",
+        "path"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "philosophy",
+        "scores": {
+          "swim": 6,
+          "philosophy": 8
+        }
+      }
+    },
+    {
+      "id": 505,
+      "title": "Пятница не время расслабляться 😜 а хорошо закончить неделю 👍",
+      "caption": "Пятница не время расслабляться 😜 а хорошо закончить неделю 👍",
+      "date": "2026-09-25T12:32:20+00:00",
+      "url": "https://t.me/masik2977/505",
+      "thumbnail": "https://cdn4.telesco.pe/file/WaBxU8uy-RiXZ_Hh9QxBlLPbWNyZmQ8lR9Th6-y2DUwUuOsNqPnNttpFLjRLzSha4nhm99aOuaodbKBkGzvHJCy8GFvHXplOZiO2jOTYZ55IaxkXo7tjd-D9m0EEFB4IT0oRsp8epyvY1je3_6aBFxaJiImaN77HsU-BH_cP6C3PWJnOkdC0aVhLAicAfZmtP9HbLOup2uP-wpHWvrUpgX_EU-UzgJvmFlnTFqLRV38vtGofXkQhsC8gfAKFWUT8OWxmnPx0ZOSC8hL4pCYQrnyPy_3mtGZJIG4xkmPdoLS-DpumBAVYov5cJnH67YOrY39VTYCu4nlq7O5ZCDViXw",
+      "categories": [
+        "path"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "local_text_similarity",
+        "primary": "path",
+        "scores": {
+          "path": 0.25
+        }
+      }
+    },
+    {
+      "id": 504,
+      "title": "Доброй пятницы 😁 энэргии,настроения и легкого дня 🙏 🙏 🙏",
+      "caption": "Доброй пятницы 😁 энэргии,настроения и легкого дня 🙏 🙏 🙏",
+      "date": "2026-09-25T04:47:57+00:00",
+      "url": "https://t.me/masik2977/504",
+      "thumbnail": "https://cdn4.telesco.pe/file/X-obgjEFQPn2yCv5QylfSZ9oQHsQwpDwtfAyP-eXy-RirIXV7uZ4G_Oh1aF0c2XP6_UHyKZ9IP9axsZqKvg9JIlDP7e423vEm_mysYEsN91DAu1lM_PmBnazcc5DiGbSMNW8-s8IyWcXfs6JDoAf2fxAN0viJ9RYcde52ilbVNTgxWlRsoFgi01mhpACsz2wRqFM2FrrWKw3vq72EQr7yRjCrPiPkD-PnE3gpJU-7gzyf0L4m4qV22RGJYgiJ9Yyftd-g50wi18Ic2KE6b8kLunazL4G9obHs6c9GX-TNvr2LtX6cSwPx8leoATuET7qes8GT8MmgL5DkgEbfObEPg",
+      "categories": [
+        "path"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "local_text_similarity",
+        "primary": "path",
+        "scores": {
+          "path": 0.25
+        }
+      }
+    },
+    {
+      "id": 503,
+      "title": "Доброе утро Прекрасного Четверга и просто хорошего настроения 🙏",
+      "caption": "Доброе утро Прекрасного Четверга и просто хорошего настроения 🙏",
+      "date": "2026-09-24T05:17:56+00:00",
+      "url": "https://t.me/masik2977/503",
+      "thumbnail": "https://cdn4.telesco.pe/file/tkdz7Y4W0JivSvO_sCmpSwhvKPMygL_iGnyHAtGRvoWUoPlExBJ-kOWZMTbE1OBaoaU3COveh4WT5Tbs3YtsWOXSNf1CXz8jTf_eXv28dIFDVTQC74PYYSkDpQnHZeFPaPzJmHdqXnyvG1bKxnJiFjg70XmAdFD4qCRvytXzJcoxVE-N1Qo1Yc5VoDwbZOZ-wGqjrsM42eFWcs33dmCOUUUIG3KZccf6DVzY7y_5HteP9AKPSGW1rgMui-rr-LUdoE2yGIrihQhfNp1TPX_TiyWd2wM7agMG8QbSoDIIGIwdsXuwtXTGBwFmvzMJNidJl-bIKoSbJYTNFYRsdNj9yA",
+      "categories": [
         "swim"
       ],
       "status": "published",
-      "source": "public_channel"
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "local_text_similarity",
+        "primary": "swim",
+        "scores": {
+          "swim": 0.222
+        }
+      }
+    },
+    {
+      "id": 502,
+      "title": "Плечики забил хорошо 👍 когда еш все таки сил побольше хватает на силовые 😜",
+      "caption": "Плечики забил хорошо 👍 когда еш все таки сил побольше хватает на силовые 😜",
+      "date": "2026-09-23T15:44:26+00:00",
+      "url": "https://t.me/masik2977/502",
+      "thumbnail": "https://cdn4.telesco.pe/file/Wo7D3s2H_6lP6Vzj9mW_mj4AtFt-v202wvBXEFDAfRLb2NYB6Ydeu3sbQmBhemHYhphJG-NzqASOfF1uLzrYbfNtReHDhaEJA-lArNKySc6eL7FytpXTAfAgJp98g-QkwnrilpLAfYOb4YrUuV8fuaJn6D-TSQyzn8_YwP9tPyJKbi_G2FwbGkUbIAoYIt8Dh5QtLaqvwZVEPCyItOsa9nnyZXTUACHXBdrxaA0RI2g6haQukmBc-S2L5GR2TDPGy60qejnw6r8GFYmNkHVPQ6G_SJswMfTZkR5z5PB4oV0xJHs3nH0eVoZ-yltDoQ7M0JXq0vrw4zbkQ6pKo8s7DA",
+      "categories": [
+        "path"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "general_channel_context",
+        "primary": "path",
+        "scores": {
+          "path": 1
+        }
+      }
     },
     {
       "id": 501,
@@ -388,7 +1310,61 @@
         "swim"
       ],
       "status": "published",
-      "source": "public_channel"
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "swim",
+        "scores": {
+          "swim": 10,
+          "path": 6
+        }
+      }
+    },
+    {
+      "id": 499,
+      "title": "Вдоль Волги бегу — и душа отдыхает, Рассвет над водою дорогу включает. Ни шума, ни спешки — лишь я и река. Такая медитация мне близка. 🙏",
+      "caption": "Вдоль Волги бегу — и душа отдыхает, Рассвет над водою дорогу включает. Ни шума, ни спешки — лишь я и река. Такая медитация мне близка. 🙏",
+      "date": "2026-09-22T05:14:05+00:00",
+      "url": "https://t.me/masik2977/499",
+      "thumbnail": "https://cdn4.telesco.pe/file/u-aq8EuXmw6pzrbyAQWlv6TydaGZj1kPARjtJMVVjfbA7H7ERiZQ6m4h2CEIUemd_iVTY_uRG5oKKf05pCKxNO9MfDZdVWA5-HOxxMmpM25sQkny69bx7yEBkL3ShUfxe-bJXYApwVBabjokS8v8kRgDeknh5tqn9osbE14Y3HzxZvtYRgBHuTgKB-g8h2yZRSDvp2-S19aCCUMsPsVz1SZS_D8rS8Mq7eUN65YxU8LUdsZBGFRN_j83wZkBzKCXrl1Zax1I6bhsY3DiWL6PPni9vVya5-PYa5MR5tZlFtJQgNEjzlLHRmfPHhhMnL_ngudstyixLAOoO3Y37tuCww",
+      "categories": [
+        "run"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "run",
+        "scores": {
+          "run": 10,
+          "swim": 10,
+          "philosophy": 8,
+          "path": 6
+        }
+      }
+    },
+    {
+      "id": 498,
+      "title": "Руки сегодня хорошо забил Ну в общем как и всегда 👌",
+      "caption": "Руки сегодня хорошо забил Ну в общем как и всегда 👌",
+      "date": "2026-09-21T16:37:18+00:00",
+      "url": "https://t.me/masik2977/498",
+      "thumbnail": "https://cdn4.telesco.pe/file/FkQA4x9HF8QdgIZAyAgoBRPz-2tkC13Z9ANWYaIn1h8wxPtltjJpZBJA-arhyXZueFgf0wRTowoO-67PsrGCN8jw2QN-31N2Mg4Id3EEaADwnlxg6JzlWufET0swJzg45LejhrXQmoSz5p20K5ihfDdGU6GsBNnzRy5HzIP1wWNTP6aTSlvyhLbswjFaREVLreZweM_yrpuBUM7Nug9zSr9lk_1Ivf3swAmr0Xdm6M7oPmFUxWmfuof5Y8Yt1auFJ8pS9zrRHPpP7TKSI1wO5SCPfVUo_fLRCu5y_0YIJQ1yc9NUDJ2pwLGsRjuf7u6vCHdwwvFyWTiJ8GX5gKRG-A",
+      "categories": [
+        "path"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "classification": {
+        "version": "local-topics-v2",
+        "method": "weighted_keywords",
+        "primary": "path",
+        "scores": {
+          "path": 6
+        }
+      }
     },
     {
       "id": 497,
