@@ -48,7 +48,8 @@
           }
         },
         "vision_error": null,
-        "classified_at": "2026-10-24T02:05:05.876089+00:00"
+        "text_sha256": "4c8b04352dfff515aa50ccf00e19b11e4b9953002c136605ba11ea181846eb5e",
+        "classified_at": "2026-10-24T02:09:30.584848+00:00"
       }
     },
     {
