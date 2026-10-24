@@ -18352,8 +18352,11 @@
     },
     {
       "id": 22,
-      "title": "Вот так люди питаются правильно 😁 так им кажется 😂",
-      "caption": "Вот так люди питаются правильно 😁 так им кажется 😂",
+      "message_id": 22,
+      "uid": "telegram:-1003789866860:22",
+      "channel_id": -1003789866860,
+      "title": "Вот так люди питаются правильно😁так им кажется😂",
+      "caption": "Вот так люди питаются правильно😁так им кажется😂",
       "date": "2026-02-10T04:54:18+00:00",
       "url": "https://t.me/masik2977/22",
       "thumbnail": "https://cdn4.telesco.pe/file/dLLMdajX6kt7WtXHqm2kuZ75epIULPielsk9592s7YJPPwXAKgL0y5Krr-wVSNGhAxn7KRsUNRq-WyynWslMi4S2Cx8EsLQhyKwrcgIiswJH4Tq45ANc4Ip4ctH0MbcTlMX6VjaJp5p_vc4xfneIMC-bSNtCjeNArgn3XwfWfkglZ3arFe_4UYv48XT3f0-oFjCKDiiBKZa-R5C--0vJgYA1XML-R5niVrP6Ay8C6_5s2chYbfVGwaOtUK72HiFRm4K0VzVbP2vs9GqG-3wi9sqdaTi83uJgUTv-2HZTC_ZUby93_49gu91exW3Z2IiSIS1oT9axYFzFMf0oCcodrw",
@@ -18362,6 +18365,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:22",
+        "root_post": "masik2977/22",
+        "date_url": "https://t.me/masik2977/22",
+        "media_urls": [
+          "https://t.me/masik2977/22"
+        ],
+        "caption_sha256": "fa15ac3e628a9b7b0f7b040e17ca2ea43fe8d39eddcc35c702f8c52bbbd149b3",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:22",
+      "thumbnail_url_sha256": "2dc5e1d68ce30ec97585b9fc3e84eabe9154000c4c4fd4616f56fae08eeba735",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "engine": "speech-frames-description-v5",
@@ -18583,27 +18599,15 @@
           }
         },
         "review_reasons": [],
-        "text_sha256": "f108f318d63977edc136bd21fcb584343d6b7df752a4ee28f49ad594b71b4f90"
-      },
-      "message_id": 22,
-      "uid": "telegram:-1003789866860:22",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:22",
-        "root_post": "masik2977/22",
-        "date_url": "https://t.me/masik2977/22",
-        "media_urls": [
-          "https://t.me/masik2977/22"
-        ],
-        "caption_sha256": "9e116b776ed4f6bed1831a332d1788d44d930c5df8a72200d39d16c1e0b1c4b3",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:22",
-      "thumbnail_url_sha256": "2dc5e1d68ce30ec97585b9fc3e84eabe9154000c4c4fd4616f56fae08eeba735",
-      "integrity_issues": []
+        "text_sha256": "4ea760605c35a2539d4f44dd2dc2820cd772e1090693c0fca7417b1079aa21c8",
+        "classified_at": "2026-10-24T04:48:54.507093+00:00"
+      }
     },
     {
       "id": 21,
+      "message_id": 21,
+      "uid": "telegram:-1003789866860:21",
+      "channel_id": -1003789866860,
       "title": "Что происходит с организмом в Естественном состоянии(без еды и воды)",
       "caption": "Что происходит с организмом в Естественном состоянии(без еды и воды)",
       "date": "2026-02-08T13:43:45+00:00",
@@ -18614,6 +18618,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:21",
+        "root_post": "masik2977/21",
+        "date_url": "https://t.me/masik2977/21",
+        "media_urls": [
+          "https://t.me/masik2977/21"
+        ],
+        "caption_sha256": "eff3064be8c7367bc75d76e18a31b8d7e277a7da5a8232328e8bbf58973a7309",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:21",
+      "thumbnail_url_sha256": "b0785afef73fc4b74ae82660c0872b027f16bf548c9229c65d2a91aaa2c89644",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "engine": "speech-frames-description-v5",
@@ -18814,36 +18831,36 @@
         },
         "review_reasons": [],
         "text_sha256": "dbe0f83e3c9a830dd230d7c989261db760542dc65e21db447e09ea9c5f46c063"
-      },
-      "message_id": 21,
-      "uid": "telegram:-1003789866860:21",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:21",
-        "root_post": "masik2977/21",
-        "date_url": "https://t.me/masik2977/21",
-        "media_urls": [
-          "https://t.me/masik2977/21"
-        ],
-        "caption_sha256": "eff3064be8c7367bc75d76e18a31b8d7e277a7da5a8232328e8bbf58973a7309",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:21",
-      "thumbnail_url_sha256": "b0785afef73fc4b74ae82660c0872b027f16bf548c9229c65d2a91aaa2c89644",
-      "integrity_issues": []
+      }
     },
     {
       "id": 19,
-      "title": "Воскресение ,хотел отдохнуть,но тело по другому захотело 😁 на морозике побегать,да так понравилось что 10 км пробежал и кайфанул 🙏 прям медитировал",
-      "caption": "Воскресение ,хотел отдохнуть,но тело по другому захотело 😁 на морозике побегать,да так понравилось что 10 км пробежал и кайфанул 🙏 прям медитировал",
+      "message_id": 19,
+      "uid": "telegram:-1003789866860:19",
+      "channel_id": -1003789866860,
+      "title": "Воскресение ,хотел отдохнуть,но тело по другому захотело😁на морозике побегать,да так понравилось что 10 км пробежал и кайфанул🙏прям медитировал",
+      "caption": "Воскресение ,хотел отдохнуть,но тело по другому захотело😁на морозике побегать,да так понравилось что 10 км пробежал и кайфанул🙏прям медитировал",
       "date": "2026-02-08T07:54:27+00:00",
       "url": "https://t.me/masik2977/19",
-      "thumbnail": "https://cdn4.telesco.pe/file/Jdu7dg039GDibGoXwF0CgYhYMJYcwCZMLBo3nnmQCf-etZGFxq7YZa22-KtsYjDD-obls5kRdXr9GNtpv4cWWvta-THzd-N6xCBlDc2Iugpnx5dK-rSq7DHjaZNWciSGV_TGIvQ6v7zR7LbeFWHslcwtldOxL58VLHnsgwbKC_IP_k-v1eXmcbX4n7meC9bVfqfX4kyBiQbXrh3nC_Kgvp6umpKv9bURkGjNGddLHRmbZLvVivfQdO_pXX91x39bXtDRa7VdeUc3W-y4I5MGlHSdf9_TheLFUdMhVNqHbqb4aORAhMXtdGl-6yHYudXI_7DSm7fgV9Dhx-kEKVS-dQ",
+      "thumbnail": "https://cdn4.telesco.pe/file/OYx-y0tFA_OqYWbiYrieI1xgQhPWgQUe_TD0tgImacNRkOKFYvx1ydaVCycUd4pgqrwQSWJUKGegeT0U8GWZZ_9MKKtwsraO9WgAeZlJlA_NrILB7jb8w_3acMYRPRsHSClVt-SQYfPRamR1YDCGpd9zm6iLojFSV-yu4L4t4ZOSwjSPk-ERbOqs_W-pkjR0mpgfKCdQ4hdh1MOFGVHPtc0WmYO7zeRujlejiHdMHaHxbbTsHb2mS74faUZ7ACaRvaaoLcyBObo8aZMmXaBBAod4J9nzGmsUh3h8GWGx4U1Qw_XKMT5m8OsI5BazeSaV-LunPqSy87xGtckhdCxuEw",
       "categories": [
         "run"
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:19",
+        "root_post": "masik2977/19",
+        "date_url": "https://t.me/masik2977/19",
+        "media_urls": [
+          "https://t.me/masik2977/19"
+        ],
+        "caption_sha256": "a55d6c2f9899613d18295d35bb01ee684eae0e043c53be00fc4e8888d416672b",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:19",
+      "thumbnail_url_sha256": "260d345ac703223cce4d22a380d7514b7330e7c10a856e6829f2f701afe08734",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "run",
@@ -18880,38 +18897,38 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "4b3776cd4238092fe164df1eda9d51e11ede9bafbb0598ee688a7cf8f067626d",
-        "classified_at": "2026-10-24T02:27:53.940820+00:00"
-      },
-      "message_id": 19,
-      "uid": "telegram:-1003789866860:19",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:19",
-        "root_post": "masik2977/19",
-        "date_url": "https://t.me/masik2977/19",
-        "media_urls": [
-          "https://t.me/masik2977/19"
-        ],
-        "caption_sha256": "7dcef67983cd2cc7642cb50b3b3d5be234bc4d0585e60a206f66164cfc8ee1f4",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:19",
-      "thumbnail_url_sha256": "54266224dc78c6389ca9b15591387652e75db3e5d3718c07a56258a0006b68ab",
-      "integrity_issues": []
+        "text_sha256": "9dea316b8b4acd3f4bbd1d62e5ce641f3a8b03de0fc5f55ea5d961c56dabd2fb",
+        "classified_at": "2026-10-24T04:48:54.972534+00:00"
+      }
     },
     {
       "id": 18,
+      "message_id": 18,
+      "uid": "telegram:-1003789866860:18",
+      "channel_id": -1003789866860,
       "title": "Бег 3 км,морозы отступили ,бегать уже не холодно при -10)",
       "caption": "Бег 3 км,морозы отступили ,бегать уже не холодно при -10)",
       "date": "2026-02-07T05:37:22+00:00",
       "url": "https://t.me/masik2977/18",
-      "thumbnail": "https://cdn4.telesco.pe/file/pA9t_m9cgU0hD8TLs8Z8kahxmsbW2LVvWK0sA1-fAxGV9Me6N7D8UcOc3abFTDpqaf7PCF6IMrnXthKofd8uhcI0zEoVVS0YtjCxScdbNSmItnRpfU2bORBaz1yJHBPq9iEfONMiep9n9xqjSo9oz6n7TNeKD3XDzx5w9mjtUODRIhMwtOai1tFiGcD4gSi8VJKMH4c3ELyj4_kmkpFsb9ddPPepVsKv5hF9Dw17pd5EPiO1O_gIUzmoieum9tKmvHKlidQd1-eUz360j7nNHLzKnFxKxFz-AnNYKI5jSjDsettJVTWomlh_GMvPgCKXdU7I71HTb2YqziSt--Nv0Q",
+      "thumbnail": "https://cdn4.telesco.pe/file/qabN5ldk3y6xokCDTkPBYt1rUJiIXREfFvDniUBKQzpSkmjo7q00MOiDo0wnuJnL3Zj_oKTvQAnF6p5V6Wb2-eKfgtBqz8MdF4qL8QMIsTzmkXccE2l0FM1EqGzTsA-y0Jbqt1kNmJZJmfIYeH_RMg-1jPDWPC0q-AQ3wUsFA9DXLOPtvQWO6jdhLBwANZPVIfxdJYxmZTy4i2ZCgSra_C1PwHg3BR4afKedNd3LUeaEvJe2i8Xcdo2CTPIHYZx1F4LpAGCyGlB89Y_ixSKU19554EbBPAMET8I2uhhiHY2KmaflHfkGdpdNxtIqCWb35vm79Ux0SlnVjgN2KlEemw",
       "categories": [
         "run"
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:18",
+        "root_post": "masik2977/18",
+        "date_url": "https://t.me/masik2977/18",
+        "media_urls": [
+          "https://t.me/masik2977/18"
+        ],
+        "caption_sha256": "38b3d37b76d730143b7ea205e3ad5fec657b5ef290f421b2a98e5bae79ada7f0",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:18",
+      "thumbnail_url_sha256": "713e2667def717585cb0364a919f7b53e3f7bb02bf3f85c452b717b536a55184",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "run",
@@ -18950,36 +18967,36 @@
         "vision_error": null,
         "text_sha256": "e594992f2814055697d607fda54953f02f68f206dbedb7c7e98bdac6d3a02b89",
         "classified_at": "2026-10-24T02:27:53.949819+00:00"
-      },
-      "message_id": 18,
-      "uid": "telegram:-1003789866860:18",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:18",
-        "root_post": "masik2977/18",
-        "date_url": "https://t.me/masik2977/18",
-        "media_urls": [
-          "https://t.me/masik2977/18"
-        ],
-        "caption_sha256": "38b3d37b76d730143b7ea205e3ad5fec657b5ef290f421b2a98e5bae79ada7f0",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:18",
-      "thumbnail_url_sha256": "8f594b32dca724bd9fa13cc99670318f768c443fc887b66efc6cb0071f559aa1",
-      "integrity_issues": []
+      }
     },
     {
       "id": 11,
+      "message_id": 11,
+      "uid": "telegram:-1003789866860:11",
+      "channel_id": -1003789866860,
       "title": "-24 мороза на улице) новая высота взята,уже вообще не страшно какая низкая температура,тело адаптировалось,бегаю в радось,но без фанатизма ,понимаю так быстро к таким температурам ",
       "caption": "-24 мороза на улице) новая высота взята,уже вообще не страшно какая низкая температура,тело адаптировалось,бегаю в радось,но без фанатизма ,понимаю так быстро к таким температурам тело не адаптируется ,1.2 км пробежал,до -20 градусов бегаю 3 км минимум",
       "date": "2026-02-04T11:53:48+00:00",
       "url": "https://t.me/masik2977/11",
-      "thumbnail": "https://cdn4.telesco.pe/file/aY7xjLuE0aML6OVzMlevRjttcyIusR3VXVRFC8iJeEghT_irrlZkY_aUGLrpHKnbIJLHeTfEVU1z38g9tBqvL35HDdpJd3hsBGl5w6rFQyWhbdLIGuEV24OYAlfZuQVDnSjmw8vH2wBerjEpijCAaV0MkG3gHZiWzunQFsoyjYCJGDE9myjh0n_0OEdJNQX-6Joh3Dsn2KFNFW8eqJmiq2Uv5Ot8Lv0Q8RMWWpzyU1a2QFDBjzcgdMCWAWC4ofhgbfIXu_wXowuZH3CG988CFGXaIO444326hB4iorSGBcrM0FEkgj9pWuJVLGqjMxvDpigvXzPp2l6wDGB_P9u7ew",
+      "thumbnail": "https://cdn4.telesco.pe/file/geqiJ0Q1VQ2Pu2cCf_7MNnvAbVjVYNhOevVDJnfrx5Pis8qALAWKl-PfYgfofp6GYA3RmkC7xHPrsnEbIKFpPPQuCfd33gX2xmCur7KatLJBk4dAlWKIE07uPqje9tt1zCv7c5fMhhetHgsUhORHtPHW_gZINqmC896R5JLkO5NeHme-Y1rl2iYuSBpeBTuORIGFAFlIKf8LgxCneXJBT5H7A7Jyh6S9lTDTr5-rERgotB3Tj3Iy18l6mUhMvdXRSTF-3N_E1lhmSp1n3HeyB74FIJfHm3d6KQLELE3fe8fetysdg85M7bCwWflHdm-lUz7x6M1HXlKROU39O8nEfw",
       "categories": [
         "run"
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:11",
+        "root_post": "masik2977/11",
+        "date_url": "https://t.me/masik2977/11",
+        "media_urls": [
+          "https://t.me/masik2977/11"
+        ],
+        "caption_sha256": "7e0abacf8739fcfe9ae76a31f212e01e13cf4e29e8deb67c5f7548e5246008f6",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:11",
+      "thumbnail_url_sha256": "2e181c892fac7c1e9c418bde4e7670399361ebd3178ea0c3868fb07f1aa37eb0",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "run",
@@ -19018,28 +19035,15 @@
         "vision_error": null,
         "text_sha256": "fb064b52ac8a79a7c3466c6bfa8dc30c4b63281982351e38b329c884189390d1",
         "classified_at": "2026-10-24T02:27:53.964221+00:00"
-      },
-      "message_id": 11,
-      "uid": "telegram:-1003789866860:11",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:11",
-        "root_post": "masik2977/11",
-        "date_url": "https://t.me/masik2977/11",
-        "media_urls": [
-          "https://t.me/masik2977/11"
-        ],
-        "caption_sha256": "7e0abacf8739fcfe9ae76a31f212e01e13cf4e29e8deb67c5f7548e5246008f6",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:11",
-      "thumbnail_url_sha256": "80748df2042a915b67b0777860da20ac5067bd10785c2c3ac19be978f45b3132",
-      "integrity_issues": []
+      }
     },
     {
       "id": 7,
+      "message_id": 7,
+      "uid": "telegram:-1003789866860:7",
+      "channel_id": -1003789866860,
       "title": "Попробовал жим на брусьях с 40 кг ,последний раз 2 недели назад отжимался с 34 кг на 8 раз ,а тут пожал штангу ,хорошо 112 кг 5 подходов по 5 ,сил еще осталось и решил с 40 и был с",
-      "caption": "Попробовал жим на брусьях с 40 кг ,последний раз 2 недели назад отжимался с 34 кг на 8 раз ,а тут пожал штангу ,хорошо 112 кг 5 подходов по 5 ,сил еще осталось и решил с 40 и был сам удивлен 😊",
+      "caption": "Попробовал жим на брусьях с 40 кг ,последний раз 2 недели назад отжимался с 34 кг на 8 раз ,а тут пожал штангу ,хорошо 112 кг 5 подходов по 5 ,сил еще осталось и решил с 40 и был сам удивлен😊",
       "date": "2026-01-26T10:05:19+00:00",
       "url": "https://t.me/masik2977/7",
       "thumbnail": "https://cdn4.telesco.pe/file/rF34rj3WrtkO4tQ3rPAEcXGpcr-des8Vz8eT2Qd_IPiu9noNlC9rP0V1tRkcfiPgAQeBfmu8hKSCUBJ7TG9TeUOFS-3ozM5d3iVdkb0X2WDRzTkSeoMffq2KSZG5ayQsG31uDrH-o0bsJNkWA2P1klYVdYUT56aqiUf8DZ1zDto-liZ_mwEHuPrHbcxUP3f9squEXEoT7LMr1HanlYU3jULE8TJF2IKQxiVnMsVAIk_irK6DSOXV1hgJDYLLaU2EcnmXe-XYPeIAAb3Yy1Zb8EhkqaXtH-_OY5LIUjoGZy-ldwGdsDIfIupdE2BQ4hCrbIQP9p1ozVfJWj8-VAhr0A",
@@ -19048,6 +19052,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:7",
+        "root_post": "masik2977/7",
+        "date_url": "https://t.me/masik2977/7",
+        "media_urls": [
+          "https://t.me/masik2977/7"
+        ],
+        "caption_sha256": "b645d11ebf66b37ca6e3cceec820ac21b3e26f5fbb0dea23bc9431413c361726",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:7",
+      "thumbnail_url_sha256": "6c3636bb333c229b5f4ba04d64862cb12769a9c59e789ac445d0cd3ea32a32c8",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "train",
@@ -19084,25 +19101,9 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "477b189e6753ed8fdf516555ee50db917975babe83572b31c77b2da41fc6dfd3",
-        "classified_at": "2026-10-24T02:27:54.019473+00:00"
-      },
-      "message_id": 7,
-      "uid": "telegram:-1003789866860:7",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:7",
-        "root_post": "masik2977/7",
-        "date_url": "https://t.me/masik2977/7",
-        "media_urls": [
-          "https://t.me/masik2977/7"
-        ],
-        "caption_sha256": "96fc53badbd779b0d3d2ffe44a3d43571b24cb980fad73641f5e09cc1bb84669",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:7",
-      "thumbnail_url_sha256": "6c3636bb333c229b5f4ba04d64862cb12769a9c59e789ac445d0cd3ea32a32c8",
-      "integrity_issues": []
+        "text_sha256": "2ff84dc89399447a192c9f09f4d7e3bbf2485719985ea0a2ba89baacbc6b3c6b",
+        "classified_at": "2026-10-24T04:48:55.821390+00:00"
+      }
     }
   ]
 }
