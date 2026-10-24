@@ -2518,6 +2518,9 @@
     },
     {
       "id": 464,
+      "message_id": 464,
+      "uid": "telegram:-1003789866860:464",
+      "channel_id": -1003789866860,
       "title": "Понедельник. Время накачать аргументы.",
       "caption": "Понедельник. Время накачать аргументы.",
       "date": "2026-09-07T12:09:02+00:00",
@@ -2528,6 +2531,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:464",
+        "root_post": "masik2977/464",
+        "date_url": "https://t.me/masik2977/464",
+        "media_urls": [
+          "https://t.me/masik2977/464"
+        ],
+        "caption_sha256": "4a3e13c4e5d5e787bb1d3742e2fdad84160285f7a5582690705bea0dcf379c2d",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:464",
+      "thumbnail_url_sha256": "abc5e56c3831891c194dd5a0e8163de99557eccf12a37a617d670558616149b4",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "train",
@@ -2566,28 +2582,15 @@
         "vision_error": null,
         "text_sha256": "7c067ec2344f82fbe35a6a17a212cd6afb738de2a07a75825c9b9d852fad0365",
         "classified_at": "2026-10-24T02:27:51.957083+00:00"
-      },
-      "message_id": 464,
-      "uid": "telegram:-1003789866860:464",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:464",
-        "root_post": "masik2977/464",
-        "date_url": "https://t.me/masik2977/464",
-        "media_urls": [
-          "https://t.me/masik2977/464"
-        ],
-        "caption_sha256": "4a3e13c4e5d5e787bb1d3742e2fdad84160285f7a5582690705bea0dcf379c2d",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:464",
-      "thumbnail_url_sha256": "abc5e56c3831891c194dd5a0e8163de99557eccf12a37a617d670558616149b4",
-      "integrity_issues": []
+      }
     },
     {
       "id": 461,
+      "message_id": 461,
+      "uid": "telegram:-1003789866860:461",
+      "channel_id": -1003789866860,
       "title": "Утро. Волга. Тишина. Я стою — почти святой. Только тело говорит: «Ты опять?! Да бог с тобой…» 😂 Не доказывать. Не рваться. Делать своё — и в Волгу купаться 😄 Нырнул разок — ушли за",
-      "caption": "Утро. Волга. Тишина. Я стою — почти святой. Только тело говорит: «Ты опять?! Да бог с тобой…» 😂 Не доказывать. Не рваться. Делать своё — и в Волгу купаться 😄 Нырнул разок — ушли заботы. Нырнул второй — ушли вопросы. На третий раз пришла мораль: кто ищет дзен — тому сюда, в февраль… Ой, простите — в сентябрь 😄 Тело — в движении, голова — спокойно. С виду обычный мужик, а внутри — просветлённый 😄 Кто-то медитирует час, кто-то мантры поёт, а я залез в Волгу — и всё само пройдёт 😂 Вышел на берег — глаза горят. Люди думают: «Сильный мужик». А я думаю: «Где полотенце, брат?» 😄 Вот так и живём: без пафоса, без боя. Водица-сестрица, Матушка-Природа… И я — слегка подмороженный, зато душою спокойный 😄 🙏",
+      "caption": "Утро. Волга. Тишина. Я стою — почти святой. Только тело говорит: «Ты опять?! Да бог с тобой…» 😂 Не доказывать. Не рваться. Делать своё — и в Волгу купаться 😄 Нырнул разок — ушли заботы. Нырнул второй — ушли вопросы. На третий раз пришла мораль: кто ищет дзен — тому сюда, в февраль… Ой, простите — в сентябрь 😄 Тело — в движении, голова — спокойно. С виду обычный мужик, а внутри — просветлённый 😄 Кто-то медитирует час, кто-то мантры поёт, а я залез в Волгу — и всё само пройдёт 😂 Вышел на берег — глаза горят. Люди думают: «Сильный мужик». А я думаю: «Где полотенце, брат?» 😄 Вот так и живём: без пафоса, без боя. Водица-сестрица, Матушка-Природа… И я — слегка подмороженный, зато душою спокойный 😄🙏",
       "date": "2026-09-06T10:43:09+00:00",
       "url": "https://t.me/masik2977/461",
       "thumbnail": "https://cdn4.telesco.pe/file/rIciniY0Cnhg48J9grzgIBk3ARdg8ES5Qsdv7vA6U3vqWYarzD_lihUj8mphRIMxB25L1EkZBW1Xw5mEm-u8PTB5r5Nbw8eX1tbIG5qP0sasjuIDXpdG4xWjRfldzC770Qy2xLcf0rdVGKsDYGA8nOjdnxPskSU3dQit0TgRQ4YVz4p-Tuk1CUwX_mpZ2FcWeXDPawM_KwqcZgqoibhW8QXl2ifm2f-vtoVio4u9HpmJ5PGOf65rFADMB8sVtC-8CCR6eCQsJ9OOcmrFV-n4O9mVN3ueEwapDakp7XtS8yrxxKwqWUD6WLC_JgRZvnNBcGG2Sbq4_WG9ld2jnBSjSQ",
@@ -2596,6 +2599,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:461",
+        "root_post": "masik2977/461",
+        "date_url": "https://t.me/masik2977/461",
+        "media_urls": [
+          "https://t.me/masik2977/461"
+        ],
+        "caption_sha256": "6a8e727d0333c0b6794b85dd9e6a1fcb98a3fcd676ef1f861fc80bfd3cc5e4fd",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:461",
+      "thumbnail_url_sha256": "9f35b24e7d4007584c14eefc534e8cceb54b6694fcecd3becc8d1fe3f25c218e",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "swim",
@@ -2632,28 +2648,15 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "f146b92257efa8630a516c5398153726f4cb7b8308e25fc54ba2b57f89357fc7",
-        "classified_at": "2026-10-24T02:27:51.970074+00:00"
-      },
-      "message_id": 461,
-      "uid": "telegram:-1003789866860:461",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:461",
-        "root_post": "masik2977/461",
-        "date_url": "https://t.me/masik2977/461",
-        "media_urls": [
-          "https://t.me/masik2977/461"
-        ],
-        "caption_sha256": "16c7e5caffcfc0313f080c4fe40ecc82f111831dcdcdb730c32fe6562f52ef6a",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:461",
-      "thumbnail_url_sha256": "9f35b24e7d4007584c14eefc534e8cceb54b6694fcecd3becc8d1fe3f25c218e",
-      "integrity_issues": []
+        "text_sha256": "ec9ed08b993b948d0db4de4d579e14590dbad33240c77df91d85a5f471a673ba",
+        "classified_at": "2026-10-24T02:59:34.020283+00:00"
+      }
     },
     {
       "id": 460,
+      "message_id": 460,
+      "uid": "telegram:-1003789866860:460",
+      "channel_id": -1003789866860,
       "title": "Суббота. Утро. Красота. На даче жизнь — ну прям мечта 😄 Речка рядом, солнце светит — и куда ещё спешить на свете? Искупался — и душа полна. Вот такая жизнь — проста, и тем она ценн",
       "caption": "Суббота. Утро. Красота. На даче жизнь — ну прям мечта 😄 Речка рядом, солнце светит — и куда ещё спешить на свете? Искупался — и душа полна. Вот такая жизнь — проста, и тем она ценна 🙏",
       "date": "2026-09-05T08:02:05+00:00",
@@ -2664,6 +2667,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:460",
+        "root_post": "masik2977/460",
+        "date_url": "https://t.me/masik2977/460",
+        "media_urls": [
+          "https://t.me/masik2977/460"
+        ],
+        "caption_sha256": "aad00ed873be0c09b30199bffe211d9d28b7bca001e6f0f7a22e2ecf5edcbe9c",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:460",
+      "thumbnail_url_sha256": "68e9b033912db75e1ab2a8df08868a50f93a7761b835ad4f52e9ce48f9007a46",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "swim",
@@ -2702,28 +2718,15 @@
         "vision_error": null,
         "text_sha256": "19a31e6488be1ac07403ccf5efbff9e4f732ac3aac744d5952edba8512a25f1b",
         "classified_at": "2026-10-24T02:27:51.979088+00:00"
-      },
-      "message_id": 460,
-      "uid": "telegram:-1003789866860:460",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:460",
-        "root_post": "masik2977/460",
-        "date_url": "https://t.me/masik2977/460",
-        "media_urls": [
-          "https://t.me/masik2977/460"
-        ],
-        "caption_sha256": "aad00ed873be0c09b30199bffe211d9d28b7bca001e6f0f7a22e2ecf5edcbe9c",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:460",
-      "thumbnail_url_sha256": "68e9b033912db75e1ab2a8df08868a50f93a7761b835ad4f52e9ce48f9007a46",
-      "integrity_issues": []
+      }
     },
     {
       "id": 457,
-      "title": "После 96 часов без еды начал кушать жиденькое 😜 на утро нужны силы 👍 10-12 км бег по песку босиком",
-      "caption": "После 96 часов без еды начал кушать жиденькое 😜 на утро нужны силы 👍 10-12 км бег по песку босиком",
+      "message_id": 457,
+      "uid": "telegram:-1003789866860:457",
+      "channel_id": -1003789866860,
+      "title": "После 96 часов без еды начал кушать жиденькое😜 на утро нужны силы 👍10-12 км бег по песку босиком",
+      "caption": "После 96 часов без еды начал кушать жиденькое😜 на утро нужны силы 👍10-12 км бег по песку босиком",
       "date": "2026-09-03T16:49:54+00:00",
       "url": "https://t.me/masik2977/457",
       "thumbnail": "https://cdn4.telesco.pe/file/LxeRgNYBBkLoDlvThONRNqwRGVkWPf9LpNmT7X4RqItWlv2sEAQU5-YkkxgeqPN7kCp35h9pMLMhNZdKE0kXuCeHUNgFFedqrW3TYCfp70-1nPoM_802Yk39CWo2bY2kIqZhI-EZgvhXKK1lsZaawoS1KnZyhT266k6cSVqfcOkuB49rxdDyqwIhPHvZGT40hQo_VbKcF8AHVzh-hzc_dTwpD697GczU2yTUof2SvYEqstepSXNTTaPhOTscekZRHPd0E5_ksi6SDAHT0iGrSh3W-fjCp3f1y-knY2P8rKG_bdhr2pljwve0ZpEJpu37IbzIqTHniHgZ3yYmfwMpWg",
@@ -2732,6 +2735,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:457",
+        "root_post": "masik2977/457",
+        "date_url": "https://t.me/masik2977/457",
+        "media_urls": [
+          "https://t.me/masik2977/457"
+        ],
+        "caption_sha256": "271bc999633e0d2506961d2237c3628d1c332d0de73212057509dee32e181345",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:457",
+      "thumbnail_url_sha256": "892ff6482b36e565528da6d43ac273e5cd08b63df8bb93a93f96454cb4cdae2c",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "food",
@@ -2768,28 +2784,15 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "e7b7dd0ec39f61d9e04849adb88e7cd2120546fea7715789e852b4d429a89f71",
-        "classified_at": "2026-10-24T02:27:51.989087+00:00"
-      },
-      "message_id": 457,
-      "uid": "telegram:-1003789866860:457",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:457",
-        "root_post": "masik2977/457",
-        "date_url": "https://t.me/masik2977/457",
-        "media_urls": [
-          "https://t.me/masik2977/457"
-        ],
-        "caption_sha256": "b7f9b5038dd6c80b8cc0da0912670ca993aafb927200b35628596ab97ee7c0e4",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:457",
-      "thumbnail_url_sha256": "892ff6482b36e565528da6d43ac273e5cd08b63df8bb93a93f96454cb4cdae2c",
-      "integrity_issues": []
+        "text_sha256": "f220b2709d505709d6866663fa25a99831aa005baf1a63b0b22a3b7ea6394b44",
+        "classified_at": "2026-10-24T02:59:35.454290+00:00"
+      }
     },
     {
       "id": 454,
+      "message_id": 454,
+      "uid": "telegram:-1003789866860:454",
+      "channel_id": -1003789866860,
       "title": "На данный момент 48 часов без еды,из них 36 часов без воды и 72 часа без твердой пищщи, Состояние шикарное,",
       "caption": "На данный момент 48 часов без еды,из них 36 часов без воды и 72 часа без твердой пищщи, Состояние шикарное,",
       "date": "2026-09-02T15:50:14+00:00",
@@ -2800,6 +2803,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:454",
+        "root_post": "masik2977/454",
+        "date_url": "https://t.me/masik2977/454",
+        "media_urls": [
+          "https://t.me/masik2977/454"
+        ],
+        "caption_sha256": "af101b69a1cc76d9f8e6912812f9d2d9a4f24c96b95dfc59f2f2595fad52111e",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:454",
+      "thumbnail_url_sha256": "974cd21b27a9504cf3f4ef2eab835b8e80908eef08d67be29a06bafb9635b8c7",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "food",
@@ -2838,28 +2854,15 @@
         "vision_error": null,
         "text_sha256": "ec8747251d3079f7e46f4dc536a6099ef8371d59ca8f86ec271303348a26f180",
         "classified_at": "2026-10-24T02:27:52.007806+00:00"
-      },
-      "message_id": 454,
-      "uid": "telegram:-1003789866860:454",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:454",
-        "root_post": "masik2977/454",
-        "date_url": "https://t.me/masik2977/454",
-        "media_urls": [
-          "https://t.me/masik2977/454"
-        ],
-        "caption_sha256": "af101b69a1cc76d9f8e6912812f9d2d9a4f24c96b95dfc59f2f2595fad52111e",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:454",
-      "thumbnail_url_sha256": "974cd21b27a9504cf3f4ef2eab835b8e80908eef08d67be29a06bafb9635b8c7",
-      "integrity_issues": []
+      }
     },
     {
       "id": 451,
-      "title": "Спустя 36 часов начал есть..... 😁 пока воду",
-      "caption": "Спустя 36 часов начал есть..... 😁 пока воду",
+      "message_id": 451,
+      "uid": "telegram:-1003789866860:451",
+      "channel_id": -1003789866860,
+      "title": "Спустя 36 часов начал есть.....😁пока воду",
+      "caption": "Спустя 36 часов начал есть.....😁пока воду",
       "date": "2026-09-02T07:27:57+00:00",
       "url": "https://t.me/masik2977/451",
       "thumbnail": "https://cdn4.telesco.pe/file/WLxMHgQOz9iSMDHhc_tpiIa7iLxGFp6D1sTO-g1m63k9Pd9McS1DFFxKEpXilOcoq8uPOWWhhQuoojwkR9uE2DbMLotdb5vIM_PuxKdYWLWR1x1k9oO5YyP6_zpnNZnwHCrNLLbNeELfi3gMi1kO1C-7PAK6UweHtms6KQ8f2GPOj_V08Mi79MAV5TMWXDz7ZZeRzkqUJ6pKfca1Hsl_btNOIuqgDsdFgDuMC1hRemzm-Px9b60Lc-DBWC2sCeD3Jz5ec148zwbWKhspVUgT-1opvIJ0RJP1mC7N8T6dq5sApLxkk4Ra5PSTAgumc3eOPXn4fl7zNrOavbIpOnmI4g",
@@ -2868,6 +2871,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:451",
+        "root_post": "masik2977/451",
+        "date_url": "https://t.me/masik2977/451",
+        "media_urls": [
+          "https://t.me/masik2977/451"
+        ],
+        "caption_sha256": "a2a2616333c10bcd544d93ee12bcf6ee0a26fc3292f15871ca2d32c9d749865b",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:451",
+      "thumbnail_url_sha256": "d314633da2b1e6e0ecb174deef45b7686918f3640c394dd2f453c81bdbff0c77",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "swim",
@@ -2904,28 +2920,15 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "222f7ed877151a61f06f1571063897cc637269a3937458b75bfc898d121b3848",
-        "classified_at": "2026-10-24T02:27:52.016678+00:00"
-      },
-      "message_id": 451,
-      "uid": "telegram:-1003789866860:451",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:451",
-        "root_post": "masik2977/451",
-        "date_url": "https://t.me/masik2977/451",
-        "media_urls": [
-          "https://t.me/masik2977/451"
-        ],
-        "caption_sha256": "2854578e3529f95a8010d57b1377d4d5981604a718796656909f29e7791e8e0b",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:451",
-      "thumbnail_url_sha256": "d314633da2b1e6e0ecb174deef45b7686918f3640c394dd2f453c81bdbff0c77",
-      "integrity_issues": []
+        "text_sha256": "5d6fa871f47ddbb9179f6cb0d1a2aadd4c65a758336ec25a801e013d226d8641",
+        "classified_at": "2026-10-24T02:59:37.102416+00:00"
+      }
     },
     {
       "id": 449,
+      "message_id": 449,
+      "uid": "telegram:-1003789866860:449",
+      "channel_id": -1003789866860,
       "title": "Полнедели вот прошло, Остаётся всё одно: Красота вокруг всегда — Была, есть и будет, да. Босиком бегу по краю, Волгу утром обнимаю. Песок, тишина и гладь — Ну куда ещё бежать? 😄 Ок",
       "caption": "Полнедели вот прошло, Остаётся всё одно: Красота вокруг всегда — Была, есть и будет, да. Босиком бегу по краю, Волгу утром обнимаю. Песок, тишина и гладь — Ну куда ещё бежать? 😄 Окунулся — бодр и свеж, Мысли смыло — стало тише. Вот нехитрый весь секрет: Тише ум — прекрасней свет. 🙏 Никуда спешить не надо, Вот рассвет, вода — награда. Жизнь простая, как всегда: Бег, песок, Волга, вода.",
       "date": "2026-09-02T05:25:01+00:00",
@@ -2936,6 +2939,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:449",
+        "root_post": "masik2977/449",
+        "date_url": "https://t.me/masik2977/449",
+        "media_urls": [
+          "https://t.me/masik2977/449"
+        ],
+        "caption_sha256": "340298802b051ffbd964502c49f45c7d5b1508ab73a1a7e38f5ff12c387718af",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:449",
+      "thumbnail_url_sha256": "538aa6f96159f079ae16336c1017c7947bf4e69dc79b74d1fd61374e9f133a9e",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "run",
@@ -2974,26 +2990,13 @@
         "vision_error": null,
         "text_sha256": "d0670dd01d8dd8e9aae80b47ce960cece71178bff4a8b64339d2dd6f533568ed",
         "classified_at": "2026-10-24T02:27:52.019701+00:00"
-      },
-      "message_id": 449,
-      "uid": "telegram:-1003789866860:449",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:449",
-        "root_post": "masik2977/449",
-        "date_url": "https://t.me/masik2977/449",
-        "media_urls": [
-          "https://t.me/masik2977/449"
-        ],
-        "caption_sha256": "340298802b051ffbd964502c49f45c7d5b1508ab73a1a7e38f5ff12c387718af",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:449",
-      "thumbnail_url_sha256": "538aa6f96159f079ae16336c1017c7947bf4e69dc79b74d1fd61374e9f133a9e",
-      "integrity_issues": []
+      }
     },
     {
       "id": 448,
+      "message_id": 448,
+      "uid": "telegram:-1003789866860:448",
+      "channel_id": -1003789866860,
       "title": "На данный момент 24часа без еды и воды и 48 часов без твердой пищщи, Состояние отличное,",
       "caption": "На данный момент 24часа без еды и воды и 48 часов без твердой пищщи, Состояние отличное,",
       "date": "2026-09-01T17:08:01+00:00",
@@ -3004,6 +3007,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:448",
+        "root_post": "masik2977/448",
+        "date_url": "https://t.me/masik2977/448",
+        "media_urls": [
+          "https://t.me/masik2977/448"
+        ],
+        "caption_sha256": "00428536e2a83b157659386f104d3963a7fc3e1070a0615afcf35fd9a0c28c90",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:448",
+      "thumbnail_url_sha256": "038311d0ca68194a29f7511963e35fa4e41b6f302757a159c977dccd8626d471",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "food",
@@ -3042,23 +3058,7 @@
         "vision_error": null,
         "text_sha256": "f72a5c3076af3126a588e88e40ba37c5519d64eaaa467d932b88fed215a45bab",
         "classified_at": "2026-10-24T02:27:52.022772+00:00"
-      },
-      "message_id": 448,
-      "uid": "telegram:-1003789866860:448",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:448",
-        "root_post": "masik2977/448",
-        "date_url": "https://t.me/masik2977/448",
-        "media_urls": [
-          "https://t.me/masik2977/448"
-        ],
-        "caption_sha256": "00428536e2a83b157659386f104d3963a7fc3e1070a0615afcf35fd9a0c28c90",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:448",
-      "thumbnail_url_sha256": "038311d0ca68194a29f7511963e35fa4e41b6f302757a159c977dccd8626d471",
-      "integrity_issues": []
+      }
     },
     {
       "id": 447,
