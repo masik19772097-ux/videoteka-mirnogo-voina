@@ -1158,6 +1158,9 @@
     },
     {
       "id": 531,
+      "message_id": 531,
+      "uid": "telegram:-1003789866860:531",
+      "channel_id": -1003789866860,
       "title": "Счастье не впереди. Оно здесь — в воде, в небе, в дыхании, в моменте.",
       "caption": "Счастье не впереди. Оно здесь — в воде, в небе, в дыхании, в моменте.",
       "date": "2026-10-06T11:46:16+00:00",
@@ -1168,6 +1171,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:531",
+        "root_post": "masik2977/531",
+        "date_url": "https://t.me/masik2977/531",
+        "media_urls": [
+          "https://t.me/masik2977/531"
+        ],
+        "caption_sha256": "c92bfa72c5e7c31f4c1fe8a0f9f319152b7f28ffadd840ffe24023aa92349816",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:531",
+      "thumbnail_url_sha256": "448bf4f2bf490812baa6a0944695d4cfa6379386b9e1aef82589ca913df1cb63",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "swim",
@@ -1206,28 +1222,15 @@
         "vision_error": null,
         "text_sha256": "13862694068ec3e00035ffd4f148efe03a0a13e39348aa845c90706b1c2622e7",
         "classified_at": "2026-10-24T02:27:51.580731+00:00"
-      },
-      "message_id": 531,
-      "uid": "telegram:-1003789866860:531",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:531",
-        "root_post": "masik2977/531",
-        "date_url": "https://t.me/masik2977/531",
-        "media_urls": [
-          "https://t.me/masik2977/531"
-        ],
-        "caption_sha256": "c92bfa72c5e7c31f4c1fe8a0f9f319152b7f28ffadd840ffe24023aa92349816",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:531",
-      "thumbnail_url_sha256": "448bf4f2bf490812baa6a0944695d4cfa6379386b9e1aef82589ca913df1cb63",
-      "integrity_issues": []
+      }
     },
     {
       "id": 529,
-      "title": "Сын решил заболеть) Но папа сказал ныряй 😜",
-      "caption": "Сын решил заболеть) Но папа сказал ныряй 😜",
+      "message_id": 529,
+      "uid": "telegram:-1003789866860:529",
+      "channel_id": -1003789866860,
+      "title": "Сын решил заболеть) Но папа сказал ныряй😜",
+      "caption": "Сын решил заболеть) Но папа сказал ныряй😜",
       "date": "2026-10-05T18:53:52+00:00",
       "url": "https://t.me/masik2977/529",
       "thumbnail": "https://cdn4.telesco.pe/file/iFOf8gJs2DUSb71s6JYGAo-hIkO4NxflgaJL5lsFmFr_MzAaczMGN0RMUQVKT3QXVdpQ6rYd8IIlNY_7MlnZsZ70ZcizyHOmMRP4pmp-1Y58oA_wjLWhYZ8-L6-I1x_vCVMPzmLfiLp2GdKtY6-7bp5x5-eQm12h9u90lg3vca6vlfhx4PoLB5-p1-Y5p9yr3IQ-mVRbQoVmeXQwKJQDVnVf0jq5x_elrYST2zr57jbvt7pUQIVKXJx3KE5unBWlEcmAifU52f4ANTZka0h-DorkKCfMB22KPpW69qCaJbTgOiYvjUTLNaawKzCofQYjH3EcOOMXjwEZGURWZv7tkw",
@@ -1236,6 +1239,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:529",
+        "root_post": "masik2977/529",
+        "date_url": "https://t.me/masik2977/529",
+        "media_urls": [
+          "https://t.me/masik2977/529"
+        ],
+        "caption_sha256": "59ef384fef6dbbb21cc351a4ab8b1620c12a1a52246e6376e882958c750ddb29",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:529",
+      "thumbnail_url_sha256": "f3bba140595ffe355da2e018c26b5c334654a03502027dc18c6312e4a5fd1d77",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "swim",
@@ -1272,28 +1288,15 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "695e8611bc3880dba5e03f9c74dc6920b271e01aae7dff72aa3bb438e82f22bd",
-        "classified_at": "2026-10-24T02:27:51.601815+00:00"
-      },
-      "message_id": 529,
-      "uid": "telegram:-1003789866860:529",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:529",
-        "root_post": "masik2977/529",
-        "date_url": "https://t.me/masik2977/529",
-        "media_urls": [
-          "https://t.me/masik2977/529"
-        ],
-        "caption_sha256": "3367be3b1f4a283f847f416e3640936bf14b94a8946af234a33d74c125bedd0e",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:529",
-      "thumbnail_url_sha256": "f3bba140595ffe355da2e018c26b5c334654a03502027dc18c6312e4a5fd1d77",
-      "integrity_issues": []
+        "text_sha256": "bbb9f164b1183c2b4c8dcb4291f72c1b46f5a5fed45164d0f8acfea2064301e7",
+        "classified_at": "2026-10-24T02:44:08.897670+00:00"
+      }
     },
     {
       "id": 528,
+      "message_id": 528,
+      "uid": "telegram:-1003789866860:528",
+      "channel_id": -1003789866860,
       "title": "Октябрь, спортзал — и улыбка со мной. Качаю бицуху, доволен собой! 💪",
       "caption": "Октябрь, спортзал — и улыбка со мной. Качаю бицуху, доволен собой! 💪",
       "date": "2026-10-05T16:29:11+00:00",
@@ -1304,6 +1307,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:528",
+        "root_post": "masik2977/528",
+        "date_url": "https://t.me/masik2977/528",
+        "media_urls": [
+          "https://t.me/masik2977/528"
+        ],
+        "caption_sha256": "af4d10dc0b22ba6a75e5f8bbe2817b89f4468927616526b58d022b62600c51c0",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:528",
+      "thumbnail_url_sha256": "2f773439beb76f706c68ec61b5f8143562607cd6c755af3902e9522c090f058e",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "train",
@@ -1342,28 +1358,15 @@
         "vision_error": null,
         "text_sha256": "acb8ba7ffcc624bce01153cca8cf6e2693fe8725df2b31855fc08b4f25266ce4",
         "classified_at": "2026-10-24T02:27:51.609688+00:00"
-      },
-      "message_id": 528,
-      "uid": "telegram:-1003789866860:528",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:528",
-        "root_post": "masik2977/528",
-        "date_url": "https://t.me/masik2977/528",
-        "media_urls": [
-          "https://t.me/masik2977/528"
-        ],
-        "caption_sha256": "af4d10dc0b22ba6a75e5f8bbe2817b89f4468927616526b58d022b62600c51c0",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:528",
-      "thumbnail_url_sha256": "2f773439beb76f706c68ec61b5f8143562607cd6c755af3902e9522c090f058e",
-      "integrity_issues": []
+      }
     },
     {
       "id": 526,
-      "title": "Зима всё ближе, мороз у дверей — а мы лезем в воду и греемся в ней 😄 Вода +8 с непривычки аж ноги онемели,на Волге пока теплая +17 👌",
-      "caption": "Зима всё ближе, мороз у дверей — а мы лезем в воду и греемся в ней 😄 Вода +8 с непривычки аж ноги онемели,на Волге пока теплая +17 👌",
+      "message_id": 526,
+      "uid": "telegram:-1003789866860:526",
+      "channel_id": -1003789866860,
+      "title": "Зима всё ближе, мороз у дверей — а мы лезем в воду и греемся в ней 😄 Вода +8 с непривычки аж ноги онемели,на Волге пока теплая +17👌",
+      "caption": "Зима всё ближе, мороз у дверей — а мы лезем в воду и греемся в ней 😄 Вода +8 с непривычки аж ноги онемели,на Волге пока теплая +17👌",
       "date": "2026-10-04T06:58:17+00:00",
       "url": "https://t.me/masik2977/526",
       "thumbnail": "https://cdn4.telesco.pe/file/NhwUKN5k4DXvI1IVi3KFe_sxoV5Jd_UOjj-wL-z340XzHg50XLbiLPW95aF1rGeWExFi-uINi3XMBh-kvNl-6QeviIkmut1N4VFrt6gWsuBis2KKzFeoHFQjBRy00a_hFBEsNAqsPeq3aNq1P1mT7LlxkpFyRfGyLztWJw8LjnAz_241WhE3kX371MMjX_wCIwPeX6KRMIyO697RSCLP5hC6C8jJxxPjI_SKOfn6B712AVLcE0YBKtI39tGT0QrGHwmzXW708TIDaIQdQ2TlfK3J4gptHkPmvV6n1heKIwELd1MgVDphsVVgVtx98b9wR7OqwIuyup1OlZLPbojNnw",
@@ -1372,6 +1375,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:526",
+        "root_post": "masik2977/526",
+        "date_url": "https://t.me/masik2977/526",
+        "media_urls": [
+          "https://t.me/masik2977/526"
+        ],
+        "caption_sha256": "b92816703e29d7ea109cc12261aa6ccd984a63740d068db90ec4ff9c3f1bf2d8",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:526",
+      "thumbnail_url_sha256": "85341a86d925a330c4f11771cbe9c7426445f00eae767e4d8bf1e59435596551",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "swim",
@@ -1408,30 +1424,17 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "16e2917ec43d9d0629ee23cd67bac482a62cca0438d6c9b0697ac2df10847131",
-        "classified_at": "2026-10-24T02:27:51.617852+00:00"
-      },
-      "message_id": 526,
-      "uid": "telegram:-1003789866860:526",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:526",
-        "root_post": "masik2977/526",
-        "date_url": "https://t.me/masik2977/526",
-        "media_urls": [
-          "https://t.me/masik2977/526"
-        ],
-        "caption_sha256": "11b2eb78181ebe7800f04af7aee4762dfb95e067fb87bc19078605344464db1e",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:526",
-      "thumbnail_url_sha256": "85341a86d925a330c4f11771cbe9c7426445f00eae767e4d8bf1e59435596551",
-      "integrity_issues": []
+        "text_sha256": "868052b1e96bd6b4a916ee23b2e3c73b2dd03a0bb66f55f9cdb63324e6a169e7",
+        "classified_at": "2026-10-24T02:44:08.978155+00:00"
+      }
     },
     {
       "id": 520,
-      "title": "Холод щиплет — я смеюсь, В Волге греюсь, не сдаюсь. Сам себе и баня, и заряд 😄 Реально сидел и грелся в воде в октябре 😊 ктоб мне пару лет назад такое сказал,не поверил 😂",
-      "caption": "Холод щиплет — я смеюсь, В Волге греюсь, не сдаюсь. Сам себе и баня, и заряд 😄 Реально сидел и грелся в воде в октябре 😊 ктоб мне пару лет назад такое сказал,не поверил 😂",
+      "message_id": 520,
+      "uid": "telegram:-1003789866860:520",
+      "channel_id": -1003789866860,
+      "title": "Холод щиплет — я смеюсь, В Волге греюсь, не сдаюсь. Сам себе и баня, и заряд 😄 Реально сидел и грелся в воде в октябре😊ктоб мне пару лет назад такое сказал,не поверил😂",
+      "caption": "Холод щиплет — я смеюсь, В Волге греюсь, не сдаюсь. Сам себе и баня, и заряд 😄 Реально сидел и грелся в воде в октябре😊ктоб мне пару лет назад такое сказал,не поверил😂",
       "date": "2026-10-02T12:53:39+00:00",
       "url": "https://t.me/masik2977/520",
       "thumbnail": "https://cdn4.telesco.pe/file/jqr6KPkRDk9xvbcbnhH8j6kYwDVmseuVfkEm2BVNGg3mpSwMJJU6uNQVUIBz_CADVFkkvADXew6w4XmUWMPJJcDPjJGxlR6hUh39QBR7qGo6agGrltLWrGUsai53kr6j9kZEhsvt4HvIpTASsQhrNiSAFBegyR9cZbH4jp8o6xVajxn-aDb53qtSUm82zwsaZNHZQqGzCKf3KOHMk3aytqaqHqVp2ytKwhyWc8sBb4Xmfj5v9jKdUednMrmD2NXUUX4XqbYvjwZfGodStb3vPk1tn4wvtrjiyRmg-UZ9pF33x1cp1hWMjnrY210sw76eYovDO5AETBY8qYi3Ez5vOQ",
@@ -1440,6 +1443,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:520",
+        "root_post": "masik2977/520",
+        "date_url": "https://t.me/masik2977/520",
+        "media_urls": [
+          "https://t.me/masik2977/520"
+        ],
+        "caption_sha256": "fb2c82a4a3846c7fc64c6a38c771bdece70d88dceaf49b59da3dce64d1c95c2f",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:520",
+      "thumbnail_url_sha256": "7321ebf60b6a78f45e261af13f4c21c6a9b5e5162970100b31892c5cfbfe0009",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "swim",
@@ -1476,30 +1492,17 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "d63457b7fc6f20fad236e5cd59a8a9eeab50c4f241b77e3f81546711dc5c0a5e",
-        "classified_at": "2026-10-24T02:27:51.646006+00:00"
-      },
-      "message_id": 520,
-      "uid": "telegram:-1003789866860:520",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:520",
-        "root_post": "masik2977/520",
-        "date_url": "https://t.me/masik2977/520",
-        "media_urls": [
-          "https://t.me/masik2977/520"
-        ],
-        "caption_sha256": "6e266d45178ad33894429b734cafabed1722bbabc18fefad3b7be256fd008469",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:520",
-      "thumbnail_url_sha256": "7321ebf60b6a78f45e261af13f4c21c6a9b5e5162970100b31892c5cfbfe0009",
-      "integrity_issues": []
+        "text_sha256": "816bf99991e2aa44c670d751288703d42611c9b3360cd995cbdaad53e41350dc",
+        "classified_at": "2026-10-24T02:44:09.125649+00:00"
+      }
     },
     {
       "id": 513,
-      "title": "В обед 42 часа как на жидком питании,и это легче по силовым ,когда вообще не ел и не пил 😜 на соках можно качаться и бегать 🤟 и быть полным сил",
-      "caption": "В обед 42 часа как на жидком питании,и это легче по силовым ,когда вообще не ел и не пил 😜 на соках можно качаться и бегать 🤟 и быть полным сил",
+      "message_id": 513,
+      "uid": "telegram:-1003789866860:513",
+      "channel_id": -1003789866860,
+      "title": "В обед 42 часа как на жидком питании,и это легче по силовым ,когда вообще не ел и не пил😜на соках можно качаться и бегать 🤟 и быть полным сил",
+      "caption": "В обед 42 часа как на жидком питании,и это легче по силовым ,когда вообще не ел и не пил😜на соках можно качаться и бегать 🤟 и быть полным сил",
       "date": "2026-09-29T16:31:23+00:00",
       "url": "https://t.me/masik2977/513",
       "thumbnail": "https://cdn4.telesco.pe/file/bDUIo-3pI70o-QoLXdoJgjP-giYwhoEoNUojGzk1LhAwocln_aOY-UUc6OtiN0FXCGIoD0d6ZOlMsrVSk6DTI4ml3auRqN3k50k4D7lGuk4nkHVhY14XQw40sr4t7tXjAM1wTXQfPu769vcEoySANUTB325v1mPIME44T0Gh-uvDXvchgMn8LDxTiJLtegWiW-9wqzwdlEgET2WojnJmw38B7mNqa5JBK6E5Pw1mu-MN_4RNX4R2IRaoPSppP3OYzqDIPXEPQjfVDiq-PKYerGBej3eaFqqRsD-VnFxWMyM65ulAxN0a1QkxngthaUjHl-zhBYt9ZnZZv5s8i0oszg",
@@ -1508,6 +1511,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:513",
+        "root_post": "masik2977/513",
+        "date_url": "https://t.me/masik2977/513",
+        "media_urls": [
+          "https://t.me/masik2977/513"
+        ],
+        "caption_sha256": "dc3a22f3b36891073128963c8b22bc385dcb8883cbfd69a94ade90ea04a742a3",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:513",
+      "thumbnail_url_sha256": "39d882e9b932af782aac9aea5766fe10b455af19204b080a39878a1b8438ee74",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "train",
@@ -1544,25 +1560,9 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "1bd689a401a6882384dc93de2856c437096045f74a39a18998091fb0b6c22cb9",
-        "classified_at": "2026-10-24T02:27:51.729701+00:00"
-      },
-      "message_id": 513,
-      "uid": "telegram:-1003789866860:513",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:513",
-        "root_post": "masik2977/513",
-        "date_url": "https://t.me/masik2977/513",
-        "media_urls": [
-          "https://t.me/masik2977/513"
-        ],
-        "caption_sha256": "b526884eb9df9bb027d297e52ef0c51c07d17e44b24258d647afd224a668be0d",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:513",
-      "thumbnail_url_sha256": "39d882e9b932af782aac9aea5766fe10b455af19204b080a39878a1b8438ee74",
-      "integrity_issues": []
+        "text_sha256": "36db23f78e23acf0dffbed37c476a4d0d4e9e66e0a37fbceb6f6c6d8e5d354b3",
+        "classified_at": "2026-10-24T02:44:09.252655+00:00"
+      }
     },
     {
       "id": 510,
