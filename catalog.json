@@ -3538,8 +3538,11 @@
     },
     {
       "id": 424,
+      "message_id": 424,
+      "uid": "telegram:-1003789866860:424",
+      "channel_id": -1003789866860,
       "title": "Доброе утро! ☀️ Лёгкого дня, прекрасного настроения и побольше энергии! А водица пусть смывает все трудности, тревоги и тучки внутри. 🌊 Пусть сегодня всё складывается легко, а жизн",
-      "caption": "Доброе утро! ☀️ Лёгкого дня, прекрасного настроения и побольше энергии! А водица пусть смывает все трудности, тревоги и тучки внутри. 🌊 Пусть сегодня всё складывается легко, а жизнь течёт не против тебя, а вместе с тобой. 💧 А если что-то пойдёт не так... Иди к воде. Она обычно знает, что делать. С добрым утром! Пусть день будет лёгким, а душа свежей, как после купания! 🙏 🙏 🙏",
+      "caption": "Доброе утро! ☀️ Лёгкого дня, прекрасного настроения и побольше энергии! А водица пусть смывает все трудности, тревоги и тучки внутри. 🌊 Пусть сегодня всё складывается легко, а жизнь течёт не против тебя, а вместе с тобой. 💧 А если что-то пойдёт не так... Иди к воде. Она обычно знает, что делать. С добрым утром! Пусть день будет лёгким, а душа свежей, как после купания! 🙏🙏🙏",
       "date": "2026-08-23T08:42:43+00:00",
       "url": "https://t.me/masik2977/424",
       "thumbnail": "https://cdn4.telesco.pe/file/brBfjn8iiJXi92xJCTWKEeWtZ5KLMjPb7NapQBpOAB73TmHdmfikNXXYL68XXWhqCs1maCThUYM6_XdMwWKX9756abxwgvQ6pBznudpx3Jbo4mWzv7m4TkAnZ8jiOYMD8LyMEgUr6JfVVcvHba3aMFaYBG7pmTVEqJplXVo6D45CYNKCdHjXVikMmauW8gB3TlLMO6Q4vQjDKXdfo1ATEgM6Bxi8Z_NP1uln3k-P3IZiqXp2faK10N3b3RMxwhcrYd1iV-ckyXTSa2McOsHmvRTDZy6LBYGccE_z5y2zYqkVPeBvMDY1PKOGdiCFfWFjUjZBPmIyXoEg1J8fG95kRA",
@@ -3548,6 +3551,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:424",
+        "root_post": "masik2977/424",
+        "date_url": "https://t.me/masik2977/424",
+        "media_urls": [
+          "https://t.me/masik2977/424"
+        ],
+        "caption_sha256": "62e47de85e1f106e760a0e76340a75556e0f735982007b52a071b3f247dc3133",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:424",
+      "thumbnail_url_sha256": "1dc9da526ab47c2d51ebf9fd51d8c0a42ca5c8b593dc5f7df8fd191d4cb9c4aa",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "swim",
@@ -3584,28 +3600,15 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "ecf8640bc811cf5201c9b073a9fe70d33edc4fd74d60fcbe3c71d6e38564b92a",
-        "classified_at": "2026-10-24T02:27:52.138873+00:00"
-      },
-      "message_id": 424,
-      "uid": "telegram:-1003789866860:424",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:424",
-        "root_post": "masik2977/424",
-        "date_url": "https://t.me/masik2977/424",
-        "media_urls": [
-          "https://t.me/masik2977/424"
-        ],
-        "caption_sha256": "5b47565a8115eaa6440ac9071443f95a556b9d5b3d89e8470e479593de9b48d2",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:424",
-      "thumbnail_url_sha256": "1dc9da526ab47c2d51ebf9fd51d8c0a42ca5c8b593dc5f7df8fd191d4cb9c4aa",
-      "integrity_issues": []
+        "text_sha256": "58d91abb310deacea308cbc41819ed49f14837bf8101ab4a714a6744ab0aefb4",
+        "classified_at": "2026-10-24T03:09:24.227384+00:00"
+      }
     },
     {
       "id": 421,
+      "message_id": 421,
+      "uid": "telegram:-1003789866860:421",
+      "channel_id": -1003789866860,
       "title": "Аскезы это хорошо и нужно,но как же потом божественнен вкус простого свежевыжатого сока,рецепторы организма очищены и пить сок просто Райское наслаждение",
       "caption": "Аскезы это хорошо и нужно,но как же потом божественнен вкус простого свежевыжатого сока,рецепторы организма очищены и пить сок просто Райское наслаждение",
       "date": "2026-08-21T08:48:40+00:00",
@@ -3616,6 +3619,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:421",
+        "root_post": "masik2977/421",
+        "date_url": "https://t.me/masik2977/421",
+        "media_urls": [
+          "https://t.me/masik2977/421"
+        ],
+        "caption_sha256": "064bc4bb8bec3216d463526dd372cc66cc4c6a43bad6337edb3e90bc6c458e4c",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:421",
+      "thumbnail_url_sha256": "9bcf4b597685b662245bb397f98d46b13f86fec52aa854f40fee4590d9a05794",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "food",
@@ -3654,28 +3670,15 @@
         "vision_error": null,
         "text_sha256": "def3f104b7333bcaa8fdda0ab90194cf8b542abc080d947c2aab40257183f3c0",
         "classified_at": "2026-10-24T02:27:52.155865+00:00"
-      },
-      "message_id": 421,
-      "uid": "telegram:-1003789866860:421",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:421",
-        "root_post": "masik2977/421",
-        "date_url": "https://t.me/masik2977/421",
-        "media_urls": [
-          "https://t.me/masik2977/421"
-        ],
-        "caption_sha256": "064bc4bb8bec3216d463526dd372cc66cc4c6a43bad6337edb3e90bc6c458e4c",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:421",
-      "thumbnail_url_sha256": "9bcf4b597685b662245bb397f98d46b13f86fec52aa854f40fee4590d9a05794",
-      "integrity_issues": []
+      }
     },
     {
       "id": 420,
+      "message_id": 420,
+      "uid": "telegram:-1003789866860:420",
+      "channel_id": -1003789866860,
       "title": "Пятница, весёлый день, Солнце светит, зелень близко. Волга плещется, не лень Пробежаться рядом с ней. 🌿 Воздух свежий, красота, Птицы что-то напевают. И от этой простоты На душе св",
-      "caption": "Пятница, весёлый день, Солнце светит, зелень близко. Волга плещется, не лень Пробежаться рядом с ней. 🌿 Воздух свежий, красота, Птицы что-то напевают. И от этой простоты На душе светлей бывает. Пробежался вдоль реки, А потом нырнул в прохладу. 🌊 Вот такие пустяки Иногда и есть награда. Ничего не надо больше: Просто утро, Волга, свет. И вдруг сердце принимает Радости живой привет. 🌿 🌊 ☀️",
+      "caption": "Пятница, весёлый день, Солнце светит, зелень близко. Волга плещется, не лень Пробежаться рядом с ней. 🌿 Воздух свежий, красота, Птицы что-то напевают. И от этой простоты На душе светлей бывает. Пробежался вдоль реки, А потом нырнул в прохладу. 🌊 Вот такие пустяки Иногда и есть награда. Ничего не надо больше: Просто утро, Волга, свет. И вдруг сердце принимает Радости живой привет. 🌿🌊☀️",
       "date": "2026-08-21T05:59:27+00:00",
       "url": "https://t.me/masik2977/420",
       "thumbnail": "https://cdn4.telesco.pe/file/ILtUE6Dp2Ts5gGx3wk0cdIJzVSpFJQObm2TXmNWpZu0P5EcLSf_ERZIw71nblNgti1KQMS2gtT8fny-1TyJHeqhjXhvdiYRV510i3NfIbfusGhAIC8Z0znnyGher4ISXxn_4wDZlbtx3w-XIh7k6zlEd0y704uS_HbC0kS2L2S2Hufn0-ZpFm8Mxu-7StOo9RaDOPpA2FG1nLew7CiTyZ4x5J5G_FJGF5ULYIOu_s6gH42lEGlkyuV9gwP8wEZ1c-Zj6mZtCWhW3V17U8cmn2ObLqvWZHj5aKyrbPB9lNCHGTtnFEC6yT_FI22_-IvylCGZZswGL2OUlb8b30frcdQ",
@@ -3684,6 +3687,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:420",
+        "root_post": "masik2977/420",
+        "date_url": "https://t.me/masik2977/420",
+        "media_urls": [
+          "https://t.me/masik2977/420"
+        ],
+        "caption_sha256": "5855d1847eb55a2dec0dcd932b90c9f2efccf23b9c90cd01a55c9cc0a2eef407",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:420",
+      "thumbnail_url_sha256": "ca4e6645d87c9bc22045a8007e7c137e11bd3eab0cff66f7cd596282852c1061",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "run",
@@ -3720,30 +3736,17 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "abbb41cfcc519cc5fc4a1da9e08b9c6ffbec7a53494072174488372ef260b00f",
-        "classified_at": "2026-10-24T02:27:52.158885+00:00"
-      },
-      "message_id": 420,
-      "uid": "telegram:-1003789866860:420",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:420",
-        "root_post": "masik2977/420",
-        "date_url": "https://t.me/masik2977/420",
-        "media_urls": [
-          "https://t.me/masik2977/420"
-        ],
-        "caption_sha256": "9723c532fc89f5d32b3ff56ff41b3e58d088bb314747535589759fa06103a9e6",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:420",
-      "thumbnail_url_sha256": "ca4e6645d87c9bc22045a8007e7c137e11bd3eab0cff66f7cd596282852c1061",
-      "integrity_issues": []
+        "text_sha256": "cd8eb3d94b304c21280d256bc9e3e078d918079e61f27825cb2ba206e68c0e0d",
+        "classified_at": "2026-10-24T03:09:26.754695+00:00"
+      }
     },
     {
       "id": 419,
-      "title": "Новый смузи 👍 спустя 96 часов покушал 😜",
-      "caption": "Новый смузи 👍 спустя 96 часов покушал 😜",
+      "message_id": 419,
+      "uid": "telegram:-1003789866860:419",
+      "channel_id": -1003789866860,
+      "title": "Новый смузи 👍спустя 96 часов покушал😜",
+      "caption": "Новый смузи 👍спустя 96 часов покушал😜",
       "date": "2026-08-20T18:28:54+00:00",
       "url": "https://t.me/masik2977/419",
       "thumbnail": "https://cdn4.telesco.pe/file/nT99LfNROp8RchRlvyO7ih9wdY7AdZ6IyjnHFfCXbGZEIX3mF1On1P42nT5_K6ojFRRdRATy4-Z8_qn-e5qbeD8u-D2ikzYNCdXF-vXk3zPk2Ejp8gutiqg1ZPwcvIQUC6j-gE3pP3CB7HtHrWa-P7RbPSSr1Pg05tuN6LzDjv9y7O6S-irHs3WB52AgeB2X5sIZPtfkbQwZkLcH47XgJ9TEFNUWkz9CxpqsIPoTuXXtMUvCFUxW8yLbitQQZ-CL9V16xWpvxBM55T1tOmnDATcoTb2h-S4gVInQijC0RM1n-TSKMFkwNgpZSUhfX6LENXy8ZhwpLsflFcK3dKVuXA",
@@ -3752,6 +3755,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:419",
+        "root_post": "masik2977/419",
+        "date_url": "https://t.me/masik2977/419",
+        "media_urls": [
+          "https://t.me/masik2977/419"
+        ],
+        "caption_sha256": "0e4c452d2b644c020cd0768ee1e652750a93ea41558a3b34cd84922ebebb218d",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:419",
+      "thumbnail_url_sha256": "0b6c90ed0bbbab6cb19e1bf7378f57995e95394943a23a72c5f45842f44565b9",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "food",
@@ -3788,30 +3804,17 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "8799916055ea1770f398783a6362b6cff488089c814664bcd1b19881377be52e",
-        "classified_at": "2026-10-24T02:27:52.168874+00:00"
-      },
-      "message_id": 419,
-      "uid": "telegram:-1003789866860:419",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:419",
-        "root_post": "masik2977/419",
-        "date_url": "https://t.me/masik2977/419",
-        "media_urls": [
-          "https://t.me/masik2977/419"
-        ],
-        "caption_sha256": "cd3071b54f8aa3c2e3ad78ce8dc928bdefb08d2d461fd6743145aa76ed1554c4",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:419",
-      "thumbnail_url_sha256": "0b6c90ed0bbbab6cb19e1bf7378f57995e95394943a23a72c5f45842f44565b9",
-      "integrity_issues": []
+        "text_sha256": "3234665e23e59dd909e5306c31e00b7a20b28a61c01a07084abae99e1dd89e8b",
+        "classified_at": "2026-10-24T03:09:27.680564+00:00"
+      }
     },
     {
       "id": 417,
-      "title": "Тренировка без еды 60 часов проходит жарко 👍",
-      "caption": "Тренировка без еды 60 часов проходит жарко 👍",
+      "message_id": 417,
+      "uid": "telegram:-1003789866860:417",
+      "channel_id": -1003789866860,
+      "title": "Тренировка без еды 60 часов проходит жарко👍",
+      "caption": "Тренировка без еды 60 часов проходит жарко👍",
       "date": "2026-08-19T11:22:48+00:00",
       "url": "https://t.me/masik2977/417",
       "thumbnail": "https://cdn4.telesco.pe/file/RzIbFT1uJ0Of6KYrfcQ6MpyM_1snavkCdVHTdoItlZuHpCR_GOrf4XNldgAv1NKl2Hgg_L-WaoU4HHkIl0cGzLlnd1RYMPqI2WkKweOGaXKN2TW4DhGSXoL7wh1SECyr-OhVu4zA7xVeONck3VSbUlb5ueHYBW7htK_yMiRktt_nP6abk3GpJsyyX-lmnK-mOX2osCVfF_hwtqgUX6iUtJouMUTaUlRRyoi_mYR-exkXVjC0Qco51ULlk7vgYCrU9075zllIVxVJEwoXI4YzR4FWaqFcxilcvFoFS9pGMJqvl12X4_iZI29yONyeYO12iRXwaY0ivBEeZ2GZgsNPhg",
@@ -3820,6 +3823,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:417",
+        "root_post": "masik2977/417",
+        "date_url": "https://t.me/masik2977/417",
+        "media_urls": [
+          "https://t.me/masik2977/417"
+        ],
+        "caption_sha256": "09ed3fbca4e87e2ccd7327564bdf1918298226c689964f6cb09e986d862fc401",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:417",
+      "thumbnail_url_sha256": "e6b4795b1409f790d150be41170ffca2bb46ac4d7fc5352a50cbaf01ec9f55c7",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "train",
@@ -3856,30 +3872,17 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "c8ab8a1f9ec02e70f634bb8cbbf6e072d23814d9acf576d64ac6868a5f3a7634",
-        "classified_at": "2026-10-24T02:27:52.180885+00:00"
-      },
-      "message_id": 417,
-      "uid": "telegram:-1003789866860:417",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:417",
-        "root_post": "masik2977/417",
-        "date_url": "https://t.me/masik2977/417",
-        "media_urls": [
-          "https://t.me/masik2977/417"
-        ],
-        "caption_sha256": "8ba3181e355ff5bb4ca458aabd00a150f8e3a5ba5a556dc5e0c56fd3dcaf9d9a",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:417",
-      "thumbnail_url_sha256": "e6b4795b1409f790d150be41170ffca2bb46ac4d7fc5352a50cbaf01ec9f55c7",
-      "integrity_issues": []
+        "text_sha256": "b6d1cf0abaf82c2a3efb3a0925020284bf0f201da86c6779481f5f0ffb23ca52",
+        "classified_at": "2026-10-24T03:09:28.662217+00:00"
+      }
     },
     {
       "id": 415,
+      "message_id": 415,
+      "uid": "telegram:-1003789866860:415",
+      "channel_id": -1003789866860,
       "title": "Какой прекрасный новый день! Так хочется любить, смеяться, И просто пить))) И наслаждаться видом прекрасных берегов. А позади 60 часов Чистейших и живых. Сознание чистое, душа лёгк",
-      "caption": "Какой прекрасный новый день! Так хочется любить, смеяться, И просто пить))) И наслаждаться видом прекрасных берегов. А позади 60 часов Чистейших и живых. Сознание чистое, душа лёгкая... После 60 часов без еды смотришь на природу особенно внимательно. Берёзы красивые. Волга прекрасная. Даже голуби какие-то духовные пошли... 😂 Стою на берегу, смотрю вдаль и понимаю: Вот оно! Просветление! Не надо ничего хотеть... Кроме стакана воды. 😄 Природа лечит, вода радует, солнце светит, ветер обнимает. А желудок сидит в сторонке и говорит: «Ну всё, философию мы поняли. Теперь давай уже по существу!» 😂 И ведь самое интересное, после Чистейших начинаешь замечать простые вещи. Как солнце играет на воде. Как птицы разговаривают. Как трава пахнет. Как ветер касается лица. И понимаешь, как прекрасна жизнь, когда ты не пытаешься её постоянно улучшать. Не надо никуда спешить. Просто стоишь у Волги... дышишь... смеёшься... любишь этот мир... И вдруг понимаешь: просветление, возможно, действительно существует. Просто у него, зараза, очень сильная жажда! 😂 💧 Так что новый день встречаем с любовью, благодарностью и первым священным напитком просветлённого богатыря... ВОДОЙ! 💧 😂 Волга течёт. Солнце светит. Сердце радуется. А жизнь продолжается. И, пожалуй, в этом и есть самая простая философия: быть здесь. Дышать. Любить. Смеяться. И вовремя пить воду. 😄 🌿 💧",
+      "caption": "Какой прекрасный новый день! Так хочется любить, смеяться, И просто пить))) И наслаждаться видом прекрасных берегов. А позади 60 часов Чистейших и живых. Сознание чистое, душа лёгкая... После 60 часов без еды смотришь на природу особенно внимательно. Берёзы красивые. Волга прекрасная. Даже голуби какие-то духовные пошли... 😂 Стою на берегу, смотрю вдаль и понимаю: Вот оно! Просветление! Не надо ничего хотеть... Кроме стакана воды. 😄 Природа лечит, вода радует, солнце светит, ветер обнимает. А желудок сидит в сторонке и говорит: «Ну всё, философию мы поняли. Теперь давай уже по существу!» 😂 И ведь самое интересное, после Чистейших начинаешь замечать простые вещи. Как солнце играет на воде. Как птицы разговаривают. Как трава пахнет. Как ветер касается лица. И понимаешь, как прекрасна жизнь, когда ты не пытаешься её постоянно улучшать. Не надо никуда спешить. Просто стоишь у Волги... дышишь... смеёшься... любишь этот мир... И вдруг понимаешь: просветление, возможно, действительно существует. Просто у него, зараза, очень сильная жажда! 😂💧 Так что новый день встречаем с любовью, благодарностью и первым священным напитком просветлённого богатыря... ВОДОЙ! 💧😂 Волга течёт. Солнце светит. Сердце радуется. А жизнь продолжается. И, пожалуй, в этом и есть самая простая философия: быть здесь. Дышать. Любить. Смеяться. И вовремя пить воду. 😄🌿💧",
       "date": "2026-08-19T05:40:24+00:00",
       "url": "https://t.me/masik2977/415",
       "thumbnail": "https://cdn4.telesco.pe/file/A3qSe_W569YoTWbshBRZNhi86c1H_XSJX8uGbNev9h_33eQJTuidIK_CSKFk2_N9rPMBht-b_T43ACxoPs5UTBNuMoukXTXfrQfm7BD49ynNGanebxc_kLHqz8GoNl6zwnJa3itP7Di69EH3iDCxVpA0nRio4EKa0UL7xw5FPpxdJ82EdDYbVXjyQmpBsoH7Gz47QJoRgtYntOOjOYHfummD9Zi5b2N5-NslvKW7d3GTwC-ru2NcdSMiwDYgYL3J-4_Phhqm5JvM5-J6oggpZCvq2gb1yp4J57MKUVyQ_SsQ0AiBrm1BeYDextAPU-JuoYA351bURV7YcjR2HGmlrg",
@@ -3888,6 +3891,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:415",
+        "root_post": "masik2977/415",
+        "date_url": "https://t.me/masik2977/415",
+        "media_urls": [
+          "https://t.me/masik2977/415"
+        ],
+        "caption_sha256": "92d8daf0609b9b0b892ffeb22a57a105135234bfeba7398497f2aa16e114d208",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:415",
+      "thumbnail_url_sha256": "e60722674c78b8c7b8518f6eaea6d4a6827937d48780b49e0999da832de04a20",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "philosophy",
@@ -3924,28 +3940,15 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "5c3d790a7dbe1cbfa1392e64bac7a4420a7e8c1f9c1fc0c09daa3fe260293138",
-        "classified_at": "2026-10-24T02:27:52.192035+00:00"
-      },
-      "message_id": 415,
-      "uid": "telegram:-1003789866860:415",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:415",
-        "root_post": "masik2977/415",
-        "date_url": "https://t.me/masik2977/415",
-        "media_urls": [
-          "https://t.me/masik2977/415"
-        ],
-        "caption_sha256": "10fc3d38f819ced14af493c4f0fa144b4fcadcc3d1c6f3e4800eb7b6a34ee0d5",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:415",
-      "thumbnail_url_sha256": "e60722674c78b8c7b8518f6eaea6d4a6827937d48780b49e0999da832de04a20",
-      "integrity_issues": []
+        "text_sha256": "8d3ce24f169209145f4e717fe551a17bc0428f28de7bb60ea2ba0a411cec5caf",
+        "classified_at": "2026-10-24T03:09:31.048668+00:00"
+      }
     },
     {
       "id": 413,
+      "message_id": 413,
+      "uid": "telegram:-1003789866860:413",
+      "channel_id": -1003789866860,
       "title": "‎Вторник. Спортзал ‎ ‎Вот это я руки закачал, ‎Пот ручьём с меня бежал, ‎Вены вздулись, словно реки, ‎Кровь гуляет в человеке! ‎ ‎Бицепс нынче разгулялся, ‎До плеча почти добрался,",
       "caption": "‎Вторник. Спортзал ‎ ‎Вот это я руки закачал, ‎Пот ручьём с меня бежал, ‎Вены вздулись, словно реки, ‎Кровь гуляет в человеке! ‎ ‎Бицепс нынче разгулялся, ‎До плеча почти добрался, ‎Штанга смотрит: «Ну, герой, ‎Ты сегодня что ль со мной?» ‎ ‎А я ей: «Давай, родная, ‎У нас жизнь с тобой такая! ‎Ты железная, я живой, ‎Но характер у нас стальной!» ‎ ‎Гантеля справа, гантеля слева, ‎Руки ноют, не помеха! ‎Я им: «Очень рано ныть, ‎Нужно молча, не флудить!» 😄 ‎ ‎Пот струится по спине, ‎Сила ходит по стране, ‎Бицепс круглый, как кувалда, ‎Вот она, мужская правда! 💪 ‎ ‎Руки, блин, как два бревна, ‎Но душа полна огня. ‎Тяжело? Ну и пускай, ‎Подышал и продолжай! ‎ ‎Ещё подход, ещё повтор, ‎И снова мышцы держат спор. ‎Пот со лба, железо в руки, ‎Вот где счастье, вот где муки! 😄 ‎ ‎Так что, братцы, если жизнь ‎Что-то стала не бодра, ‎На диване не лежите, ‎А в спортзале попыхтите! 😄 ‎ ‎Пот со лба, железо в руки, ‎Вот где счастье, вот где муки! 😄",
       "date": "2026-08-18T12:16:11+00:00",
@@ -3956,6 +3959,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:413",
+        "root_post": "masik2977/413",
+        "date_url": "https://t.me/masik2977/413",
+        "media_urls": [
+          "https://t.me/masik2977/413"
+        ],
+        "caption_sha256": "c64596d16eb199def3a500d911ec3805f484614b0af1c13844671437c5e1c1d5",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:413",
+      "thumbnail_url_sha256": "68b56540c5de6f9c76bfe9a8c61a1ce4aa96bb960869a7a8df2f8926ff951863",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "train",
@@ -3994,28 +4010,15 @@
         "vision_error": null,
         "text_sha256": "f6f171d43b6caa6cddbc5828a0cc217a2a9a87187b41bed995e1b8910626b979",
         "classified_at": "2026-10-24T02:27:52.208089+00:00"
-      },
-      "message_id": 413,
-      "uid": "telegram:-1003789866860:413",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:413",
-        "root_post": "masik2977/413",
-        "date_url": "https://t.me/masik2977/413",
-        "media_urls": [
-          "https://t.me/masik2977/413"
-        ],
-        "caption_sha256": "c64596d16eb199def3a500d911ec3805f484614b0af1c13844671437c5e1c1d5",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:413",
-      "thumbnail_url_sha256": "68b56540c5de6f9c76bfe9a8c61a1ce4aa96bb960869a7a8df2f8926ff951863",
-      "integrity_issues": []
+      }
     },
     {
       "id": 412,
+      "message_id": 412,
+      "uid": "telegram:-1003789866860:412",
+      "channel_id": -1003789866860,
       "title": "Вторник, новый добрый день, А я всё бегу, и мне не лень. Заряжаюсь от земли, И бодрюся от воды. Тридцать шесть часов очистки организма от еды! Как же хорошо с утра Быть в гармонии ",
-      "caption": "Вторник, новый добрый день, А я всё бегу, и мне не лень. Заряжаюсь от земли, И бодрюся от воды. Тридцать шесть часов очистки организма от еды! Как же хорошо с утра Быть в гармонии с собой, Где душа уже поёт, А желудок… держит строй! 😄 Тело говорит: «Давай!» Разум: «Просто продолжай!» Счастье в том, чтоб утром встать, Пробежаться, постоять, Окунуться в Волгу-мать И принять ту Благодать. 🙏 🌊 Но гармония проста: Земля, вода и чистота. И за этот новый день, За рассвет и солнца тень, За возможность жить, дышать, Бегать, чувствовать, мечтать, Я скажу без лишних слов: Благодарен за любовь. 🌿 Спасибо, Волга, за рассвет, За силу, воду и привет. Спасибо жизни за пути, За то, что можно жить в Любви. 🙏 🌿",
+      "caption": "Вторник, новый добрый день, А я всё бегу, и мне не лень. Заряжаюсь от земли, И бодрюся от воды. Тридцать шесть часов очистки организма от еды! Как же хорошо с утра Быть в гармонии с собой, Где душа уже поёт, А желудок… держит строй! 😄 Тело говорит: «Давай!» Разум: «Просто продолжай!» Счастье в том, чтоб утром встать, Пробежаться, постоять, Окунуться в Волгу-мать И принять ту Благодать. 🙏🌊 Но гармония проста: Земля, вода и чистота. И за этот новый день, За рассвет и солнца тень, За возможность жить, дышать, Бегать, чувствовать, мечтать, Я скажу без лишних слов: Благодарен за любовь. 🌿 Спасибо, Волга, за рассвет, За силу, воду и привет. Спасибо жизни за пути, За то, что можно жить в Любви. 🙏🌿",
       "date": "2026-08-18T05:36:41+00:00",
       "url": "https://t.me/masik2977/412",
       "thumbnail": "https://cdn4.telesco.pe/file/d3-QFiqhA4pkfMYo6jq2hU4SgKxm2pivDheY9BqdTFE39EhkV-dbbeO27fx9B7i1m78Vw_HdXJ6aWIgl_nTlGx820nMkxFw99o9MOKxbBrLJSBmoR4lMlRUjtHYN-38T2J-SNH2E1CBRHJKDatwUnltdL_0gmrZJxN7_C0PXfaNzq0--d2QHlspxPKPXE8VEza0UyDMQoQHNmGrmBbf2K5kMkshala5UYKkpL58FeOzHSfpNCjPFWlExVv9CUswiI3uR7nEYFBcafQuG1PKQfqIcsIWS1vTSbATmt0PbN6XYwrZuQb_NSoN_UMt-9Z3GqK8RhO7X7juIT3cCm3CFYQ",
@@ -4024,6 +4027,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:412",
+        "root_post": "masik2977/412",
+        "date_url": "https://t.me/masik2977/412",
+        "media_urls": [
+          "https://t.me/masik2977/412"
+        ],
+        "caption_sha256": "e883e64dace8a64ba9b1c52802057648e5d4ce481908253b5c8d962b878d3c21",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:412",
+      "thumbnail_url_sha256": "773fa763fda0b83d0c1874f7704f3336d3e54c08907eb803acdcfff6581fcbec",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "run",
@@ -4060,30 +4076,17 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "9b7b99ab90a141e095fd023bfd6665f94167f628d6cd0dfac7b8c957280fd66d",
-        "classified_at": "2026-10-24T02:27:52.217220+00:00"
-      },
-      "message_id": 412,
-      "uid": "telegram:-1003789866860:412",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:412",
-        "root_post": "masik2977/412",
-        "date_url": "https://t.me/masik2977/412",
-        "media_urls": [
-          "https://t.me/masik2977/412"
-        ],
-        "caption_sha256": "1a065548b19c7e8f97cf27783d75657aeb9c9ba51364df5dcb465bb708ff4e9f",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:412",
-      "thumbnail_url_sha256": "773fa763fda0b83d0c1874f7704f3336d3e54c08907eb803acdcfff6581fcbec",
-      "integrity_issues": []
+        "text_sha256": "12aee8b43856b938143789203377bed5c1e3f2b756039da1cfb6a54808d0ab85",
+        "classified_at": "2026-10-24T03:09:31.803391+00:00"
+      }
     },
     {
       "id": 410,
-      "title": "15 часовая пауза без еды,можно и немного поесть сока 👍 😜",
-      "caption": "15 часовая пауза без еды,можно и немного поесть сока 👍 😜",
+      "message_id": 410,
+      "uid": "telegram:-1003789866860:410",
+      "channel_id": -1003789866860,
+      "title": "15 часовая пауза без еды,можно и немного поесть сока👍😜",
+      "caption": "15 часовая пауза без еды,можно и немного поесть сока👍😜",
       "date": "2026-08-17T08:12:17+00:00",
       "url": "https://t.me/masik2977/410",
       "thumbnail": "https://cdn4.telesco.pe/file/hLnd1Ajc4XIdy2jWycHC2IeQ1ewmHL1vY8JIJJqWwlZByKUSdfazv1HC0-0AlllwNGRQUlxRw2-10M4PUuvz7tX7_Rqm6G8sK030hQOFx8mH12_2K-vELSOU00fKmDn8_sqs-vkk_qs8FKyjf66Cylkryr7NNE7bh_LM52pQOm5ghC7bq1p4M99CC1RrdVRK67QFZVMZrl8yuscu1L1PwiZg8oqNTKs0wnpLPsip0PuGuZ4VKtVxZ6HMnYanhLEtTR_spuCOeWXeuJRtPEVz3uX7rLGZCH2s2YJ2nlG0HV_aLCozVggQK9-Q71JrEDYMLEl6RZKTIFNC9PowVBocFw",
@@ -4092,6 +4095,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:410",
+        "root_post": "masik2977/410",
+        "date_url": "https://t.me/masik2977/410",
+        "media_urls": [
+          "https://t.me/masik2977/410"
+        ],
+        "caption_sha256": "316e507124e2aa57a6c138878cf889a86913c02ee0236270055db7cb62ad03ee",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:410",
+      "thumbnail_url_sha256": "e9f009f4373579042e0df7952ff00f7b740ffd33175000bafbd2e80a60fe3a35",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "food",
@@ -4128,28 +4144,15 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "2020cdebd2e2f4f66bdf4a3cedfeb50b4ffa34fcbab34ab4ab2c2355b2224c7e",
-        "classified_at": "2026-10-24T02:27:52.222087+00:00"
-      },
-      "message_id": 410,
-      "uid": "telegram:-1003789866860:410",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:410",
-        "root_post": "masik2977/410",
-        "date_url": "https://t.me/masik2977/410",
-        "media_urls": [
-          "https://t.me/masik2977/410"
-        ],
-        "caption_sha256": "a6cd4055e04191e06a5646476f47d284097e0fc02aa58234beef43507449d0ee",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:410",
-      "thumbnail_url_sha256": "e9f009f4373579042e0df7952ff00f7b740ffd33175000bafbd2e80a60fe3a35",
-      "integrity_issues": []
+        "text_sha256": "5bd41675b60d3741b2e4fa8401fa1c1e3b1605544604e561760d2415d267f412",
+        "classified_at": "2026-10-24T03:09:32.456077+00:00"
+      }
     },
     {
       "id": 409,
+      "message_id": 409,
+      "uid": "telegram:-1003789866860:409",
+      "channel_id": -1003789866860,
       "title": "Неделя началась, а красота вокруг не кончилась! 😊 Босиком по песку бегу, природой дышу, в воду ныряю, позитивом заряжаюсь! И вроде ничего особенного… А настроение такое, будто жизн",
       "caption": "Неделя началась, а красота вокруг не кончилась! 😊 Босиком по песку бегу, природой дышу, в воду ныряю, позитивом заряжаюсь! И вроде ничего особенного… А настроение такое, будто жизнь опять выиграла главный приз! 😂 Всем лёгкого понедельника, свежего дыхания и побольше радости вокруг! 🙏",
       "date": "2026-08-17T05:49:21+00:00",
@@ -4160,6 +4163,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:409",
+        "root_post": "masik2977/409",
+        "date_url": "https://t.me/masik2977/409",
+        "media_urls": [
+          "https://t.me/masik2977/409"
+        ],
+        "caption_sha256": "7ab1ea2aad43ca054b5ebf8ddff8ad3b50271592d9bb057233b3572f0084077b",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:409",
+      "thumbnail_url_sha256": "922df0348aa84ace80499f89b16fc0143e0903677389b69b5dacc60fe97612e3",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "swim",
@@ -4198,28 +4214,15 @@
         "vision_error": null,
         "text_sha256": "7baf74336d8f8e06c5ec83647608d2e3e16fe3e331e587b727b5b686596f22b7",
         "classified_at": "2026-10-24T02:27:52.226092+00:00"
-      },
-      "message_id": 409,
-      "uid": "telegram:-1003789866860:409",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:409",
-        "root_post": "masik2977/409",
-        "date_url": "https://t.me/masik2977/409",
-        "media_urls": [
-          "https://t.me/masik2977/409"
-        ],
-        "caption_sha256": "7ab1ea2aad43ca054b5ebf8ddff8ad3b50271592d9bb057233b3572f0084077b",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:409",
-      "thumbnail_url_sha256": "922df0348aa84ace80499f89b16fc0143e0903677389b69b5dacc60fe97612e3",
-      "integrity_issues": []
+      }
     },
     {
       "id": 405,
+      "message_id": 405,
+      "uid": "telegram:-1003789866860:405",
+      "channel_id": -1003789866860,
       "title": "Утром встаю — и мир мне открыт, Внутри не спешка, а ровный магнит. Я слушаю тело, не спорю с собой: Где нужно — замедлю, где нужно — прибой. И каждый мой шаг — это выбор живой: Быт",
-      "caption": "Утром встаю — и мир мне открыт, Внутри не спешка, а ровный магнит. Я слушаю тело, не спорю с собой: Где нужно — замедлю, где нужно — прибой. И каждый мой шаг — это выбор живой: Быть ближе к природе, быть просто собой. Долголетие — это не цифры в годах, А свет, что не гаснет в уставших глазах. Это чистая сила в простых вещах — Быть в тишине, быть на ветру, быть в лесах. И это движение — к чистой воде, Где утро рождается в лёгкой реке. Ледяная вода встречает меня, И тело просыпается, жизнь сохраняя. Как будто уходит усталости след, И заново в теле рождается свет. И каждая капля — как новый заряд, Который сильнее любых наград. И в мягком дыхании, в плавных шагах Живёт тишина, растворяя мой страх. И лёгкость в движении — мой внутренний путь, Где можно к себе и природе вернуться. Энергия мира проходит сквозь грудь, И легче становится выбранный путь. И время не давит, не гонит вперёд, А просто присутствием тихо живёт. Я слушаю тело, дыхание, путь — И в этом моя настоящая суть. Без спешки, без шума, без лишних оков — Лишь сила природы и мудрость веков. Живу полной Жизнью — и Свет раздаю, Не просто дышу — я всем сердцем живу. Чем больше я даю — тем богаче внутри, И Мир отвечает мне теплом и Любовью. И тело моё — как храм и как Путь, Где можно проснуться, а не уснуть. И если когда-то притихнет мой свет, Не огорчусь я, ведь я человек. Не в скорости смысл, а в том, чтобы жить, Любить, понимать и осознанным быть. И где-то за этим простым бытием Рождается тихо мой главный закон: Жить долго и счастливо, вне счёта веков, Сквозь время неся глубину и Любовь. Не в Деньгах измерить богатство Души, А в Мудрости Света, что зреет внутри. И чем больше Добра ты несёшь для Людей, Тем больше ты Любишь и сердце добрей. И путь мой не в спешке, не в шуме пустом — А в качестве Света, рождённого в нём. 🙏 🙏 🙏",
+      "caption": "Утром встаю — и мир мне открыт, Внутри не спешка, а ровный магнит. Я слушаю тело, не спорю с собой: Где нужно — замедлю, где нужно — прибой. И каждый мой шаг — это выбор живой: Быть ближе к природе, быть просто собой. Долголетие — это не цифры в годах, А свет, что не гаснет в уставших глазах. Это чистая сила в простых вещах — Быть в тишине, быть на ветру, быть в лесах. И это движение — к чистой воде, Где утро рождается в лёгкой реке. Ледяная вода встречает меня, И тело просыпается, жизнь сохраняя. Как будто уходит усталости след, И заново в теле рождается свет. И каждая капля — как новый заряд, Который сильнее любых наград. И в мягком дыхании, в плавных шагах Живёт тишина, растворяя мой страх. И лёгкость в движении — мой внутренний путь, Где можно к себе и природе вернуться. Энергия мира проходит сквозь грудь, И легче становится выбранный путь. И время не давит, не гонит вперёд, А просто присутствием тихо живёт. Я слушаю тело, дыхание, путь — И в этом моя настоящая суть. Без спешки, без шума, без лишних оков — Лишь сила природы и мудрость веков. Живу полной Жизнью — и Свет раздаю, Не просто дышу — я всем сердцем живу. Чем больше я даю — тем богаче внутри, И Мир отвечает мне теплом и Любовью. И тело моё — как храм и как Путь, Где можно проснуться, а не уснуть. И если когда-то притихнет мой свет, Не огорчусь я, ведь я человек. Не в скорости смысл, а в том, чтобы жить, Любить, понимать и осознанным быть. И где-то за этим простым бытием Рождается тихо мой главный закон: Жить долго и счастливо, вне счёта веков, Сквозь время неся глубину и Любовь. Не в Деньгах измерить богатство Души, А в Мудрости Света, что зреет внутри. И чем больше Добра ты несёшь для Людей, Тем больше ты Любишь и сердце добрей. И путь мой не в спешке, не в шуме пустом — А в качестве Света, рождённого в нём. 🙏🙏🙏",
       "date": "2026-08-15T08:49:56+00:00",
       "url": "https://t.me/masik2977/405",
       "thumbnail": "https://cdn4.telesco.pe/file/GgBj8oIiEYLzHJxW8YPJqTA2IfA0_R1ctU49gNfIfDaj18bUNvnpCWVzrHVgKBlAPlULNFUNv76Fv0NrLlaCSynFS1PKRsQ2VBOdVx1QddspIgNAFPWiVSYBt0L39ZQlJ6Phe_CvgI62l-lOFVZoK5ogBsbK14ReAF_AULH8w0KS8hp6Oto2M8XqogGkKaZWFDXaQOEndzTpN7RY6rUknWCkswP7QpSNqTdNqMPoIsH8Z3YgnExRoMU3eLXy7y6r9ZUYP1hh9Ck8tjG6LvdYneaXe69Ar7g2L_ti5l6CEMRyFmNSbWJ-PWRFTw_ClxlbfbFGT72CFrO3sIztvgZpag",
@@ -4228,6 +4231,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:405",
+        "root_post": "masik2977/405",
+        "date_url": "https://t.me/masik2977/405",
+        "media_urls": [
+          "https://t.me/masik2977/405"
+        ],
+        "caption_sha256": "56f7ae6119b7c1c251e39af58bc213822712ea5ef0942e4634153a19d0ed6b5c",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:405",
+      "thumbnail_url_sha256": "e04204a6918853e8e7f2dbe19dccf476dcbf74077fbddd030063b806087d6399",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "philosophy",
@@ -4264,25 +4280,9 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "b47727dbecb9ad9c581234438e1a9999fe244ee4a4bec508011826b1d4bd0e68",
-        "classified_at": "2026-10-24T02:27:52.240253+00:00"
-      },
-      "message_id": 405,
-      "uid": "telegram:-1003789866860:405",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:405",
-        "root_post": "masik2977/405",
-        "date_url": "https://t.me/masik2977/405",
-        "media_urls": [
-          "https://t.me/masik2977/405"
-        ],
-        "caption_sha256": "f1dde6e9e21b586b927ecda76905db3ba8ed6dc196b8318fb4c2801a01b36456",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:405",
-      "thumbnail_url_sha256": "e04204a6918853e8e7f2dbe19dccf476dcbf74077fbddd030063b806087d6399",
-      "integrity_issues": []
+        "text_sha256": "50f78465f62ce6672b0450f6e85652300ef093bfbe3698fa4fb0fda76e4bb4fb",
+        "classified_at": "2026-10-24T03:09:34.404316+00:00"
+      }
     },
     {
       "id": 403,
