@@ -14453,7 +14453,7 @@
       "caption": "Дошол до 20 подтягиваний на 5 подходов ,начинаю усложнять и подтягиваться с весами👍",
       "date": "2026-04-22T10:20:39+00:00",
       "url": "https://t.me/masik2977/133",
-      "thumbnail": "https://cdn4.telesco.pe/file/tFxbfZz7lD6bc19kwxq0kyTyVXkFw2tWBOuhRGOzLp55DQBg2DHSDU2KJQberNrm73n7viooeodwCA6QFAilptz-IuYa7Biw6lSIcRhyPyWUo30MgWxjxhRIB-25mA7bED79FSeGv_cSzbDW7PE98gzl-YoSrS5Vk9mnaOAIHgGnOgu0LrgEphg1BhWd6rqldVV7vixZl33GAYvDpQffBVNp3ns19TWuDyfJOsjz6wlqwJ9NLudbDBgpRko3eq01f8Rn3QvpeeOD6z4gK8R9i_LWDRKuZtccxzSUlHirV9xx-NGVA7jscKS_qIvxhxD-Ko7YaE3iFH4hC-Up-Poomw",
+      "thumbnail": "https://masik19772097-ux.github.io/videoteka-mirnogo-voina/thumbnails/133.jpg?v=4e38d971c46001ab",
       "categories": [
         "train"
       ],
@@ -14470,7 +14470,7 @@
         "verified": true
       },
       "thumbnail_owner_uid": "telegram:-1003789866860:133",
-      "thumbnail_url_sha256": "811bbd66b28977766917c13c49107f4d87967f3c054f5a4ee857f97a9e8226a4",
+      "thumbnail_url_sha256": "1c2dfabb3db628e25e6f88ff327d27429e350cf4bb0a238371f57f409a83ecab",
       "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
@@ -14682,6 +14682,11 @@
         },
         "review_reasons": [],
         "text_sha256": "72209c44a89d7c05808104204ab7078499b4a51e7845fc7e904023ea7b84eb7d"
+      },
+      "thumbnail_origin": {
+        "kind": "own_video_frame",
+        "video_sha256": "b38bf94d7c6382900495331f3ea44e0a99f12d7062377b1651c6d6c249192286",
+        "time": 8.98
       }
     },
     {
@@ -19218,7 +19223,7 @@
       "caption": "Попробовал жим на брусьях с 40 кг ,последний раз 2 недели назад отжимался с 34 кг на 8 раз ,а тут пожал штангу ,хорошо 112 кг 5 подходов по 5 ,сил еще осталось и решил с 40 и был сам удивлен😊",
       "date": "2026-01-26T10:05:19+00:00",
       "url": "https://t.me/masik2977/7",
-      "thumbnail": "https://cdn4.telesco.pe/file/PIQoZ9iLFqlB2j1NGpIpBDN5CgCjcylbhJF3zRbhFZlBRcMe3C9o3Ryz-Xduh9T8T1eW-haExAjVRMPhokZ_m0OVJj3Ndk8mGtm99NUEIrLaPf6d9PlrOdF9lZPlo5uUB6_mJZ_jNpglOEbIPXvyfuMd0K0JHnHsZhtE45_HocF2ERvYPmEEfLUIzg9WQJds_2pQVnigiK57d_n-3AD0L5EJiPNm7qc8jrhnm3AJnF8BkftBF9gFb6wBS0Pjbg44xhq1gzL4hYzqcYN7NNv2Ayx_SKinwVcEO47kbt8FWH4yPlMUx113aaOgbqr5y8BO6Y3SDCAC6ffiWmEZ1pPUtQ",
+      "thumbnail": "https://cdn4.telesco.pe/file/vZPcLpCHcNYwh1NME12NOdODEhzVyOC8XYmy7yVLTGfou-xMweTos29jOYj_eGqWFximoKj74KyTnMCyC5PvL7Y6vGXvq6l65U8QXuzjnL-YA_w-v0xkVBHsAnq7lTeiZYGptE__0oeu7fvJY0Nlxa8by1vUnxPnqgVwWe-cexk2So0408Qbj6CE9-dDr7jgicIjNx8Hj0mBNPya7F_kYz0pE3AjPJo5KhTDDB73Z4k2AwhI8ue4dAPhrebJLDEWMqqAI6XOkxklGnGzAri22JRFFoUp_pak9onOXZ4ohF4mfFyEXPL3nATvR-Y8HwmhCrqFWuBKRoFJnGJDPoh_TA",
       "categories": [
         "train"
       ],
@@ -19235,7 +19240,7 @@
         "verified": true
       },
       "thumbnail_owner_uid": "telegram:-1003789866860:7",
-      "thumbnail_url_sha256": "669e3f8a333445285da7769acad3612505801b4bef263512a6c1e40bb99df20f",
+      "thumbnail_url_sha256": "6b88d2dacd9983c5b43a0848b0ca229bc6e700f1bf33cf9b57943fa7051021ed",
       "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
