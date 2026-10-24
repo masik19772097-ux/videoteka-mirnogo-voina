@@ -17399,8 +17399,11 @@
     },
     {
       "id": 41,
-      "title": "Сегодня в прорубе меня посетили мысли о Любви ❤️ ❤️ ❤️",
-      "caption": "Сегодня в прорубе меня посетили мысли о Любви ❤️ ❤️ ❤️",
+      "message_id": 41,
+      "uid": "telegram:-1003789866860:41",
+      "channel_id": -1003789866860,
+      "title": "Сегодня в прорубе меня посетили мысли о Любви❤️❤️❤️",
+      "caption": "Сегодня в прорубе меня посетили мысли о Любви❤️❤️❤️",
       "date": "2026-02-27T09:06:37+00:00",
       "url": "https://t.me/masik2977/41",
       "thumbnail": "https://cdn4.telesco.pe/file/QVbv9DrXEfPL2J97IlxpQoGiIMjttq_5AzxftAMed3OTTCBM38w7BtqZ3r6kMyXg-iQhVUu8Qdjio7fHUSPusf0eScPc7RUNyGkBgMVdRUK_5pttnWZAriNfCzTlz7eWePbgLRzAr22IIN5UD1c9ZutuzNMzZ4M2hNH37gSFhbok-a8Lqx-9R37HbmF1XOMrtF7OvlYrlsjHNeom5h6eWkGVYJoDw-Nnxo17i8gMSb7NfAtGV-nvWGjbf0Gi_iKgjF1xxixavbZY1G-7jyTvZ7I2P4Yup0RJNflyCUXNlVDxlzU3ECZz-d3YPK883Q_ZHiw6UONGGzBfMA1Rme6emw",
@@ -17409,6 +17412,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:41",
+        "root_post": "masik2977/41",
+        "date_url": "https://t.me/masik2977/41",
+        "media_urls": [
+          "https://t.me/masik2977/41"
+        ],
+        "caption_sha256": "f9cef4524f5013b879ce8fc96efa4af27b91064f6a77b9062e5555581b139220",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:41",
+      "thumbnail_url_sha256": "d3c6f5b4d4659083e4a29337bdc6819edaf8c2770844c2e7a3d7df0cabc052dd",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "swim",
@@ -17445,30 +17461,17 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "0aeaf44ac74704fe9fcc99a70b31bd0598da7f1e8cfb58e561ec76980122cbdb",
-        "classified_at": "2026-10-24T02:27:53.831299+00:00"
-      },
-      "message_id": 41,
-      "uid": "telegram:-1003789866860:41",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:41",
-        "root_post": "masik2977/41",
-        "date_url": "https://t.me/masik2977/41",
-        "media_urls": [
-          "https://t.me/masik2977/41"
-        ],
-        "caption_sha256": "95138b328ac0174d1685c870873a752aef9f02063dae5de6e28ae86467d5c6d9",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:41",
-      "thumbnail_url_sha256": "d3c6f5b4d4659083e4a29337bdc6819edaf8c2770844c2e7a3d7df0cabc052dd",
-      "integrity_issues": []
+        "text_sha256": "6631a4528b9640cd790423418ce1efebc058afcf0c506b9720acc13ff5916fce",
+        "classified_at": "2026-10-24T04:43:49.755755+00:00"
+      }
     },
     {
       "id": 40,
-      "title": "Покайфовал как всегда в водичке с утра 🙏 светает уже пораньше ,и хорошо ,потеплеет ,гололед уйдет и буду к 5.30 утра приезжать за Волгу ,чтоб успеть побегать перед прорубью)",
-      "caption": "Покайфовал как всегда в водичке с утра 🙏 светает уже пораньше ,и хорошо ,потеплеет ,гололед уйдет и буду к 5.30 утра приезжать за Волгу ,чтоб успеть побегать перед прорубью)",
+      "message_id": 40,
+      "uid": "telegram:-1003789866860:40",
+      "channel_id": -1003789866860,
+      "title": "Покайфовал как всегда в водичке с утра🙏светает уже пораньше ,и хорошо ,потеплеет ,гололед уйдет и буду к 5.30 утра приезжать за Волгу ,чтоб успеть побегать перед прорубью)",
+      "caption": "Покайфовал как всегда в водичке с утра🙏светает уже пораньше ,и хорошо ,потеплеет ,гололед уйдет и буду к 5.30 утра приезжать за Волгу ,чтоб успеть побегать перед прорубью)",
       "date": "2026-02-26T08:45:45+00:00",
       "url": "https://t.me/masik2977/40",
       "thumbnail": "https://cdn4.telesco.pe/file/Gts783v6bOcrPDG83zqFdABehyUFelQazUaMujd7g6D4rPz0ehDxzTPa_T9sLlLhEb2iibruysVEYP9af-aq4AcvFsYq65O_Z8R3b-fDlL89OsniRzabXOww-ZB2Bnu-YQYQ-W9m1BzdjB5hqmbN1mR-r6PTrlpr8Ef_XFD6HOfJ3gZJbqBUlj6F-5mHRmxHp8qnJWEW3JbJw7ctCt73wrMgkCgA1vZKyKSUW7R8Cp-YfC3_eaaejZHD_4ABS1Kq2Np3XlZP2niNFIwTyJyYOnqXCI09E43nRj9_Sw3U2nci04vR8-aXcecsW6LF1g4tV7Wsz7gXxGJ9bMewMsV_CA",
@@ -17477,6 +17480,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:40",
+        "root_post": "masik2977/40",
+        "date_url": "https://t.me/masik2977/40",
+        "media_urls": [
+          "https://t.me/masik2977/40"
+        ],
+        "caption_sha256": "175cde8b84fe5a768ad3b47cab8bc8f0d6d190756a2e244a12b0345a60282fe4",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:40",
+      "thumbnail_url_sha256": "6f840e3f80c6871834563ad428a37507fa37ec25b817e3d4b365b6588db2ef2c",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "swim",
@@ -17513,30 +17529,17 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "76f633325327c69121caff1dc5afd243231b34328b108a0267328e95e35c38d3",
-        "classified_at": "2026-10-24T02:27:53.833313+00:00"
-      },
-      "message_id": 40,
-      "uid": "telegram:-1003789866860:40",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:40",
-        "root_post": "masik2977/40",
-        "date_url": "https://t.me/masik2977/40",
-        "media_urls": [
-          "https://t.me/masik2977/40"
-        ],
-        "caption_sha256": "ea97a10422b91a6b4c898e85505fc56fb62b4d6902353c68f59b6ef1d5cc9225",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:40",
-      "thumbnail_url_sha256": "6f840e3f80c6871834563ad428a37507fa37ec25b817e3d4b365b6588db2ef2c",
-      "integrity_issues": []
+        "text_sha256": "6ea2dc43b747493490e1b3a9f2a00090d2991d02368fbf7cd70c44eae9364e0f",
+        "classified_at": "2026-10-24T04:43:49.966393+00:00"
+      }
     },
     {
       "id": 39,
+      "message_id": 39,
+      "uid": "telegram:-1003789866860:39",
+      "channel_id": -1003789866860,
       "title": "Сегодня сидел в воде сразу полторы минуты ,сутки уже как не ем и без жидкости,чуствительность к холоду сразу меняется и она не такая холодная ,и потом минут 10 стоял ,обсыхал,не од",
-      "caption": "Сегодня сидел в воде сразу полторы минуты ,сутки уже как не ем и без жидкости,чуствительность к холоду сразу меняется и она не такая холодная ,и потом минут 10 стоял ,обсыхал,не одевался 😁 на улице всего-2 ,прям тепло и комфортно",
+      "caption": "Сегодня сидел в воде сразу полторы минуты ,сутки уже как не ем и без жидкости,чуствительность к холоду сразу меняется и она не такая холодная ,и потом минут 10 стоял ,обсыхал,не одевался😁на улице всего-2 ,прям тепло и комфортно",
       "date": "2026-02-25T04:57:10+00:00",
       "url": "https://t.me/masik2977/39",
       "thumbnail": "https://cdn4.telesco.pe/file/GrU3C-7CfSZ8iMB3HJojZIhMS3jLsI5d8YJRFhDWrs2OEEvntITqv8k3l4qWHVZV1sjmDyGQxMIVuTOUFNZ54AKQccUKVE5s5NptutYyqfSmorvsat5mnrgdTrF2OJA0rBRpyPioH5yoMLZwtUfWBUexqVj2pgsIDN_Zds5it-kEruRaQp21Z2k9jLTDpkg_LimNgaMVopV-2Rbsf6POng6SlwXaEReMofuRVTIfUAiv9HSYrZsDgt6Oe4pYfoeRWzj6cAvQwnbdFGZ2P7IViAelmTtmL0oSRq6RuqthcPwP8JZEvvPuG1oKsmWbQEDxTIdpugaiPg2VXaBJO3Veag",
@@ -17545,6 +17548,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:39",
+        "root_post": "masik2977/39",
+        "date_url": "https://t.me/masik2977/39",
+        "media_urls": [
+          "https://t.me/masik2977/39"
+        ],
+        "caption_sha256": "a18fcfead626ad8d29b834e625d8852fb903083ea8010a153b54fd98dd0befbb",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:39",
+      "thumbnail_url_sha256": "465d6c4be4d48d03795c01ad9527af017aceb3be1a472f2ea38067343b365347",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "swim",
@@ -17581,28 +17597,15 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "6c3f69cfa7a544ef98685503e4e3bb88a4cd9263faa0f9226d117e8a1202495d",
-        "classified_at": "2026-10-24T02:27:53.840515+00:00"
-      },
-      "message_id": 39,
-      "uid": "telegram:-1003789866860:39",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:39",
-        "root_post": "masik2977/39",
-        "date_url": "https://t.me/masik2977/39",
-        "media_urls": [
-          "https://t.me/masik2977/39"
-        ],
-        "caption_sha256": "e5cb22d61acef90bb5cec9b06be3f9deacc09a07e7fbc5875d9da0fc2aa6607a",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:39",
-      "thumbnail_url_sha256": "465d6c4be4d48d03795c01ad9527af017aceb3be1a472f2ea38067343b365347",
-      "integrity_issues": []
+        "text_sha256": "c29309ecfeb19ac073cc6fb184466197bc1c1482ac28451cd807aa1f9b5016fb",
+        "classified_at": "2026-10-24T04:43:50.225821+00:00"
+      }
     },
     {
       "id": 37,
+      "message_id": 37,
+      "uid": "telegram:-1003789866860:37",
+      "channel_id": -1003789866860,
       "title": "Начал минимум 30 секунд сидеть! Пока морозы за месяц планирую до 3 минут прохлаждаться!",
       "caption": "Начал минимум 30 секунд сидеть! Пока морозы за месяц планирую до 3 минут прохлаждаться!",
       "date": "2026-02-24T08:58:47+00:00",
@@ -17613,6 +17616,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:37",
+        "root_post": "masik2977/37",
+        "date_url": "https://t.me/masik2977/37",
+        "media_urls": [
+          "https://t.me/masik2977/37"
+        ],
+        "caption_sha256": "b9a89adac2c5b3eee1f27c49e638f7c51cfbec1eb441d05a384775e84fc69f31",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:37",
+      "thumbnail_url_sha256": "003002d3856a372b6420a7df15452a75cd5bb34bfc82622eebfaf65831f0a368",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "engine": "speech-frames-description-v5",
@@ -17817,28 +17833,15 @@
         },
         "review_reasons": [],
         "text_sha256": "087f981e671c1f74ff3b9410a38535e9ef38229379df6c2fd5a51e61f6479b3b"
-      },
-      "message_id": 37,
-      "uid": "telegram:-1003789866860:37",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:37",
-        "root_post": "masik2977/37",
-        "date_url": "https://t.me/masik2977/37",
-        "media_urls": [
-          "https://t.me/masik2977/37"
-        ],
-        "caption_sha256": "b9a89adac2c5b3eee1f27c49e638f7c51cfbec1eb441d05a384775e84fc69f31",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:37",
-      "thumbnail_url_sha256": "003002d3856a372b6420a7df15452a75cd5bb34bfc82622eebfaf65831f0a368",
-      "integrity_issues": []
+      }
     },
     {
       "id": 34,
-      "title": "Доброго субботнего утра!!!!! С утра погрелся в святом источнике,вода по сравнению с прорубью в озере теплая и комфортная ,погрелся в ней 🙏",
-      "caption": "Доброго субботнего утра!!!!! С утра погрелся в святом источнике,вода по сравнению с прорубью в озере теплая и комфортная ,погрелся в ней 🙏",
+      "message_id": 34,
+      "uid": "telegram:-1003789866860:34",
+      "channel_id": -1003789866860,
+      "title": "Доброго субботнего утра!!!!! С утра погрелся в святом источнике,вода по сравнению с прорубью в озере теплая и комфортная ,погрелся в ней🙏",
+      "caption": "Доброго субботнего утра!!!!! С утра погрелся в святом источнике,вода по сравнению с прорубью в озере теплая и комфортная ,погрелся в ней🙏",
       "date": "2026-02-21T07:32:43+00:00",
       "url": "https://t.me/masik2977/34",
       "thumbnail": "https://cdn4.telesco.pe/file/F1ClaHUrUctbsR6641eVjdtOGiWhyXNKDoL-igLN-L9OkHx9zg0z5WQNTwDTu3icTsQdpzSNGNkn543_BEc9suSUeGVRUZ3Bqt5IFgMcwlTAeyJm3BhFDr5wRUJEyDII5LkjSq4i0vO7S3sxSdNhptLMeP6ScGK4yaVJpi8uNbh4R5-pdTTGZroLyyWOYzF3DGlxnbmwvW44Ube44LmSaFONaljlL8hFYkQVD9rdP_55FjuhFucaQg2x2EAJlOCTufxW_TPFEvv-Nv0YZzhuGmLxOniKwMoSOAk7ZUF7_gl9LZBX-Qxc9pFzyTA4orsA9dsVSV6_vGRyZCsM1--aoQ",
@@ -17847,6 +17850,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:34",
+        "root_post": "masik2977/34",
+        "date_url": "https://t.me/masik2977/34",
+        "media_urls": [
+          "https://t.me/masik2977/34"
+        ],
+        "caption_sha256": "f111db59b591aeb69b1beacc06719373a95c7130a74d9e9e43c48fff40b9614d",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:34",
+      "thumbnail_url_sha256": "921134e25c76f17855d90ca02ac74f73560c79114110df9b6a297a7d5cb3c054",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "swim",
@@ -17883,28 +17899,15 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "5b13c3be370147187bf5bc16e27eb2ad80aef29ecfc1497d05290173766c548f",
-        "classified_at": "2026-10-24T02:27:53.870090+00:00"
-      },
-      "message_id": 34,
-      "uid": "telegram:-1003789866860:34",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:34",
-        "root_post": "masik2977/34",
-        "date_url": "https://t.me/masik2977/34",
-        "media_urls": [
-          "https://t.me/masik2977/34"
-        ],
-        "caption_sha256": "a5d051c604f795aac32ebbc390671619ff435a3ba99ce7452dbd09ec1d55bf60",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:34",
-      "thumbnail_url_sha256": "921134e25c76f17855d90ca02ac74f73560c79114110df9b6a297a7d5cb3c054",
-      "integrity_issues": []
+        "text_sha256": "f30ec5a3027d42209e07a026032f93d5c97ff0e1cc686ed38bd71531f4674750",
+        "classified_at": "2026-10-24T04:43:51.033977+00:00"
+      }
     },
     {
       "id": 30,
+      "message_id": 30,
+      "uid": "telegram:-1003789866860:30",
+      "channel_id": -1003789866860,
       "title": "Никогда не поздно занятся спортом ,исправить питание и начинать практиковать Пищевые паузы по многу дней",
       "caption": "Никогда не поздно занятся спортом ,исправить питание и начинать практиковать Пищевые паузы по многу дней",
       "date": "2026-02-17T16:22:29+00:00",
@@ -17915,6 +17918,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:30",
+        "root_post": "masik2977/30",
+        "date_url": "https://t.me/masik2977/30",
+        "media_urls": [
+          "https://t.me/masik2977/30"
+        ],
+        "caption_sha256": "5b4b9586a3d248d6a39d444892f45d548f1911a87b200d25efe95d222b42e572",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:30",
+      "thumbnail_url_sha256": "ecb24970cae29c7850686b56a3a1e6273a7f5ce603c69d969a9b89247e7e5058",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "food",
@@ -17953,26 +17969,13 @@
         "vision_error": null,
         "text_sha256": "b234faca4778a8b933d289f5c4903747b9cbc0be86926c70c6f35f350cf9165c",
         "classified_at": "2026-10-24T02:27:53.875636+00:00"
-      },
-      "message_id": 30,
-      "uid": "telegram:-1003789866860:30",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:30",
-        "root_post": "masik2977/30",
-        "date_url": "https://t.me/masik2977/30",
-        "media_urls": [
-          "https://t.me/masik2977/30"
-        ],
-        "caption_sha256": "5b4b9586a3d248d6a39d444892f45d548f1911a87b200d25efe95d222b42e572",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:30",
-      "thumbnail_url_sha256": "ecb24970cae29c7850686b56a3a1e6273a7f5ce603c69d969a9b89247e7e5058",
-      "integrity_issues": []
+      }
     },
     {
       "id": 29,
+      "message_id": 29,
+      "uid": "telegram:-1003789866860:29",
+      "channel_id": -1003789866860,
       "title": "Вот так можно с семьей и детками проводить ,утро воскресеняя!",
       "caption": "Вот так можно с семьей и детками проводить ,утро воскресеняя!",
       "date": "2026-02-15T15:22:36+00:00",
@@ -17984,6 +17987,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:29",
+        "root_post": "masik2977/29",
+        "date_url": "https://t.me/masik2977/29",
+        "media_urls": [
+          "https://t.me/masik2977/29"
+        ],
+        "caption_sha256": "f54bbffcb126997e686c06821870ebc3061b5a4817fa806e2fb73112798d358f",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:29",
+      "thumbnail_url_sha256": "4659b7b80eaaa7be319802f695deff73ea57af8d392203ccae64021a11eff2a2",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "engine": "speech-frames-description-v5",
@@ -18196,26 +18212,13 @@
         },
         "review_reasons": [],
         "text_sha256": "d570ed06db9a76cb97b9085bc0338356c048b98c7208861f4c7e02972696331f"
-      },
-      "message_id": 29,
-      "uid": "telegram:-1003789866860:29",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:29",
-        "root_post": "masik2977/29",
-        "date_url": "https://t.me/masik2977/29",
-        "media_urls": [
-          "https://t.me/masik2977/29"
-        ],
-        "caption_sha256": "f54bbffcb126997e686c06821870ebc3061b5a4817fa806e2fb73112798d358f",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:29",
-      "thumbnail_url_sha256": "4659b7b80eaaa7be319802f695deff73ea57af8d392203ccae64021a11eff2a2",
-      "integrity_issues": []
+      }
     },
     {
       "id": 28,
+      "message_id": 28,
+      "uid": "telegram:-1003789866860:28",
+      "channel_id": -1003789866860,
       "title": "Первое ныряние в прорубе ,вода +4 в кругу единомышленников,год назад я бы не поверил если бы мне сказали ,а щас круг знакомых поменялся) и для меня это норма",
       "caption": "Первое ныряние в прорубе ,вода +4 в кругу единомышленников,год назад я бы не поверил если бы мне сказали ,а щас круг знакомых поменялся) и для меня это норма",
       "date": "2026-02-15T09:19:02+00:00",
@@ -18226,6 +18229,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:28",
+        "root_post": "masik2977/28",
+        "date_url": "https://t.me/masik2977/28",
+        "media_urls": [
+          "https://t.me/masik2977/28"
+        ],
+        "caption_sha256": "7f26adc0b7a7d1009eacf69d2325896241d0c5cafa5a3cf348a073c450ae9a87",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:28",
+      "thumbnail_url_sha256": "3a6755705b77bd6832e0ab16a05d801f825363b5eaaa0b9572242e395310bbb2",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "swim",
@@ -18264,28 +18280,15 @@
         "vision_error": null,
         "text_sha256": "cd032584368f9514cb61b08305280f7340c5959bc1bc330c92a86fa27f59e598",
         "classified_at": "2026-10-24T02:27:53.885823+00:00"
-      },
-      "message_id": 28,
-      "uid": "telegram:-1003789866860:28",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:28",
-        "root_post": "masik2977/28",
-        "date_url": "https://t.me/masik2977/28",
-        "media_urls": [
-          "https://t.me/masik2977/28"
-        ],
-        "caption_sha256": "7f26adc0b7a7d1009eacf69d2325896241d0c5cafa5a3cf348a073c450ae9a87",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:28",
-      "thumbnail_url_sha256": "3a6755705b77bd6832e0ab16a05d801f825363b5eaaa0b9572242e395310bbb2",
-      "integrity_issues": []
+      }
     },
     {
       "id": 25,
-      "title": "Буднее утро) -9 градусов за бортом моего Аватара 😊 бег 3 км перед спортзалом ,по гололеду 👌 а куда деваться) у природы нет плохой погоды",
-      "caption": "Буднее утро) -9 градусов за бортом моего Аватара 😊 бег 3 км перед спортзалом ,по гололеду 👌 а куда деваться) у природы нет плохой погоды",
+      "message_id": 25,
+      "uid": "telegram:-1003789866860:25",
+      "channel_id": -1003789866860,
+      "title": "Буднее утро) -9 градусов за бортом моего Аватара😊бег 3 км перед спортзалом ,по гололеду👌а куда деваться) у природы нет плохой погоды",
+      "caption": "Буднее утро) -9 градусов за бортом моего Аватара😊бег 3 км перед спортзалом ,по гололеду👌а куда деваться) у природы нет плохой погоды",
       "date": "2026-02-12T04:46:26+00:00",
       "url": "https://t.me/masik2977/25",
       "thumbnail": "https://cdn4.telesco.pe/file/R_EINUpLbPSeWl3bK5Syd9a61LwHxXbLLEwl1kMiaSf2ZJvrh985GC4wp2KqnJ1x7yNvFMGJOP_SaDIF8F7D905-4wI1Xhl_XtXNdyyd8rES_7T1-XIZivGok402TcHUJep-wH5L3nH0jKfHMtGVwObWHx8Vv4lTorLmZaXbdJbhOL8ehOSEwGyhHTXVG5Chr-GmKZ1SyY55wFBnUNKa8eC75Hj2YQBO_dQ-hVOoa9CC-G1Wyvk_8iKsSVwLyl0MVnRXoIxrAg52hKnL1abdCfsNkl71BcWmHkdl1q2fV21KVJoVLMx_x-vpSb0tTVajVgZSFDaZqHNqc7EkW-cOtg",
@@ -18294,6 +18297,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:25",
+        "root_post": "masik2977/25",
+        "date_url": "https://t.me/masik2977/25",
+        "media_urls": [
+          "https://t.me/masik2977/25"
+        ],
+        "caption_sha256": "09258654809c67bd2fffb5c5e637e79258e4ccd0f5c0492187bd6c417412340d",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:25",
+      "thumbnail_url_sha256": "fca4caa4d211babc51bcb7f7a17a744822efcde93eb91bb31e1b18d5573e6d25",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "run",
@@ -18330,25 +18346,9 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "3052a7d5db0c7dece7a198dfeac529f1df5615b51c535fdf1b5c6c870f3a9efe",
-        "classified_at": "2026-10-24T02:27:53.903860+00:00"
-      },
-      "message_id": 25,
-      "uid": "telegram:-1003789866860:25",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:25",
-        "root_post": "masik2977/25",
-        "date_url": "https://t.me/masik2977/25",
-        "media_urls": [
-          "https://t.me/masik2977/25"
-        ],
-        "caption_sha256": "e1332bb50d81df80d4e60e818681885df11502106a395dfea908e0df87a205ec",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:25",
-      "thumbnail_url_sha256": "fca4caa4d211babc51bcb7f7a17a744822efcde93eb91bb31e1b18d5573e6d25",
-      "integrity_issues": []
+        "text_sha256": "4b67d7739f236e3b2caeb0903442ce0ff1b527489785b23b8cd78fe69975e9d0",
+        "classified_at": "2026-10-24T04:43:51.589262+00:00"
+      }
     },
     {
       "id": 22,
