@@ -6233,74 +6233,6 @@
       }
     },
     {
-      "id": 373,
-      "message_id": 373,
-      "uid": "telegram:-1003789866860:373",
-      "channel_id": -1003789866860,
-      "title": "Первый раз арбузный сок ‎Сделал я один глоток... ‎И такое началось! ‎Эго испарилось прочь. 😄 ‎ ‎Душа вскричала: ‎«Ну нифига! ‎Вот это райская вода!» ‎Ум листает все трактаты: ‎«Как",
-      "caption": "Первый раз арбузный сок ‎Сделал я один глоток... ‎И такое началось! ‎Эго испарилось прочь. 😄 ‎ ‎Душа вскричала: ‎«Ну нифига! ‎Вот это райская вода!» ‎Ум листает все трактаты: ‎«Как такое? Непонятно...» ‎ ‎Тут явился весь в лучах ‎Арбузананда при свечах. 🍉 ‎ ‎И сказал он: ‎«Слушай, брат, ‎Счастье вовсе не в деньгах. ‎Не в пещерах, не в астрале, ‎А в арбузном нектарвале! ‎ ‎Пей с улыбкой, не спеши, ‎Не сжимай весь мир в тиски. ‎Если в сердце есть Любовь, ‎Сок раскроет вновь и вновь!» ‎ ‎Сделал я ещё глоток... ‎Просветлел аж потолок! ‎Чакры дружно запевали: ‎«Арбузинда! Арбузали!» 🎶 ‎ ‎Даже эго, без обид, ‎Тихо шепчет: ‎«Я разбит...» ‎Мыслемешалка замолчала, ‎Душепляска зазвучала! ‎ ‎Я, конечно, улыбнулся: ‎«Вот сюжет-то завернулся! ‎Может, это просто сок... ‎А быть может... между строк?» ‎ ‎С той поры я твёрдо знаю: ‎Жизнь совсем не «догоняю». ‎Не про гонку до небес, ‎А про вкус земных чудес. ‎ ‎Если сердце без тревог, ‎Если радостью полон вдох, ‎То порою без прикола, ‎Гуру пьёт арбузик дома! 🍉🙏",
-      "date": "2026-08-03T16:10:49+00:00",
-      "url": "https://t.me/masik2977/373",
-      "thumbnail": "https://cdn4.telesco.pe/file/BPnZXiIUASnNUmROp1VwkN9pk06Yz-fqaukZ92TTXmO5CU9x4zTiAmvw5d-13LT2BEefXvA0mwJ5r8MI3s0J1n4y0Z8uNTLFLY162mbAkCv0fk_ZMLUbnIlsMshZTKkzyZkurE156KQkakANxTIH5cRjVrVQRJOq3a5IT392QY2UiuQJy2IaPI-oyoJDGyqicHwS7fpUNX5nAcqHHLe0IDDCnBcfjT-1oiCyu-_7Bj7sWyNx6L0CQiqnkzVKbwSuZ0e-k9XlhkUpF0_zi6uGFrkEa7TuBSHhVrXbkt-GEdv86WTqu1_z19yGc33BTJprHWb5DpVUwEAyM4cYMLCYrQ",
-      "categories": [
-        "food"
-      ],
-      "status": "published",
-      "source": "public_channel",
-      "source_identity": {
-        "uid": "telegram:-1003789866860:373",
-        "root_post": "masik2977/373",
-        "date_url": "https://t.me/masik2977/373",
-        "media_urls": [
-          "https://t.me/masik2977/373"
-        ],
-        "caption_sha256": "fa5ab9894d7de27d22b0b4d802ac305918420574412d1d73445b5b0c2999c1eb",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:373",
-      "thumbnail_url_sha256": "f8c1e11585a2b0dacd91c0004796756fa50e23ae5526b498f8655a7087766b03",
-      "integrity_issues": [],
-      "classification": {
-        "version": "identity-multilabel-v4",
-        "primary": "food",
-        "method": "local_clip_and_text",
-        "reason": "clear_text_subject_with_thumbnail_context",
-        "confidence": 0.74,
-        "text_scores": {
-          "food": 3,
-          "run": 0,
-          "swim": 0,
-          "train": 0,
-          "philosophy": 0,
-          "talk": 0,
-          "path": 0
-        },
-        "visual": {
-          "model": "openai/clip-vit-base-patch32",
-          "image_sha256": "093de7e00bf9752ebd038aeacd433a876e6a6d59d43079dec5f90d3546219f38",
-          "probabilities": {
-            "run": 0.01114,
-            "swim": 0.01978,
-            "train": 0.03273,
-            "food": 0.85764,
-            "talk": 0.02062,
-            "other": 0.05809
-          },
-          "similarities": {
-            "run": 0.16919,
-            "swim": 0.18558,
-            "train": 0.19997,
-            "food": 0.29329,
-            "talk": 0.18677,
-            "other": 0.21637
-          }
-        },
-        "vision_error": null,
-        "text_sha256": "6bf0895eae1fc4374c31d329e59f8d708e808b04ffed0b29514c2ad58aa06f99",
-        "classified_at": "2026-10-24T03:19:20.638382+00:00"
-      }
-    },
-    {
       "id": 371,
       "message_id": 371,
       "uid": "telegram:-1003789866860:371",
@@ -10186,8 +10118,11 @@
     },
     {
       "id": 237,
-      "title": "После вчерашнего похода тяжолого по горам ,тело было очень уставшим и разбитым 😳 Холодная вода сегодня особенно хорошо меня Восстановила и дала сил 👌",
-      "caption": "После вчерашнего похода тяжолого по горам ,тело было очень уставшим и разбитым 😳 Холодная вода сегодня особенно хорошо меня Восстановила и дала сил 👌",
+      "message_id": 237,
+      "uid": "telegram:-1003789866860:237",
+      "channel_id": -1003789866860,
+      "title": "После вчерашнего похода тяжолого по горам ,тело было очень уставшим и разбитым😳 Холодная вода сегодня особенно хорошо меня Восстановила и дала сил👌",
+      "caption": "После вчерашнего похода тяжолого по горам ,тело было очень уставшим и разбитым😳 Холодная вода сегодня особенно хорошо меня Восстановила и дала сил👌",
       "date": "2026-06-23T08:57:53+00:00",
       "url": "https://t.me/masik2977/237",
       "thumbnail": "https://cdn4.telesco.pe/file/OPADMW1YrYN4cY3TG0N-grHNVepWZb7U3HmV2P30fJ-mL8ZynTcTuQ2YfpwyBBkoojm2OupSAYffmYUrQUNuV7_KNngoRTHieKnwyj0ym7OyBWen7XYCNY9qAjhdrESgDN6HRWQZXwqt6RIx-XJH9_iD_BhCF3-Yzjav_ICmgnRPPojfJm_lgBKnwz6eQb10z0fperNaqLalPD3XATMvhCXrdYctWW_QiR41wQ1ngnsmH_4xv33QywsUsV_wYioAkDH11X17a4Vaa8hvPWbT8TlrdXZd9AE4b90Kn-hzkE8MUXhrkltzZdMEFJyiwCGdxQYX0TYcRnPn5vu4UELjlA",
@@ -10196,6 +10131,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:237",
+        "root_post": "masik2977/237",
+        "date_url": "https://t.me/masik2977/237",
+        "media_urls": [
+          "https://t.me/masik2977/237"
+        ],
+        "caption_sha256": "1569c6e177d17db3b2b8476c9fb4be2baf97b07e36d391c8217815d5c5f97223",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:237",
+      "thumbnail_url_sha256": "f5e48f7128a62da1099b16db2756f0a055c0c55c1b491d3c6b119441a6cea33c",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "swim",
@@ -10232,30 +10180,17 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "22eb0925dcecd0b3495ca1ed41247eff4a2be6ca5d667298e99dcbe85f1074c2",
-        "classified_at": "2026-10-24T02:27:52.923520+00:00"
-      },
-      "message_id": 237,
-      "uid": "telegram:-1003789866860:237",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:237",
-        "root_post": "masik2977/237",
-        "date_url": "https://t.me/masik2977/237",
-        "media_urls": [
-          "https://t.me/masik2977/237"
-        ],
-        "caption_sha256": "f5f281ae95c61cf68e52b8ceb8548c40b74f981c8f529b4fce972f620c2ac3f1",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:237",
-      "thumbnail_url_sha256": "f5e48f7128a62da1099b16db2756f0a055c0c55c1b491d3c6b119441a6cea33c",
-      "integrity_issues": []
+        "text_sha256": "1102018b469865860aebb1de28a53d40e5590f93314527e43a72e69aae2fc740",
+        "classified_at": "2026-10-24T03:49:05.670909+00:00"
+      }
     },
     {
       "id": 235,
-      "title": "Я сам тал МАГом 😜 Я не волшебник и не чародей, ‎МАГ для меня — путь добрых людей: ‎Мудрость, Осознанность, Гармония — ‎Вот настоящая магия Жизни. ✨",
-      "caption": "Я сам тал МАГом 😜 Я не волшебник и не чародей, ‎МАГ для меня — путь добрых людей: ‎Мудрость, Осознанность, Гармония — ‎Вот настоящая магия Жизни. ✨",
+      "message_id": 235,
+      "uid": "telegram:-1003789866860:235",
+      "channel_id": -1003789866860,
+      "title": "Я сам тал МАГом😜 Я не волшебник и не чародей, ‎МАГ для меня — путь добрых людей: ‎Мудрость, Осознанность, Гармония — ‎Вот настоящая магия Жизни. ✨",
+      "caption": "Я сам тал МАГом😜 Я не волшебник и не чародей, ‎МАГ для меня — путь добрых людей: ‎Мудрость, Осознанность, Гармония — ‎Вот настоящая магия Жизни. ✨",
       "date": "2026-06-22T08:20:22+00:00",
       "url": "https://t.me/masik2977/235",
       "thumbnail": "https://cdn4.telesco.pe/file/GS8VxT97RuGMxEK88FJIyNUsZPyZYAXkpNMwSc-pN7i3fBHZ003rnYr5Yb1b5maLHcIAL20YGt0Z-YdNnD5SV0YUCDjUy6d8N6BU7FlDSNIckfyYcKNP5wASHCU_D9wVl0xWKxMwO7OaoC6DNi2X-dgEGFHYjvffJQ_xvLy3HW5u4Y81WkunWxHU2RjDdN4i16qaV-QZuOCw6rnroFjwgUiFexehqD1bWivbleC3i7t6pUIlgnxqk-JqDePbiBPy7MjrNTH6cqo9AAaZhPCQbtdf4IGdZMAPVPhEoc7DK9SV1EljozIyRuvSOwh3u7Y9rLMUHxs9uQXInYX9tZObCw",
@@ -10264,6 +10199,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:235",
+        "root_post": "masik2977/235",
+        "date_url": "https://t.me/masik2977/235",
+        "media_urls": [
+          "https://t.me/masik2977/235"
+        ],
+        "caption_sha256": "375b6e42bd537f428fde8b20711737fac9dfd0758f908f60890b474ba5227a26",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:235",
+      "thumbnail_url_sha256": "46cec3c95c822c0073f87cae8e4651e2863f00c452b7b7c03e49022be3675d98",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "philosophy",
@@ -10300,25 +10248,9 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "daa7b2a11b81057ad108ec6af1ac941e0be0567750601cdce80e3e873764a263",
-        "classified_at": "2026-10-24T02:27:52.938396+00:00"
-      },
-      "message_id": 235,
-      "uid": "telegram:-1003789866860:235",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:235",
-        "root_post": "masik2977/235",
-        "date_url": "https://t.me/masik2977/235",
-        "media_urls": [
-          "https://t.me/masik2977/235"
-        ],
-        "caption_sha256": "4213ff985b0af83900c229cd1dfd781863a61669496b21b87e1467ac5fddd998",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:235",
-      "thumbnail_url_sha256": "46cec3c95c822c0073f87cae8e4651e2863f00c452b7b7c03e49022be3675d98",
-      "integrity_issues": []
+        "text_sha256": "8700135fd2b4ca60693e119899d9863bb6e93f996fc5b1f029e3ba848810a97f",
+        "classified_at": "2026-10-24T03:49:05.921601+00:00"
+      }
     },
     {
       "id": 230,
