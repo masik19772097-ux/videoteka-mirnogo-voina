@@ -7632,6 +7632,9 @@
     },
     {
       "id": 316,
+      "message_id": 316,
+      "uid": "telegram:-1003789866860:316",
+      "channel_id": -1003789866860,
       "title": "Третий день на пище жидкой И полет вообще отличный! Тонус просто фантастичный, Льется смузи, штанга жмется, Песня из души поется! ​В теле легкость, драйв и сила, Чистота вовсю накр",
       "caption": "Третий день на пище жидкой И полет вообще отличный! Тонус просто фантастичный, Льется смузи, штанга жмется, Песня из души поется! ​В теле легкость, драйв и сила, Чистота вовсю накрыла. И без всяких там котлет Энергичней зверя нет! 🔥",
       "date": "2026-07-15T06:31:38+00:00",
@@ -7643,6 +7646,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:316",
+        "root_post": "masik2977/316",
+        "date_url": "https://t.me/masik2977/316",
+        "media_urls": [
+          "https://t.me/masik2977/316"
+        ],
+        "caption_sha256": "e6e11f83409541dfbf33c1e242d5f60d6883ebfa37d57caf1fe72343f228a5a5",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:316",
+      "thumbnail_url_sha256": "974a94e2e06b94db7aa99b2dd75528e063321f3d7ba1f91bde4547055455db46",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "food",
@@ -7681,26 +7697,13 @@
         "vision_error": null,
         "text_sha256": "fbf4dc1ef7770e7dfb8ca51210060470e3f530effc0bc79270b72e167c5a5331",
         "classified_at": "2026-10-24T02:27:52.685726+00:00"
-      },
-      "message_id": 316,
-      "uid": "telegram:-1003789866860:316",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:316",
-        "root_post": "masik2977/316",
-        "date_url": "https://t.me/masik2977/316",
-        "media_urls": [
-          "https://t.me/masik2977/316"
-        ],
-        "caption_sha256": "e6e11f83409541dfbf33c1e242d5f60d6883ebfa37d57caf1fe72343f228a5a5",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:316",
-      "thumbnail_url_sha256": "974a94e2e06b94db7aa99b2dd75528e063321f3d7ba1f91bde4547055455db46",
-      "integrity_issues": []
+      }
     },
     {
       "id": 313,
+      "message_id": 313,
+      "uid": "telegram:-1003789866860:313",
+      "channel_id": -1003789866860,
       "title": "2 дня на жидком питании. 😁 Что-то понравилось мне жить! Всё чаще хочется подольше Не жрать... а просто соки пить. 😄 А штанга этого не знает, Всё так же просится на грудь. Организм ",
       "caption": "2 дня на жидком питании. 😁 Что-то понравилось мне жить! Всё чаще хочется подольше Не жрать... а просто соки пить. 😄 А штанга этого не знает, Всё так же просится на грудь. Организм лишь улыбается: «Давай ещё... ещё чуть-чуть!» 💪 И кто-то скажет: «Так не выйдет!» А я смеюсь: «Да всё путём!» 😄 Пока другие спорят в чатах, Я просто кайф ловлю... Живём!",
       "date": "2026-07-14T14:30:09+00:00",
@@ -7712,6 +7715,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:313",
+        "root_post": "masik2977/313",
+        "date_url": "https://t.me/masik2977/313",
+        "media_urls": [
+          "https://t.me/masik2977/313"
+        ],
+        "caption_sha256": "6e2868f771d887bcd173981a02258f236a803e0895447d593c4a14319d61f109",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:313",
+      "thumbnail_url_sha256": "3b802bc6598ae4fa2f6a5ed6b0a08ff509ba70a767a5cb305b5b289c227824a9",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "food",
@@ -7750,28 +7766,15 @@
         "vision_error": null,
         "text_sha256": "914420cc815547aa9a9ca32726eb1b2036b772583ff944c9630f67ae0f428578",
         "classified_at": "2026-10-24T02:27:52.688726+00:00"
-      },
-      "message_id": 313,
-      "uid": "telegram:-1003789866860:313",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:313",
-        "root_post": "masik2977/313",
-        "date_url": "https://t.me/masik2977/313",
-        "media_urls": [
-          "https://t.me/masik2977/313"
-        ],
-        "caption_sha256": "6e2868f771d887bcd173981a02258f236a803e0895447d593c4a14319d61f109",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:313",
-      "thumbnail_url_sha256": "3b802bc6598ae4fa2f6a5ed6b0a08ff509ba70a767a5cb305b5b289c227824a9",
-      "integrity_issues": []
+      }
     },
     {
       "id": 311,
-      "title": "Первый прием жидкой пищи сегодня спустя 15 часов ,лимоноапельсиновый свежевыжатый сок 😁",
-      "caption": "Первый прием жидкой пищи сегодня спустя 15 часов ,лимоноапельсиновый свежевыжатый сок 😁",
+      "message_id": 311,
+      "uid": "telegram:-1003789866860:311",
+      "channel_id": -1003789866860,
+      "title": "Первый прием жидкой пищи сегодня спустя 15 часов ,лимоноапельсиновый свежевыжатый сок😁",
+      "caption": "Первый прием жидкой пищи сегодня спустя 15 часов ,лимоноапельсиновый свежевыжатый сок😁",
       "date": "2026-07-14T07:55:52+00:00",
       "url": "https://t.me/masik2977/311",
       "thumbnail": "https://cdn4.telesco.pe/file/DyUzQVQ4VNtVNt8zR4SG7DZz8foaR0KGILxHgQcqf08swGbnJz3GshJS3B1pr1InMkXvm-3hYA3JLABAe5daOe04r87OD5SlFWfhO3BetBt9OofLeXGz6Hp19hLvxsLDNFYprNKzioIpCRHZKGj3wAlAarF6r98VebwkjYZfnanLjwX-ndKlaPJ5c5Z4G-RIp12Ug3YBJonX1nhq_o2LQn8JMJrTbTxB_bJWHLxXzi0oHuILmGBBBJph3ElUw0-PdIyEHq0PKatlHgfIXtrZ0pWZGwCXkgDsCvk5VayEsEGIM-KZ3MlEWkssFw6l9c_VwHAHcG2pQRu9l1nm-xvUIA",
@@ -7780,6 +7783,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:311",
+        "root_post": "masik2977/311",
+        "date_url": "https://t.me/masik2977/311",
+        "media_urls": [
+          "https://t.me/masik2977/311"
+        ],
+        "caption_sha256": "a802ae901cbee2d022886dcbefb150eaf51039fdf000e880e9f29a3aed4ef062",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:311",
+      "thumbnail_url_sha256": "9ca3d19743518c1bb66e4fa88c4922306b04cf06c9c01af18917757c52de17fb",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "food",
@@ -7816,30 +7832,17 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "337e5803465d47d08ebf29fc27c1e19bd9743c01897a8b08b49963d2ff977ad2",
-        "classified_at": "2026-10-24T02:27:52.710642+00:00"
-      },
-      "message_id": 311,
-      "uid": "telegram:-1003789866860:311",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:311",
-        "root_post": "masik2977/311",
-        "date_url": "https://t.me/masik2977/311",
-        "media_urls": [
-          "https://t.me/masik2977/311"
-        ],
-        "caption_sha256": "cb7f5e62ca4a9982eb51d7e7bbce737354ded48268016cdf7505f9c3ced9125d",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:311",
-      "thumbnail_url_sha256": "9ca3d19743518c1bb66e4fa88c4922306b04cf06c9c01af18917757c52de17fb",
-      "integrity_issues": []
+        "text_sha256": "e1de0a52a594bf4ef3400c2fd31bf30f9f143de37f86c69e5b8bce98549c0be6",
+        "classified_at": "2026-10-24T03:34:07.600373+00:00"
+      }
     },
     {
       "id": 305,
-      "title": "Обед сегодня без затей. Травяной чай... И сердцу от него Светлей. В жару такой обед Вполне сгодится. Чабрец и мята... То, что надо! Пригодится. 🍵 🌿",
-      "caption": "Обед сегодня без затей. Травяной чай... И сердцу от него Светлей. В жару такой обед Вполне сгодится. Чабрец и мята... То, что надо! Пригодится. 🍵 🌿",
+      "message_id": 305,
+      "uid": "telegram:-1003789866860:305",
+      "channel_id": -1003789866860,
+      "title": "Обед сегодня без затей. Травяной чай... И сердцу от него Светлей. В жару такой обед Вполне сгодится. Чабрец и мята... То, что надо! Пригодится. 🍵🌿",
+      "caption": "Обед сегодня без затей. Травяной чай... И сердцу от него Светлей. В жару такой обед Вполне сгодится. Чабрец и мята... То, что надо! Пригодится. 🍵🌿",
       "date": "2026-07-13T09:44:18+00:00",
       "url": "https://t.me/masik2977/305",
       "thumbnail": "https://cdn4.telesco.pe/file/GkSKIUHjHi-eWGZpYqik52Xc6dKQsENpMdIAa9hozGLfDPbqxRPR8BmtbxkAjj4ykKEpXo8GFLKhMH4i4DPhjHfD7qxX8zLwWgVRi9W0zNKopcVprPMQcxJvH5s2y7UALPgzlwWTS6jrug5jctTOKR5LmikdGW2rfGi1UowtQRRh5akTHVf_zbKHlQ-Duo7yC0fz7DROgiLugTsUOM7tZenYvPDB8H6vWSjqhSJ20N2y9ZhK910xAV0Onx2Xoqod3W1VyaBS06VRsaWitdC49JahAPkLV9pU2VLHwCQQiwq_cjKP6cEikTQ-ltDQIQDFzenERCpop3qyWymBuJ9KXA",
@@ -7848,6 +7851,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:305",
+        "root_post": "masik2977/305",
+        "date_url": "https://t.me/masik2977/305",
+        "media_urls": [
+          "https://t.me/masik2977/305"
+        ],
+        "caption_sha256": "824fd8266803da5ccefbd0abe41f9051773ffb5c271c342dcc61177f87ce3322",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:305",
+      "thumbnail_url_sha256": "3c3f38e98a7af07fa9d05aabccc534cbba054d408174ca54965ceb6ceff54f75",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "food",
@@ -7884,28 +7900,15 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "c134ae80113f1bf41d31e34585d1be336b00fe96eb695e033335d9bba8840d5d",
-        "classified_at": "2026-10-24T02:27:52.729526+00:00"
-      },
-      "message_id": 305,
-      "uid": "telegram:-1003789866860:305",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:305",
-        "root_post": "masik2977/305",
-        "date_url": "https://t.me/masik2977/305",
-        "media_urls": [
-          "https://t.me/masik2977/305"
-        ],
-        "caption_sha256": "f6c21cfdb49a0d6dd31237ae2e5ea919659bd741587762f16c900d2fd340beba",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:305",
-      "thumbnail_url_sha256": "3c3f38e98a7af07fa9d05aabccc534cbba054d408174ca54965ceb6ceff54f75",
-      "integrity_issues": []
+        "text_sha256": "ef60b87da2b395864cfefada6d1d766eacc38538492846a40f397ee9eaf34681",
+        "classified_at": "2026-10-24T03:34:09.432991+00:00"
+      }
     },
     {
       "id": 302,
+      "message_id": 302,
+      "uid": "telegram:-1003789866860:302",
+      "channel_id": -1003789866860,
       "title": "‎В чём смысл жизни?.. ‎ ‎Проснуться утром... ‎И тихо миру улыбнуться. ‎Найти причину, ‎Для чего ‎Захочется и завтра мне ‎Проснуться. ‎ ‎Не ради спешки, ‎Не из страха, ‎Не потому, ‎",
       "caption": "‎В чём смысл жизни?.. ‎ ‎Проснуться утром... ‎И тихо миру улыбнуться. ‎Найти причину, ‎Для чего ‎Захочется и завтра мне ‎Проснуться. ‎ ‎Не ради спешки, ‎Не из страха, ‎Не потому, ‎Что «так должно». ‎А потому, ‎Что сердце знает: ‎Сегодня Жить ‎Ему дано. ‎ ‎Умыться ‎Родниковою прохладой, ‎Вдохнуть рассвет, ‎Услышать птиц. ‎И вдруг понять: ‎Для счастья, правда, ‎Не нужно ‎Тысячи границ. ‎ ‎У каждого ‎Своя дорога. ‎Своя тропинка, ‎Свой рассвет. ‎Но если утром ‎Жить охота, ‎То, значит, ‎Смысл уже ‎Есть. ‎ ‎А Матушка-Природа ‎Тихонечко ‎Мне шепчет ласково: ‎ ‎«Живи ты ‎Родненький... ‎Не торопись... ‎Не ищи смысл ‎Где-то далеко... ‎Он в каждом вдохе, ‎В каждом дне, ‎Который ‎Сердцем ‎Ты прожил...» 🌿",
       "date": "2026-07-12T19:24:05+00:00",
@@ -7916,6 +7919,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:302",
+        "root_post": "masik2977/302",
+        "date_url": "https://t.me/masik2977/302",
+        "media_urls": [
+          "https://t.me/masik2977/302"
+        ],
+        "caption_sha256": "0b6e8615e490cd2cb61b04d4f6fdac227ca961a901554c02424e15edab64cc32",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:302",
+      "thumbnail_url_sha256": "e1ecf1beed5d5df94326abe2e1a06f4e8f61f0c41aa31302e16932b88b53cdbf",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "engine": "speech-frames-description-v5",
@@ -8121,28 +8137,15 @@
         },
         "review_reasons": [],
         "text_sha256": "cc36fdbeeb502088310250a5d53ffcd7836535cb4c70bb70415aa73aaa0574c1"
-      },
-      "message_id": 302,
-      "uid": "telegram:-1003789866860:302",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:302",
-        "root_post": "masik2977/302",
-        "date_url": "https://t.me/masik2977/302",
-        "media_urls": [
-          "https://t.me/masik2977/302"
-        ],
-        "caption_sha256": "0b6e8615e490cd2cb61b04d4f6fdac227ca961a901554c02424e15edab64cc32",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:302",
-      "thumbnail_url_sha256": "e1ecf1beed5d5df94326abe2e1a06f4e8f61f0c41aa31302e16932b88b53cdbf",
-      "integrity_issues": []
+      }
     },
     {
       "id": 301,
-      "title": "Бокалом клубничного инзима отмечаю вхождение на жидкое питание,не знаю на сколько дней Как организм скажет 🙏",
-      "caption": "Бокалом клубничного инзима отмечаю вхождение на жидкое питание,не знаю на сколько дней Как организм скажет 🙏",
+      "message_id": 301,
+      "uid": "telegram:-1003789866860:301",
+      "channel_id": -1003789866860,
+      "title": "Бокалом клубничного инзима отмечаю вхождение на жидкое питание,не знаю на сколько дней Как организм скажет🙏",
+      "caption": "Бокалом клубничного инзима отмечаю вхождение на жидкое питание,не знаю на сколько дней Как организм скажет🙏",
       "date": "2026-07-12T18:49:42+00:00",
       "url": "https://t.me/masik2977/301",
       "thumbnail": "https://cdn4.telesco.pe/file/QeBLEk5vIpRwmVxgetxclyhqrHygwtBa0WrOkaKl2s14qjkfrE6tFBZuB5MQBdj-8cXPlBVoBzisV7o49yzBkrC3h9DTDXoVmI-sm14aMYBVOPb5a0FZ3jTEZHshtwwTtUZL-hVRsCYcMFP4bcqGk_A7ksJaruYyAaaQMLiy-cqmirieIa9UBTJ9bdYDqv4Axy01yBejTy15ZH4imv4bK1Xxo2-B-0FcD7UiTeuvuGHXmOZ2B_npqTxB-YzardjWZiWfcLKhXc2JqB7C9KUTksfr9LUGiMTv0iie7l6rE-jyiNdj9BOVxt9dPB2vxZzzIy3-ro0hvdu7nomVx_Kk9Q",
@@ -8151,6 +8154,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:301",
+        "root_post": "masik2977/301",
+        "date_url": "https://t.me/masik2977/301",
+        "media_urls": [
+          "https://t.me/masik2977/301"
+        ],
+        "caption_sha256": "81f8a243c421e1b68e07dbb0b9f50a06b78c36ac333c15b40b626491d2925f0d",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:301",
+      "thumbnail_url_sha256": "7df7d13c12cbcc761a7bbc2aa259f2073beb1a2f6ba4ded44c62ebf8bed2d053",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "food",
@@ -8187,28 +8203,15 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "7273aa421ad0ed4e88270d43822aeb5de7ce64a4dd6ed7087f5cb8df40c0340a",
-        "classified_at": "2026-10-24T02:27:52.745723+00:00"
-      },
-      "message_id": 301,
-      "uid": "telegram:-1003789866860:301",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:301",
-        "root_post": "masik2977/301",
-        "date_url": "https://t.me/masik2977/301",
-        "media_urls": [
-          "https://t.me/masik2977/301"
-        ],
-        "caption_sha256": "8197f25747a681e153944733ec3cac4c5fef0c8e9eda6ae97a230d4ba3636345",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:301",
-      "thumbnail_url_sha256": "7df7d13c12cbcc761a7bbc2aa259f2073beb1a2f6ba4ded44c62ebf8bed2d053",
-      "integrity_issues": []
+        "text_sha256": "730d61462e15c92042659452a4a398f4d701af4d5ccd1d98b5ecf45b33d11ccd",
+        "classified_at": "2026-10-24T03:34:10.813399+00:00"
+      }
     },
     {
       "id": 300,
+      "message_id": 300,
+      "uid": "telegram:-1003789866860:300",
+      "channel_id": -1003789866860,
       "title": "Воскресенье. Утро. Тишина. Радость тихо греет изнутри. Вся Великая Природа Шепчет мне сегодня: «Не спеши...» Волны ласково зовут меня: «Окунись... Побудь ещё немножко. Мы смываем с",
       "caption": "Воскресенье. Утро. Тишина. Радость тихо греет изнутри. Вся Великая Природа Шепчет мне сегодня: «Не спеши...» Волны ласково зовут меня: «Окунись... Побудь ещё немножко. Мы смываем с сердца суету, Оставляя светлую дорожку.» Я смеюсь: «Да разве против я? Сам к тебе с рассвета прибежал. Где ещё душа найдёт такое, Чтоб весь мир без слов её обнял?» Шаг вперёд... И встретила вода. Холодочком тихо обняла. Будто мама в детстве, не спеша, Всю тревогу с сердца забрала. Солнце гладит капли на плечах, Ветер тихо волосы колышет. Если сердцем слушаешь весь мир, То и мир тебя, конечно, слышит. Как же мало нужно человеку: Небо, Речка, Птицы, Тишина... И тогда становится понятно, Как же жизнь прекрасна и полна.",
       "date": "2026-07-12T06:32:50+00:00",
@@ -8219,6 +8222,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:300",
+        "root_post": "masik2977/300",
+        "date_url": "https://t.me/masik2977/300",
+        "media_urls": [
+          "https://t.me/masik2977/300"
+        ],
+        "caption_sha256": "071305f6f525b550537e5db66fd51e2cfd877812efebc400587ea4c7e0eb0b5e",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:300",
+      "thumbnail_url_sha256": "d4a14c063e36d3bbfb6e735528620c1de058f58d9adcf492745c226bea451089",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "swim",
@@ -8257,26 +8273,13 @@
         "vision_error": null,
         "text_sha256": "f010ffe0c03c55430df94ec8585353a72f0bbb5e4411aa85f0bed5ae10876cd3",
         "classified_at": "2026-10-24T02:27:52.751711+00:00"
-      },
-      "message_id": 300,
-      "uid": "telegram:-1003789866860:300",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:300",
-        "root_post": "masik2977/300",
-        "date_url": "https://t.me/masik2977/300",
-        "media_urls": [
-          "https://t.me/masik2977/300"
-        ],
-        "caption_sha256": "071305f6f525b550537e5db66fd51e2cfd877812efebc400587ea4c7e0eb0b5e",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:300",
-      "thumbnail_url_sha256": "d4a14c063e36d3bbfb6e735528620c1de058f58d9adcf492745c226bea451089",
-      "integrity_issues": []
+      }
     },
     {
       "id": 299,
+      "message_id": 299,
+      "uid": "telegram:-1003789866860:299",
+      "channel_id": -1003789866860,
       "title": "Не всегда есть речка рядом, Да и дел невпроворот. Но водица есть повсюду, Выручает круглый год. Шланг открыл и улыбнулся, Вот домашний водопад! И пупочек чистый, мозг проснулся, Ор",
       "caption": "Не всегда есть речка рядом, Да и дел невпроворот. Но водица есть повсюду, Выручает круглый год. Шланг открыл и улыбнулся, Вот домашний водопад! И пупочек чистый, мозг проснулся, Организм тебе уж рад! Уши, шею, лоб с затылком Струйкой бодрой разомни. И почувствуешь мгновенно, Как светлеют сразу дни. Будто кто-то кнопку «Пуск» В голове твоей нажал. Мысли стали веселее, И заряд на день настал. Речка, душ или ведёрко, Смысл ведь вовсе не в воде. Главное, дружить с природой И с улыбкой жить везде! Если речка далеко, Не печалься, не скучай. Шланг включай на всю катушку И здоровье получай!",
       "date": "2026-07-11T09:25:10+00:00",
@@ -8287,6 +8290,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:299",
+        "root_post": "masik2977/299",
+        "date_url": "https://t.me/masik2977/299",
+        "media_urls": [
+          "https://t.me/masik2977/299"
+        ],
+        "caption_sha256": "8cc91c60efa9ee7a2e5154d1945f26a964a114952de9c826a57222f2ea134acc",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:299",
+      "thumbnail_url_sha256": "ad9994b6ba96cb266105380675850fabd4644ede9caff56d5c8e372add3aea9f",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "swim",
@@ -8325,28 +8341,15 @@
         "vision_error": null,
         "text_sha256": "63f8e6b9128be338cf8796619653b740507821505ec0daf22670b38556109510",
         "classified_at": "2026-10-24T02:27:52.754718+00:00"
-      },
-      "message_id": 299,
-      "uid": "telegram:-1003789866860:299",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:299",
-        "root_post": "masik2977/299",
-        "date_url": "https://t.me/masik2977/299",
-        "media_urls": [
-          "https://t.me/masik2977/299"
-        ],
-        "caption_sha256": "8cc91c60efa9ee7a2e5154d1945f26a964a114952de9c826a57222f2ea134acc",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:299",
-      "thumbnail_url_sha256": "ad9994b6ba96cb266105380675850fabd4644ede9caff56d5c8e372add3aea9f",
-      "integrity_issues": []
+      }
     },
     {
       "id": 298,
+      "message_id": 298,
+      "uid": "telegram:-1003789866860:298",
+      "channel_id": -1003789866860,
       "title": "‎Пятница. Утро. Начался забег! ‎Решили с ребятами проверить свой бег! ‎Темпа прибавили, газанули чуток, ‎Пот заблестел от бежания ног. ‎ ‎Всё как обычно, бежим, ляпота! ‎Из-под под",
-      "caption": "‎Пятница. Утро. Начался забег! ‎Решили с ребятами проверить свой бег! ‎Темпа прибавили, газанули чуток, ‎Пот заблестел от бежания ног. ‎ ‎Всё как обычно, бежим, ляпота! ‎Из-под подошв улетает песка ‎Тонна, а может, и все полторы... ‎Волга смеётся: «Ну что, богатыри?» ‎ ‎Солнце проснулось, ласкает волну, ‎Чайки устроили нам болтовню. ‎Ветер попутный в спину толкал, ‎Будто медаль нам заранее дал. ‎ ‎Дима ворчит: ‎«Ну и темп, вот дела!» ‎Серега смеётся: ‎«Держитесь, братва!» ‎А через минуту уже все молчат... ‎Лишь сердце стучит: ‎«Не сбавляй! Вперёд, брат!» ‎ ‎Берег широкий, песочек живой, ‎Каждый рассвет здесь как праздник большой. ‎Мы не за кубками, не за медалью, ‎Мы за улыбкой, здоровьем и далью. ‎ ‎Вот и закончился утренний круг, ‎Счастье, как Волга, разлилось вокруг. ‎Пятница снова удалась на пять... ‎Завтра, конечно, побежим опять! 😄 🏃 🌅",
+      "caption": "‎Пятница. Утро. Начался забег! ‎Решили с ребятами проверить свой бег! ‎Темпа прибавили, газанули чуток, ‎Пот заблестел от бежания ног. ‎ ‎Всё как обычно, бежим, ляпота! ‎Из-под подошв улетает песка ‎Тонна, а может, и все полторы... ‎Волга смеётся: «Ну что, богатыри?» ‎ ‎Солнце проснулось, ласкает волну, ‎Чайки устроили нам болтовню. ‎Ветер попутный в спину толкал, ‎Будто медаль нам заранее дал. ‎ ‎Дима ворчит: ‎«Ну и темп, вот дела!» ‎Серега смеётся: ‎«Держитесь, братва!» ‎А через минуту уже все молчат... ‎Лишь сердце стучит: ‎«Не сбавляй! Вперёд, брат!» ‎ ‎Берег широкий, песочек живой, ‎Каждый рассвет здесь как праздник большой. ‎Мы не за кубками, не за медалью, ‎Мы за улыбкой, здоровьем и далью. ‎ ‎Вот и закончился утренний круг, ‎Счастье, как Волга, разлилось вокруг. ‎Пятница снова удалась на пять... ‎Завтра, конечно, побежим опять! 😄🏃🌅",
       "date": "2026-07-10T10:44:44+00:00",
       "url": "https://t.me/masik2977/298",
       "thumbnail": "https://cdn4.telesco.pe/file/OU5lMqhoU6qJA77GnJk68Blm3ZrujdjAYdc2G5OXu_oAXsgz7z9CvjE8eMUJqN48V9BoKXkiVo8tupp0vNkGNr5SuLbnVhDO6um696Y3p_cug4KERYycC5m3Atb0PcFJ2q_cKrFqmxp7_l8r3Vbo3HZN0gpn_Y-zo1IRIC6oquV8JkxocPkQ1oAl6Eqhoxyk6aBvNTCx-mbwfew17f6YA9xD_To9bNVrQIfeimrxAko_cWicml8HsjKO2vX8fsM0a8qfDWclQVBtmITv3Tlt34AWaEFfpLYlP1ZCsbM0HLT7Aug-HyE7C-5eLgOU-nVTe_MXyBrB8syRc6HjHbcBpA",
@@ -8355,6 +8358,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:298",
+        "root_post": "masik2977/298",
+        "date_url": "https://t.me/masik2977/298",
+        "media_urls": [
+          "https://t.me/masik2977/298"
+        ],
+        "caption_sha256": "cb2ea5df70d8d8721be6101ff2fc4234d74a19c86306aa0cd43a43055a1243a2",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:298",
+      "thumbnail_url_sha256": "b491b268b0c5d6e5adaab50e8c462667a6e18785253c3d27a1b8bcd15fb45139",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "run",
@@ -8391,25 +8407,9 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "de6c83eb60220785611d71c8a1a70894a8a8bcba13781ead307ccd1b72f8d889",
-        "classified_at": "2026-10-24T02:27:52.756707+00:00"
-      },
-      "message_id": 298,
-      "uid": "telegram:-1003789866860:298",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:298",
-        "root_post": "masik2977/298",
-        "date_url": "https://t.me/masik2977/298",
-        "media_urls": [
-          "https://t.me/masik2977/298"
-        ],
-        "caption_sha256": "12dc21c74e1acf680e07a2aa10b68b23862ae30c6c82c57d8cb0c839b909349d",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:298",
-      "thumbnail_url_sha256": "b491b268b0c5d6e5adaab50e8c462667a6e18785253c3d27a1b8bcd15fb45139",
-      "integrity_issues": []
+        "text_sha256": "5a02141008ebc157c4597a244f751eadf7656f84e03c5cdfd5bdb6bd482745e9",
+        "classified_at": "2026-10-24T03:34:11.259577+00:00"
+      }
     },
     {
       "id": 296,
