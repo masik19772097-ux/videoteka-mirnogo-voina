@@ -10462,42 +10462,208 @@
       "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
+        "engine": "speech-frames-description-v5",
+        "method": "local_whisper_clip_frames_and_description",
+        "reason": "multimodal_evidence",
         "primary": "food",
-        "method": "local_clip_and_text",
-        "reason": "clear_visual_action_or_object",
-        "confidence": 0.9006,
-        "text_scores": {
-          "food": 0,
-          "run": 0,
-          "swim": 0,
-          "train": 0,
-          "philosophy": 0,
-          "talk": 0,
-          "path": 0
+        "suggested_categories": [
+          "food"
+        ],
+        "confidence": 0.88,
+        "confidence_kind": "uncalibrated_evidence_score",
+        "speech_topics": [],
+        "visual_actions": [
+          "eating_cooking"
+        ],
+        "topic_scores": {
+          "food": 0.88,
+          "train": 0.0,
+          "run": 0.0,
+          "swim": 0.0,
+          "philosophy": 0.0,
+          "path": 0.0,
+          "talk": 0.0
         },
-        "visual": {
-          "model": "openai/clip-vit-base-patch32",
-          "image_sha256": "f12d3975383c1aa35a9eb9057078e05fb09a50f177b7d48ce441120a5d06d8e0",
-          "probabilities": {
-            "run": 0.00653,
-            "swim": 0.01664,
-            "train": 0.01923,
-            "food": 0.90056,
-            "talk": 0.02505,
-            "other": 0.03199
+        "topic_sources": {
+          "food": [
+            "frames:eating_cooking"
+          ],
+          "train": [],
+          "run": [],
+          "swim": [],
+          "philosophy": [],
+          "path": [],
+          "talk": []
+        },
+        "speech_evidence": {
+          "food": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
           },
-          "similarities": {
-            "run": 0.12556,
-            "swim": 0.15231,
-            "train": 0.15644,
-            "food": 0.26634,
-            "talk": 0.164,
-            "other": 0.17098
+          "train": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "run": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "swim": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "philosophy": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "path": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "talk": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
           }
         },
-        "vision_error": null,
-        "text_sha256": "678ad7aad6a3c9b14701ec99a9f2f5057ceda6c01965fbf1ac202b7193224126",
-        "classified_at": "2026-10-24T03:44:20.592535+00:00"
+        "description_evidence": {
+          "food": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "train": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "run": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "swim": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "philosophy": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "path": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "talk": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          }
+        },
+        "action_evidence": {
+          "running": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0035,
+            "established": false
+          },
+          "gym_exercise": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0114,
+            "established": false
+          },
+          "swimming": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0163,
+            "established": false
+          },
+          "juice_preparation": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.1834,
+            "established": false
+          },
+          "pouring_drinking": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0106,
+            "established": false
+          },
+          "eating_cooking": {
+            "supported_positions": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "fraction": 1.0,
+            "mean_score": 0.7104,
+            "established": true
+          },
+          "talking": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0194,
+            "established": false
+          },
+          "other": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0449,
+            "established": false
+          }
+        },
+        "review_reasons": [],
+        "text_sha256": "678ad7aad6a3c9b14701ec99a9f2f5057ceda6c01965fbf1ac202b7193224126"
       }
     },
     {
@@ -10634,74 +10800,6 @@
         "vision_error": null,
         "text_sha256": "1102018b469865860aebb1de28a53d40e5590f93314527e43a72e69aae2fc740",
         "classified_at": "2026-10-24T03:49:05.670909+00:00"
-      }
-    },
-    {
-      "id": 235,
-      "message_id": 235,
-      "uid": "telegram:-1003789866860:235",
-      "channel_id": -1003789866860,
-      "title": "Я сам тал МАГом😜 Я не волшебник и не чародей, ‎МАГ для меня — путь добрых людей: ‎Мудрость, Осознанность, Гармония — ‎Вот настоящая магия Жизни. ✨",
-      "caption": "Я сам тал МАГом😜 Я не волшебник и не чародей, ‎МАГ для меня — путь добрых людей: ‎Мудрость, Осознанность, Гармония — ‎Вот настоящая магия Жизни. ✨",
-      "date": "2026-06-22T08:20:22+00:00",
-      "url": "https://t.me/masik2977/235",
-      "thumbnail": "https://cdn4.telesco.pe/file/GS8VxT97RuGMxEK88FJIyNUsZPyZYAXkpNMwSc-pN7i3fBHZ003rnYr5Yb1b5maLHcIAL20YGt0Z-YdNnD5SV0YUCDjUy6d8N6BU7FlDSNIckfyYcKNP5wASHCU_D9wVl0xWKxMwO7OaoC6DNi2X-dgEGFHYjvffJQ_xvLy3HW5u4Y81WkunWxHU2RjDdN4i16qaV-QZuOCw6rnroFjwgUiFexehqD1bWivbleC3i7t6pUIlgnxqk-JqDePbiBPy7MjrNTH6cqo9AAaZhPCQbtdf4IGdZMAPVPhEoc7DK9SV1EljozIyRuvSOwh3u7Y9rLMUHxs9uQXInYX9tZObCw",
-      "categories": [
-        "philosophy"
-      ],
-      "status": "published",
-      "source": "public_channel",
-      "source_identity": {
-        "uid": "telegram:-1003789866860:235",
-        "root_post": "masik2977/235",
-        "date_url": "https://t.me/masik2977/235",
-        "media_urls": [
-          "https://t.me/masik2977/235"
-        ],
-        "caption_sha256": "375b6e42bd537f428fde8b20711737fac9dfd0758f908f60890b474ba5227a26",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:235",
-      "thumbnail_url_sha256": "46cec3c95c822c0073f87cae8e4651e2863f00c452b7b7c03e49022be3675d98",
-      "integrity_issues": [],
-      "classification": {
-        "version": "identity-multilabel-v4",
-        "primary": "philosophy",
-        "method": "local_clip_and_text",
-        "reason": "clear_text_subject_with_thumbnail_context",
-        "confidence": 0.83,
-        "text_scores": {
-          "food": 0,
-          "run": 0,
-          "swim": 0,
-          "train": 0,
-          "philosophy": 6,
-          "talk": 0,
-          "path": 0
-        },
-        "visual": {
-          "model": "openai/clip-vit-base-patch32",
-          "image_sha256": "4cb397d9acdc04a7fbbf0a5a8891d626bd69d5057bc10fe6a528cbff2abd5e4b",
-          "probabilities": {
-            "run": 0.01188,
-            "swim": 0.07356,
-            "train": 0.03742,
-            "food": 0.30097,
-            "talk": 0.39048,
-            "other": 0.18569
-          },
-          "similarities": {
-            "run": 0.13054,
-            "swim": 0.18264,
-            "train": 0.16332,
-            "food": 0.22289,
-            "talk": 0.23033,
-            "other": 0.20909
-          }
-        },
-        "vision_error": null,
-        "text_sha256": "8700135fd2b4ca60693e119899d9863bb6e93f996fc5b1f029e3ba848810a97f",
-        "classified_at": "2026-10-24T03:49:05.921601+00:00"
       }
     },
     {
@@ -11182,8 +11280,11 @@
     },
     {
       "id": 213,
+      "message_id": 213,
+      "uid": "telegram:-1003789866860:213",
+      "channel_id": -1003789866860,
       "title": "Понедельник с бега снова начался, ‎Жар прошёл, а голос где-то затерялся. ‎Видно, на курорт без спроса укатил, ‎Даже адрес не оставил — вот же начудил. ‎ ‎Я его зову, а в ответ лишь",
-      "caption": "Понедельник с бега снова начался, ‎Жар прошёл, а голос где-то затерялся. ‎Видно, на курорт без спроса укатил, ‎Даже адрес не оставил — вот же начудил. ‎ ‎Я его зову, а в ответ лишь тишина, ‎Птицы распевают — не моя вина. ‎Голос где-то заблудился, но не страшно мне совсем, ‎Он характер проявляет — стал свободным, как спортсмен. ‎ ‎Видно, с кем живёт, где набирается манер: ‎Если я в движении — чем он хуже, например? ‎Любит бегать, любит Волю, не сидит на месте он, ‎Потому и убежал мой Непоседа баритон. ‎ ‎Побегает, нагуляется, надышится весной, ‎И однажды постучится: ‎— Ну что, хозяин, я домой! ‎ ‎А пока вернулась бодрость и заряд, ‎Снова в зале мышцы подвигов хотят. ‎Дух смеётся тихо: ‎— Что за ерунда? ‎Голос — дело наживное, ‎Это так всегда. ‎ ‎С благодарным сердцем новый день встречаю, ‎Жизнь во всех её моментах принимаю. ‎Пусть гуляет где-то — путь домой найдёт, ‎Главное, что сердце снова жизнь поёт. ☀️ 🏃‍♂️ 💪",
+      "caption": "Понедельник с бега снова начался, ‎Жар прошёл, а голос где-то затерялся. ‎Видно, на курорт без спроса укатил, ‎Даже адрес не оставил — вот же начудил. ‎ ‎Я его зову, а в ответ лишь тишина, ‎Птицы распевают — не моя вина. ‎Голос где-то заблудился, но не страшно мне совсем, ‎Он характер проявляет — стал свободным, как спортсмен. ‎ ‎Видно, с кем живёт, где набирается манер: ‎Если я в движении — чем он хуже, например? ‎Любит бегать, любит Волю, не сидит на месте он, ‎Потому и убежал мой Непоседа баритон. ‎ ‎Побегает, нагуляется, надышится весной, ‎И однажды постучится: ‎— Ну что, хозяин, я домой! ‎ ‎А пока вернулась бодрость и заряд, ‎Снова в зале мышцы подвигов хотят. ‎Дух смеётся тихо: ‎— Что за ерунда? ‎Голос — дело наживное, ‎Это так всегда. ‎ ‎С благодарным сердцем новый день встречаю, ‎Жизнь во всех её моментах принимаю. ‎Пусть гуляет где-то — путь домой найдёт, ‎Главное, что сердце снова жизнь поёт.☀️🏃‍♂️💪",
       "date": "2026-06-08T09:32:05+00:00",
       "url": "https://t.me/masik2977/213",
       "thumbnail": "https://cdn4.telesco.pe/file/VZlWY3vywQd_tTcHSuTy0ECzPlSB_Uxz7P5zMDjVNz2uAsWKrOH5k5yECwk8DwzO21DxoqUJFZJjVvVQH2maTq6C1LRSrpTpPUUcmd3Bi1nNjR5snAzMF9XZjZlz_BFkf4_gy-Wg6E3UY-cYrWC556PijB-rNfBrrjkYNj8-DrVrHy43pS5E5wNmkylh667FJjO0150M-k1oT1VAkD_DCa93rPKiOClr8SsSs6dVt_g-viLEqRbezIXJtxPoWymC7zutcntNdf44objg71j-99T9KBEEzaTtKOQdR9lamoJ8ZdKqIO2yaX-CGFEFbwhDHOFH4VvtttkYNvy6DFSiRA",
@@ -11192,6 +11293,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:213",
+        "root_post": "masik2977/213",
+        "date_url": "https://t.me/masik2977/213",
+        "media_urls": [
+          "https://t.me/masik2977/213"
+        ],
+        "caption_sha256": "7df350651ffc8ab8ff77337144ae47b493e559141b396e580afd226482d9985b",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:213",
+      "thumbnail_url_sha256": "007dbb3f4ebd4f4cb227daf852e7b091a087b412631066415706b72225cf9fb6",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "run",
@@ -11228,30 +11342,17 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "1f6f85ca44a22bf5b2b76198a3fce98ec5d56f49b550a4c1e6b13a9948934171",
-        "classified_at": "2026-10-24T02:27:53.057727+00:00"
-      },
-      "message_id": 213,
-      "uid": "telegram:-1003789866860:213",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:213",
-        "root_post": "masik2977/213",
-        "date_url": "https://t.me/masik2977/213",
-        "media_urls": [
-          "https://t.me/masik2977/213"
-        ],
-        "caption_sha256": "31bc2f5d287bdbeaa801c36465f49dc9e58354c64ec03704c6dd5dbfb3ae9805",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:213",
-      "thumbnail_url_sha256": "007dbb3f4ebd4f4cb227daf852e7b091a087b412631066415706b72225cf9fb6",
-      "integrity_issues": []
+        "text_sha256": "56551e945ecb6da208e9e061ce97e422c5e63f2a443667dc20f5d4920ca78c81",
+        "classified_at": "2026-10-24T03:59:09.001823+00:00"
+      }
     },
     {
       "id": 209,
-      "title": "Пришло время Кушать 🤟 😜 Сезон клубники наступил, Про соки сразу я забыл. Душиста, сладка и вкусна — Зовёт попробовать она. Хочу её я есть скорей, Пока хватает тёплых дней. Жить, ул",
-      "caption": "Пришло время Кушать 🤟 😜 Сезон клубники наступил, Про соки сразу я забыл. Душиста, сладка и вкусна — Зовёт попробовать она. Хочу её я есть скорей, Пока хватает тёплых дней. Жить, улыбаться от души, Вкушая щедрые дары Земли.",
+      "message_id": 209,
+      "uid": "telegram:-1003789866860:209",
+      "channel_id": -1003789866860,
+      "title": "Пришло время Кушать🤟😜 Сезон клубники наступил, Про соки сразу я забыл. Душиста, сладка и вкусна — Зовёт попробовать она. Хочу её я есть скорей, Пока хватает тёплых дней. Жить, улыб",
+      "caption": "Пришло время Кушать🤟😜 Сезон клубники наступил, Про соки сразу я забыл. Душиста, сладка и вкусна — Зовёт попробовать она. Хочу её я есть скорей, Пока хватает тёплых дней. Жить, улыбаться от души, Вкушая щедрые дары Земли.",
       "date": "2026-06-06T03:19:29+00:00",
       "url": "https://t.me/masik2977/209",
       "thumbnail": "https://cdn4.telesco.pe/file/p50fwU_FyeFST7mX37ZoJUyN9JIzGX9mdm53LL-jShDBWRg_EcKlY5dem0hL35TN6Yk6akffmlwPGJP2sECzOSndZB7g4FKUJDoJigp9qg7aUtm3vmLCnWjcLsq1iAH_KS4-1YES1sZtFgHVy4GYSlNTu9VnSFrgqQ6qap2qcE2lPJ78Gxn4PwJ8YMFHcAYT0gtPp_jP-_aq07xQOA5ns1r_5F3ujKPQ2NIwZG_fh0HOQhIw-0ElhqPE3gDToNI0fijrG6AJyBAXXrVv6lcODVsq4DfF9u_trhA86_lh6Ec-SdfhGLeI_zuFUZuQ1hqTXaFC6SSf-wRQL-CJRX9_KA",
@@ -11260,6 +11361,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:209",
+        "root_post": "masik2977/209",
+        "date_url": "https://t.me/masik2977/209",
+        "media_urls": [
+          "https://t.me/masik2977/209"
+        ],
+        "caption_sha256": "4e1c03c3fe165f15c79bc97f498e26e8a425a5bbead4935e408f4f146fcac972",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:209",
+      "thumbnail_url_sha256": "d9206f0d8e6f6522a071f11ea84578759eedee1c1585ccc88d65723f6c69a3a2",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "food",
@@ -11296,30 +11410,17 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "d34616db074c6e645ddaa2e8edb8dfbace4bc4af21949a18d63f14d51c96fa94",
-        "classified_at": "2026-10-24T02:27:53.074725+00:00"
-      },
-      "message_id": 209,
-      "uid": "telegram:-1003789866860:209",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:209",
-        "root_post": "masik2977/209",
-        "date_url": "https://t.me/masik2977/209",
-        "media_urls": [
-          "https://t.me/masik2977/209"
-        ],
-        "caption_sha256": "e1d15de166de86d8cfa42d8d9347e3f57fe278057069f2efbc75bd8579bf4684",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:209",
-      "thumbnail_url_sha256": "d9206f0d8e6f6522a071f11ea84578759eedee1c1585ccc88d65723f6c69a3a2",
-      "integrity_issues": []
+        "text_sha256": "acfc98d53a016c3ad8fc1ad2c9c5308db94815f5988592ab7560a2e756eeb2e7",
+        "classified_at": "2026-10-24T03:59:09.880487+00:00"
+      }
     },
     {
       "id": 207,
-      "title": "Температура небольшая ,не помешала бегу и купанию 👌 ‎Четверг начался нелегко — ‎Горло болит, и тело ломит слегка. ‎Жар разливается, словно река, ‎Но дух не сдаётся ему никогда. ‎ ‎",
-      "caption": "Температура небольшая ,не помешала бегу и купанию 👌 ‎Четверг начался нелегко — ‎Горло болит, и тело ломит слегка. ‎Жар разливается, словно река, ‎Но дух не сдаётся ему никогда. ‎ ‎Знаю — чистка идёт, организм обновляется, ‎Каждая клетка силой вновь наполняется. ‎Пробежка по тропам, прохладная вода — ‎И тяжесть ушла неизвестно куда. ‎ ‎Лес меня встретил зелёной стеной, ‎Птицы запели над головой. ‎Красота вокруг — куда ни взгляни, ‎Словно природа шепчет: «Живи и цени». ‎ ‎Деревья, поля и небес синева ‎Вернули мне радость, что в сердце жива. ‎И пусть иногда бывает тяжело, ‎За тучами солнце сияет светло. ‎ ‎Когда сердце открыто земле и ветрам, ‎Силы приходят сами к ногам. ‎И снова с улыбкой встречаю рассвет, ‎Благодарный природе за жизнь и за свет.",
+      "message_id": 207,
+      "uid": "telegram:-1003789866860:207",
+      "channel_id": -1003789866860,
+      "title": "Температура небольшая ,не помешала бегу и купанию👌 ‎Четверг начался нелегко — ‎Горло болит, и тело ломит слегка. ‎Жар разливается, словно река, ‎Но дух не сдаётся ему никогда. ‎ ‎З",
+      "caption": "Температура небольшая ,не помешала бегу и купанию👌 ‎Четверг начался нелегко — ‎Горло болит, и тело ломит слегка. ‎Жар разливается, словно река, ‎Но дух не сдаётся ему никогда. ‎ ‎Знаю — чистка идёт, организм обновляется, ‎Каждая клетка силой вновь наполняется. ‎Пробежка по тропам, прохладная вода — ‎И тяжесть ушла неизвестно куда. ‎ ‎Лес меня встретил зелёной стеной, ‎Птицы запели над головой. ‎Красота вокруг — куда ни взгляни, ‎Словно природа шепчет: «Живи и цени». ‎ ‎Деревья, поля и небес синева ‎Вернули мне радость, что в сердце жива. ‎И пусть иногда бывает тяжело, ‎За тучами солнце сияет светло. ‎ ‎Когда сердце открыто земле и ветрам, ‎Силы приходят сами к ногам. ‎И снова с улыбкой встречаю рассвет, ‎Благодарный природе за жизнь и за свет.",
       "date": "2026-06-04T05:55:10+00:00",
       "url": "https://t.me/masik2977/207",
       "thumbnail": "https://cdn4.telesco.pe/file/b7xbPrkZnqme6jUw3JuLUNdGXf1vp_DmJEoXxDPCHSx2ip3RzzQ7DAgrkwm9FyA26D2aVpUGsX0v8yOHwTCU_vcknuyH0Es1luM2UX4pXDJ-hwwevWUXnbJ49X4n_8lF52yhOfUs_M4Jl3q95gPdcf8cZ0jYDGx9veytk78bp15jVN2HQzI90hUNr34ATUmqHx86mEJTc9AWnO8N80bHjL27eMgzjmEsLpUXTk3bRwrZqj4apcDZo5mnF2PGp66_hJH2Wxm-cHMzD8Gqk2-lNanoxGQp2Xse7exc3-LRq5S09Hfz6A8GO8NfIELzus3UxwGNwylDLWVbjQDJUHBCBw",
@@ -11328,6 +11429,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:207",
+        "root_post": "masik2977/207",
+        "date_url": "https://t.me/masik2977/207",
+        "media_urls": [
+          "https://t.me/masik2977/207"
+        ],
+        "caption_sha256": "d576189b2d05028b92a1b616a0913b407a3add11a63bc8619cc6a27d9f6b46b6",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:207",
+      "thumbnail_url_sha256": "7611c26db567b3dcd928c64d8862cefdde68f746bc58d6a18c9ff70cb274916e",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "run",
@@ -11364,30 +11478,17 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "2adc93600b4355cd228a997c3a78348a8c28e5459302da1f846241d864bfb6a5",
-        "classified_at": "2026-10-24T02:27:53.090837+00:00"
-      },
-      "message_id": 207,
-      "uid": "telegram:-1003789866860:207",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:207",
-        "root_post": "masik2977/207",
-        "date_url": "https://t.me/masik2977/207",
-        "media_urls": [
-          "https://t.me/masik2977/207"
-        ],
-        "caption_sha256": "1e71245fbc89f490f8a739ca69733b74bf7e8495a8894a93caee76b3621f39b1",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:207",
-      "thumbnail_url_sha256": "7611c26db567b3dcd928c64d8862cefdde68f746bc58d6a18c9ff70cb274916e",
-      "integrity_issues": []
+        "text_sha256": "51f9efa883e3e28eff86f1162927d4e32d7d28c9a8e0ba912dc02e086d4a737d",
+        "classified_at": "2026-10-24T03:59:10.894438+00:00"
+      }
     },
     {
       "id": 206,
-      "title": "Сегодня вышел из 36 часов без еды и воды и дальше на жидком питании продолжаю питании до пятницы 😜 нравится мне состояние легкости ,много энэргии и сил",
-      "caption": "Сегодня вышел из 36 часов без еды и воды и дальше на жидком питании продолжаю питании до пятницы 😜 нравится мне состояние легкости ,много энэргии и сил",
+      "message_id": 206,
+      "uid": "telegram:-1003789866860:206",
+      "channel_id": -1003789866860,
+      "title": "Сегодня вышел из 36 часов без еды и воды и дальше на жидком питании продолжаю питании до пятницы😜нравится мне состояние легкости ,много энэргии и сил",
+      "caption": "Сегодня вышел из 36 часов без еды и воды и дальше на жидком питании продолжаю питании до пятницы😜нравится мне состояние легкости ,много энэргии и сил",
       "date": "2026-06-03T09:24:24+00:00",
       "url": "https://t.me/masik2977/206",
       "thumbnail": "https://cdn4.telesco.pe/file/PX_oaf_VhQD5jTh9Oum2b4v97kHctyNUcPADPFEvV_J9sJfSIPTs2jXudj2QbdO2CoJvluVZm59g5B9FbGGY8fCtyDBIkCc8nd8Bohk2V2ao5XXi1cO5aVP7cYGOgRvUUmvdZndhUcdFc58d2OjYqd5KDXHslIxMqs5WJpSdSoWe-ACOwGXWlxFGhvf-SZMgPtN_f7ceBUBYJsjmVkVkGRfC_MVZUApexUj4azP0QHMR6Fd5RpIOLSXU9c_0t05HPKACCgfVvzBbOnHWfUFbCdldlx93Psc4TXnvF44AQUVSCh3C7cWWL6qQH86Vg8yKPhQBQ5pHQQzKrjNJoyyIIA",
@@ -11396,6 +11497,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:206",
+        "root_post": "masik2977/206",
+        "date_url": "https://t.me/masik2977/206",
+        "media_urls": [
+          "https://t.me/masik2977/206"
+        ],
+        "caption_sha256": "7d528a96bfeca47156a26f8b35b43ddd93fed9f76bd4ff3efe6f545d8fea2050",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:206",
+      "thumbnail_url_sha256": "3e8baa60dd6b00d7f596cb82bb04bb8193d8b39139a3b8b47b52917adb6be71b",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "food",
@@ -11432,30 +11546,17 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "4a3e0aef32fe9db2259261fc96b4c44468b945f8510f9f906f4b4e186ed5100e",
-        "classified_at": "2026-10-24T02:27:53.090837+00:00"
-      },
-      "message_id": 206,
-      "uid": "telegram:-1003789866860:206",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:206",
-        "root_post": "masik2977/206",
-        "date_url": "https://t.me/masik2977/206",
-        "media_urls": [
-          "https://t.me/masik2977/206"
-        ],
-        "caption_sha256": "e831db75f388cd13588832d24e4d35183dc85209433549c59f82cab11f3cb118",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:206",
-      "thumbnail_url_sha256": "3e8baa60dd6b00d7f596cb82bb04bb8193d8b39139a3b8b47b52917adb6be71b",
-      "integrity_issues": []
+        "text_sha256": "3343432ee1ac386ed5950fac401e5a2b1104b1ffeacf44db2d873030820f77c4",
+        "classified_at": "2026-10-24T03:59:11.543425+00:00"
+      }
     },
     {
       "id": 205,
-      "title": "День рук 👍 первый за неделю ,весело тренировка прошла ,обновил свои рекорды силовые,потихонечку,почуток ,но вперед и вперед 🙏",
-      "caption": "День рук 👍 первый за неделю ,весело тренировка прошла ,обновил свои рекорды силовые,потихонечку,почуток ,но вперед и вперед 🙏",
+      "message_id": 205,
+      "uid": "telegram:-1003789866860:205",
+      "channel_id": -1003789866860,
+      "title": "День рук👍первый за неделю ,весело тренировка прошла ,обновил свои рекорды силовые,потихонечку,почуток ,но вперед и вперед🙏",
+      "caption": "День рук👍первый за неделю ,весело тренировка прошла ,обновил свои рекорды силовые,потихонечку,почуток ,но вперед и вперед🙏",
       "date": "2026-06-02T08:57:24+00:00",
       "url": "https://t.me/masik2977/205",
       "thumbnail": "https://cdn4.telesco.pe/file/tZPLYOGzXU8jorlVjXO8q-WVkzQ3YNWomMUZuZu87M-lb7KuWt3ZTmkJB14Lfnt4qIft5nY6V3nGrCY4qSLTRcO0ZQWu0qmsSmH2BiRnwxvAGKqGUX7xUif2r6MPT9H-i3FHbuSLoiL0_T5uqlFDXIB35crPM6ecQl3FLs8pA-kw821RHH7-_GpWKNd6gYCVUM77a2R16m6NBO9_j8MdqIzhphTEKFk85GyPxVgFNBJr06sCjeK4M9IbZSMKlRUZXzXCXoxu-JJPBXasoUS8vxkGmnmGm2SVTlkBrBT0PWt9KUfbWrTsxy8AS90Dn7nefCraKDsATTC9FrLHaITHUQ",
@@ -11464,6 +11565,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:205",
+        "root_post": "masik2977/205",
+        "date_url": "https://t.me/masik2977/205",
+        "media_urls": [
+          "https://t.me/masik2977/205"
+        ],
+        "caption_sha256": "65e5f5a895e6a134c95a230dd9054ac8e79d1859f935a44b518c6225505e2d11",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:205",
+      "thumbnail_url_sha256": "8b67de349c3bc589adadc6392687e9682c6dc3ce82b0ee967e98ac25f520219b",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "train",
@@ -11500,30 +11614,17 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "cbfa6fc4e185e4cc1673b59c549b7122b41f9ffc51eb567abe8a521d98b5fe01",
-        "classified_at": "2026-10-24T02:27:53.121437+00:00"
-      },
-      "message_id": 205,
-      "uid": "telegram:-1003789866860:205",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:205",
-        "root_post": "masik2977/205",
-        "date_url": "https://t.me/masik2977/205",
-        "media_urls": [
-          "https://t.me/masik2977/205"
-        ],
-        "caption_sha256": "9368bb47ac97440dd02e3b3bd2cdf6961eb59a02c9084e271040ee35c6ff043e",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:205",
-      "thumbnail_url_sha256": "8b67de349c3bc589adadc6392687e9682c6dc3ce82b0ee967e98ac25f520219b",
-      "integrity_issues": []
+        "text_sha256": "c792db33addcd2ea2a95cc67c19a48ca0477b919cdc7ec7c410c3c7c51519c1a",
+        "classified_at": "2026-10-24T03:59:12.110034+00:00"
+      }
     },
     {
       "id": 198,
-      "title": "С утра +12 было ,думал в Волге холоднее будет 😜 но забыл Физику ,там то 14 градусов сейчас и реально прям там согрелся и кайфово было поплавал от души сегодня в Волнах,прям волны х",
-      "caption": "С утра +12 было ,думал в Волге холоднее будет 😜 но забыл Физику ,там то 14 градусов сейчас и реально прям там согрелся и кайфово было поплавал от души сегодня в Волнах,прям волны хорошие были",
+      "message_id": 198,
+      "uid": "telegram:-1003789866860:198",
+      "channel_id": -1003789866860,
+      "title": "С утра +12 было ,думал в Волге холоднее будет 😜но забыл Физику ,там то 14 градусов сейчас и реально прям там согрелся и кайфово было поплавал от души сегодня в Волнах,прям волны хо",
+      "caption": "С утра +12 было ,думал в Волге холоднее будет 😜но забыл Физику ,там то 14 градусов сейчас и реально прям там согрелся и кайфово было поплавал от души сегодня в Волнах,прям волны хорошие были",
       "date": "2026-05-28T09:58:50+00:00",
       "url": "https://t.me/masik2977/198",
       "thumbnail": "https://cdn4.telesco.pe/file/BMG-9AQbhXxOCkdcqaYTw74cm41L4ie60AcukpTYE87C6nf2-NxkCbNCfV6Lt7gS2ArHVNkoiURuQ3Q_aOcRsE4UuhPQa6sKOhH0X_5zU5Q4nT7GBBiv1TRj_TaoxpJiNsQUBaQX1T52VJvVHPBM_EoouwNOvCut1XH0o-DgzgKSdCX5zfVY0CwXQEttZ73Q8NAtllnhPKWWrlrBPFjdL6NkiApIK5z_UPIb8fuPxeKg9DTWjLjsxlvq7lRca1YZyiF9jMdscq7vtKko4JjWcEul4FFGkvT6fjUgiIpYVrhkmGI6UHvIy22uvcLZcy9Jw0AWwgpQjstd_3rYUvefRA",
@@ -11532,6 +11633,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:198",
+        "root_post": "masik2977/198",
+        "date_url": "https://t.me/masik2977/198",
+        "media_urls": [
+          "https://t.me/masik2977/198"
+        ],
+        "caption_sha256": "aa0ba6303563c06dbfe99d8acff9c0031af0df50f2cf8eff72b835d408edc2e9",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:198",
+      "thumbnail_url_sha256": "f5d674e41fa5db17c5162bb2586f6de0302dacc58038c754a0d1a0633af3bd04",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "swim",
@@ -11568,30 +11682,17 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "fe1fcd3f8564aa5382342823053e471098a0998790cb99d0d0553b5b23ca2556",
-        "classified_at": "2026-10-24T02:27:53.168611+00:00"
-      },
-      "message_id": 198,
-      "uid": "telegram:-1003789866860:198",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:198",
-        "root_post": "masik2977/198",
-        "date_url": "https://t.me/masik2977/198",
-        "media_urls": [
-          "https://t.me/masik2977/198"
-        ],
-        "caption_sha256": "dc65f7f562fbd576cc41f1894c935438aaa26e7b02fa1df413f6820ce71ead4e",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:198",
-      "thumbnail_url_sha256": "f5d674e41fa5db17c5162bb2586f6de0302dacc58038c754a0d1a0633af3bd04",
-      "integrity_issues": []
+        "text_sha256": "ebbe9f7fb722dcd6f9f6c8644757be1112a725b5682a0821a3e0b0ca8e54a654",
+        "classified_at": "2026-10-24T03:59:13.822999+00:00"
+      }
     },
     {
       "id": 197,
+      "message_id": 197,
+      "uid": "telegram:-1003789866860:197",
+      "channel_id": -1003789866860,
       "title": "Так как недавно вышел из 14 дневнего питания на жидкостях веса большие не беру и качаю Базу 18 подходов на Грудь Щас мой вес 75 кг 90 кг 4 подхода на 6 повторений 80 кг 4 подхода н",
-      "caption": "Так как недавно вышел из 14 дневнего питания на жидкостях веса большие не беру и качаю Базу 18 подходов на Грудь Щас мой вес 75 кг 90 кг 4 подхода на 6 повторений 80 кг 4 подхода на 4 повторения с паузой 2-3 секунды 60 кг 4 подхода на 10 повторений на скорость 52 кг на 30 повторений без ног В конце чтоб забить мышцы посильнее 👌",
+      "caption": "Так как недавно вышел из 14 дневнего питания на жидкостях веса большие не беру и качаю Базу 18 подходов на Грудь Щас мой вес 75 кг 90 кг 4 подхода на 6 повторений 80 кг 4 подхода на 4 повторения с паузой 2-3 секунды 60 кг 4 подхода на 10 повторений на скорость 52 кг на 30 повторений без ног В конце чтоб забить мышцы посильнее👌",
       "date": "2026-05-27T12:41:44+00:00",
       "url": "https://t.me/masik2977/197",
       "thumbnail": "https://cdn4.telesco.pe/file/teA49tWWh5RDoR1bHOQCvjWOXryj1hAgmNNSKRmSa9rAxztKp1xJhRsUWwkwWYvqJn52jtiygHv5VkrrjrvLYeAndhu3GPVNV2e0eEV0tZ30vJHkArM0Wh-J6hcyD0RTq20pmRK7USOHOScCold_fV7d8jyHg-rRTb3fUqWYfNtd5EHjIPEMDSpyVGH98t7Rb-hCoF4zjofRw_klcmVOAVQIV_0c3iBgItZSBf58cMc8g6VSowfyySzE0xMTimjDYTfUT-LyxnunlZwR2-RqPdsakVWT0IgmVjNSxXZQf4V1dmAk8Pl7ql4jYhL8pj1A6zuHI-x31IxWUdzza7lRdA",
@@ -11600,6 +11701,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:197",
+        "root_post": "masik2977/197",
+        "date_url": "https://t.me/masik2977/197",
+        "media_urls": [
+          "https://t.me/masik2977/197"
+        ],
+        "caption_sha256": "11ccbfa43167f19e45f806d46b5b4404d3129c3daf9ff6686f05611cd9a79dab",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:197",
+      "thumbnail_url_sha256": "18110893cf86c8140dc4bf53a19f47bf67875a14063df9f860ebe36975c07683",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "primary": "train",
@@ -11636,30 +11750,17 @@
           }
         },
         "vision_error": null,
-        "text_sha256": "c00ae492201fa2355af0c2e31a6ce9a6ea8cb1bc143e3e27215e83c4cd0ed006",
-        "classified_at": "2026-10-24T02:27:53.172615+00:00"
-      },
-      "message_id": 197,
-      "uid": "telegram:-1003789866860:197",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:197",
-        "root_post": "masik2977/197",
-        "date_url": "https://t.me/masik2977/197",
-        "media_urls": [
-          "https://t.me/masik2977/197"
-        ],
-        "caption_sha256": "e37acb94f1b591d1b8a1179a9b0e24940d6385b43e3fed94aac3b7609049089c",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:197",
-      "thumbnail_url_sha256": "18110893cf86c8140dc4bf53a19f47bf67875a14063df9f860ebe36975c07683",
-      "integrity_issues": []
+        "text_sha256": "b0efce97b62e743f542182c5757db9389415c86612c784bf0515ddfc2e8492cb",
+        "classified_at": "2026-10-24T03:59:14.347934+00:00"
+      }
     },
     {
       "id": 194,
-      "title": "Сегодня 14 дней как я на жидком питании,пью чай иногда, свежевыжатые соки 👍 Сбросил 6 кг последние дни в спортзале немного просели силовые,но это не страшно они вернуться через ден",
-      "caption": "Сегодня 14 дней как я на жидком питании,пью чай иногда, свежевыжатые соки 👍 Сбросил 6 кг последние дни в спортзале немного просели силовые,но это не страшно они вернуться через день как начну есть 😜 👌",
+      "message_id": 194,
+      "uid": "telegram:-1003789866860:194",
+      "channel_id": -1003789866860,
+      "title": "Сегодня 14 дней как я на жидком питании,пью чай иногда, свежевыжатые соки👍 Сбросил 6 кг последние дни в спортзале немного просели силовые,но это не страшно они вернуться через день",
+      "caption": "Сегодня 14 дней как я на жидком питании,пью чай иногда, свежевыжатые соки👍 Сбросил 6 кг последние дни в спортзале немного просели силовые,но это не страшно они вернуться через день как начну есть😜👌",
       "date": "2026-05-25T10:48:18+00:00",
       "url": "https://t.me/masik2977/194",
       "thumbnail": "https://cdn4.telesco.pe/file/jtX0hxtuFbyPqEN4C11kNrwE0J37tqMpNc9B5_Hck-FJOZRGRgYHiazmK3Qyulzd28fQVbM9SeTB7AVsC9irX14mhcMdC-8aE3rUCTN46Z1ZpJpy5w2tdw8UmlsvYkjs7qbvw7h32i8D9TXfGc6nBYT77bD_3zTevEdShsSmoWEU3JsITCN7kq_89zBgzroVptFN32dylTv0Pccd08Qztx5mB8ZmximSN6YrtPgNqfY1InFBnP5E1FRmDo9En8rFWc8hi1jUJvvHgKxa6K4HTrfKbDXVCssGEmxd3Wb9rRGjXNV2qekU-bbbTRaA_PY1NZS31EscSn-ka_QRIlHfEg",
@@ -11669,6 +11770,19 @@
       ],
       "status": "published",
       "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:194",
+        "root_post": "masik2977/194",
+        "date_url": "https://t.me/masik2977/194",
+        "media_urls": [
+          "https://t.me/masik2977/194"
+        ],
+        "caption_sha256": "421e5a911a4ffed29d9aa929141a2a3b83be51532e3f5dc64dd516cf33eda29d",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:194",
+      "thumbnail_url_sha256": "b344119a4bd9d6ee2fb8ade6cd2fa38b1f53d38ad1ab774855c4e26ac98b8c37",
+      "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
         "engine": "speech-frames-description-v5",
@@ -11887,24 +12001,9 @@
           }
         },
         "review_reasons": [],
-        "text_sha256": "108de326d2da09a4c7885db81145ce8cfbd97060b6dbe2f05369010689924b2b"
-      },
-      "message_id": 194,
-      "uid": "telegram:-1003789866860:194",
-      "channel_id": -1003789866860,
-      "source_identity": {
-        "uid": "telegram:-1003789866860:194",
-        "root_post": "masik2977/194",
-        "date_url": "https://t.me/masik2977/194",
-        "media_urls": [
-          "https://t.me/masik2977/194"
-        ],
-        "caption_sha256": "127295e2b381289416ce360aedb532d857b956736785a769cfe2d5ac3bf43dc6",
-        "verified": true
-      },
-      "thumbnail_owner_uid": "telegram:-1003789866860:194",
-      "thumbnail_url_sha256": "b344119a4bd9d6ee2fb8ade6cd2fa38b1f53d38ad1ab774855c4e26ac98b8c37",
-      "integrity_issues": []
+        "text_sha256": "eaf48109a225224552dc28b7302fa120996559c2d268012cd7964806deddbd70",
+        "classified_at": "2026-10-24T03:59:14.766384+00:00"
+      }
     },
     {
       "id": 187,
