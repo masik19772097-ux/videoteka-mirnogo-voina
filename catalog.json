@@ -1,6 +1,2033 @@
 {
   "videos": [
     {
+      "id": 589,
+      "message_id": 589,
+      "uid": "telegram:-1003789866860:589",
+      "channel_id": -1003789866860,
+      "title": "Волна обнимает, душа поёт, И счастье с улыбкой по жизни идёт! 🌊💙",
+      "caption": "Волна обнимает, душа поёт, И счастье с улыбкой по жизни идёт! 🌊💙",
+      "date": "2026-10-28T10:40:24+00:00",
+      "url": "https://t.me/masik2977/589",
+      "thumbnail": "https://masik19772097-ux.github.io/videoteka-mirnogo-voina/thumbnails/589.jpg?v=7be92c995736b82e",
+      "categories": [
+        "talk",
+        "swim"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:589",
+        "root_post": "masik2977/589",
+        "date_url": "https://t.me/masik2977/589",
+        "media_urls": [
+          "https://t.me/masik2977/589"
+        ],
+        "caption_sha256": "5e1aa42a2ff5cc60c6d2b5fbbfd26c2c54c7555838902406f04a172368c20945",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:589",
+      "thumbnail_url_sha256": "28d2e035cf91a8742713fe3e026c7789b554ad5d798dbfb76b9f671868695a83",
+      "integrity_issues": [],
+      "classification": {
+        "version": "identity-multilabel-v4",
+        "engine": "speech-frames-description-v5",
+        "method": "local_whisper_clip_frames_and_description",
+        "reason": "multimodal_evidence",
+        "primary": "talk",
+        "suggested_categories": [
+          "talk",
+          "swim"
+        ],
+        "confidence": 0.66,
+        "confidence_kind": "uncalibrated_evidence_score",
+        "speech_topics": [
+          "talk"
+        ],
+        "visual_actions": [
+          "swimming",
+          "talking"
+        ],
+        "topic_scores": {
+          "food": 0.0,
+          "train": 0.0,
+          "run": 0.0,
+          "swim": 0.7000000000000001,
+          "philosophy": 0.27880000000000005,
+          "path": 0.0,
+          "talk": 0.66
+        },
+        "topic_sources": {
+          "food": [],
+          "train": [],
+          "run": [],
+          "swim": [
+            "frames:swimming"
+          ],
+          "philosophy": [
+            "description"
+          ],
+          "path": [],
+          "talk": [
+            "speech",
+            "frames:talking"
+          ]
+        },
+        "speech_evidence": {
+          "food": {
+            "hits": 1,
+            "distinct": 1,
+            "sentences": 1,
+            "score": 0.27,
+            "terms": [
+              "еду"
+            ],
+            "segment_support": 1
+          },
+          "train": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "run": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "swim": {
+            "hits": 1,
+            "distinct": 1,
+            "sentences": 1,
+            "score": 0.27,
+            "terms": [
+              "купаться"
+            ],
+            "segment_support": 1
+          },
+          "philosophy": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "path": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "talk": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          }
+        },
+        "description_evidence": {
+          "food": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "train": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "run": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "swim": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "philosophy": {
+            "hits": 2,
+            "distinct": 2,
+            "sentences": 1,
+            "score": 0.41000000000000003,
+            "terms": [
+              "жизни",
+              "счастье"
+            ]
+          },
+          "path": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "talk": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          }
+        },
+        "action_evidence": {
+          "running": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0704,
+            "established": false
+          },
+          "gym_exercise": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0609,
+            "established": false
+          },
+          "swimming": {
+            "supported_positions": [
+              0,
+              4,
+              5
+            ],
+            "fraction": 0.42857142857142855,
+            "mean_score": 0.2224,
+            "established": true
+          },
+          "juice_preparation": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0202,
+            "established": false
+          },
+          "pouring_drinking": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0846,
+            "established": false
+          },
+          "eating_cooking": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0905,
+            "established": false
+          },
+          "talking": {
+            "supported_positions": [
+              1,
+              2,
+              3
+            ],
+            "fraction": 0.42857142857142855,
+            "mean_score": 0.3131,
+            "established": true
+          },
+          "other": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.138,
+            "established": false
+          }
+        },
+        "review_reasons": [],
+        "text_sha256": "c8ed18b2d3d0aa65c0c44685097318f681d4142a09ed042b5ca48b0f2f5ada36"
+      },
+      "thumbnail_origin": {
+        "kind": "own_video_frame",
+        "video_sha256": "b2fe08b9fc98807c78a8b7e115cc42af31e6a1d21012c12f622616c114ae7c5e",
+        "time": 14.797
+      }
+    },
+    {
+      "id": 588,
+      "message_id": 588,
+      "uid": "telegram:-1003789866860:588",
+      "channel_id": -1003789866860,
+      "title": "Прана льётся через край, Вся природа — дивный рай! Жить, любить — вот наслажденье!",
+      "caption": "Прана льётся через край, Вся природа — дивный рай! Жить, любить — вот наслажденье!",
+      "date": "2026-10-28T07:50:45+00:00",
+      "url": "https://t.me/masik2977/588",
+      "thumbnail": "https://masik19772097-ux.github.io/videoteka-mirnogo-voina/thumbnails/588.jpg?v=14031d2ca51ea62f",
+      "categories": [
+        "food",
+        "run",
+        "talk"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:588",
+        "root_post": "masik2977/588",
+        "date_url": "https://t.me/masik2977/588",
+        "media_urls": [
+          "https://t.me/masik2977/588"
+        ],
+        "caption_sha256": "9305048be6a9a9dfbb27122916ae65e55b54b0de7ff052f4157e54d5ff8c53d3",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:588",
+      "thumbnail_url_sha256": "841a1dc8d74f1866e864100cfedc2ff2375a1ad1c09020291ea7b382e06c4e2b",
+      "integrity_issues": [],
+      "classification": {
+        "version": "identity-multilabel-v4",
+        "engine": "verified_source_semantic_review",
+        "method": "Codex_review_of_original_frames_and_accepted_ASR",
+        "primary": "food",
+        "reason": "nutrition_monologue_with_running_self_report",
+        "review_reasons": [],
+        "confidence_kind": "qualitative_not_calibrated",
+        "text_sha256": "a2308bcdd719c97a64176555ca80569d6090cd9200d23ffdef197098c7b2684c",
+        "source_video_sha256": "89b2a8a996f061fec615615c793275db741a638b8b736584e6cac536ae0b5775",
+        "reviewer": "Codex",
+        "owner_per_item_approval_claimed": false,
+        "reviewed_at": "2026-10-28T12:55:30.537039+00:00",
+        "evidence": {
+          "source_uid": "telegram:-1003789866860:588",
+          "frame_times": [
+            3.331,
+            3.981,
+            14.988,
+            15.638,
+            26.645,
+            27.295,
+            38.303,
+            38.953,
+            49.96,
+            50.61,
+            63.283,
+            63.933,
+            76.605,
+            77.255
+          ],
+          "accepted_running_self_report_segments": [
+            {
+              "start": 10.5,
+              "end": 11.86,
+              "text": "Бегу наслаждаюсь."
+            },
+            {
+              "start": 72.54,
+              "end": 82.78,
+              "text": "которые сейчас бегу пока конечно мёрнут. Главное душа. Дух мой, кайфует. Вот так-то, ребята и девчата."
+            }
+          ],
+          "main_topic": "Food/water pause and personal experience; moving selfie and repeated running self-report. No bathing action in the reviewed source.",
+          "prior_automatic_reason": "insufficient_evidence"
+        }
+      },
+      "manually_reviewed": true,
+      "telegram_video_unique_id": "AgADNZ4AAkKXEEs",
+      "thumbnail_origin": {
+        "kind": "own_video_frame",
+        "video_sha256": "89b2a8a996f061fec615615c793275db741a638b8b736584e6cac536ae0b5775",
+        "time": 38.303
+      }
+    },
+    {
+      "id": 585,
+      "message_id": 585,
+      "uid": "telegram:-1003789866860:585",
+      "channel_id": -1003789866860,
+      "title": "На улице ноль, рыбак в пуховике, А мы с Саньком — как летом в реке! 😁🌊 Утренний ролик с опозданием😜времени не было днем сделать",
+      "caption": "На улице ноль, рыбак в пуховике, А мы с Саньком — как летом в реке! 😁🌊 Утренний ролик с опозданием😜времени не было днем сделать",
+      "date": "2026-10-27T18:00:12+00:00",
+      "url": "https://t.me/masik2977/585",
+      "thumbnail": "https://masik19772097-ux.github.io/videoteka-mirnogo-voina/thumbnails/585.jpg?v=e96100be95aca368",
+      "categories": [
+        "swim"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:585",
+        "root_post": "masik2977/585",
+        "date_url": "https://t.me/masik2977/585",
+        "media_urls": [
+          "https://t.me/masik2977/585"
+        ],
+        "caption_sha256": "98d5a451cf152e5815b69939498cc2c5cfe417ab450c6ad795866a2bdad78e09",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:585",
+      "thumbnail_url_sha256": "55a7a57aadb7d9f416ac2807dbad863752a325d5f0ffcdb1ad5a1f5191034384",
+      "integrity_issues": [],
+      "classification": {
+        "version": "identity-multilabel-v4",
+        "engine": "speech-frames-description-v5",
+        "method": "local_whisper_clip_frames_and_description",
+        "reason": "multimodal_evidence",
+        "primary": "swim",
+        "suggested_categories": [
+          "swim"
+        ],
+        "confidence": 0.85,
+        "confidence_kind": "uncalibrated_evidence_score",
+        "speech_topics": [],
+        "visual_actions": [
+          "swimming"
+        ],
+        "topic_scores": {
+          "food": 0.0,
+          "train": 0.0,
+          "run": 0.0,
+          "swim": 0.8500000000000001,
+          "philosophy": 0.0,
+          "path": 0.0,
+          "talk": 0.0
+        },
+        "topic_sources": {
+          "food": [],
+          "train": [],
+          "run": [],
+          "swim": [
+            "frames:swimming"
+          ],
+          "philosophy": [],
+          "path": [],
+          "talk": []
+        },
+        "speech_evidence": {
+          "food": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "train": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "run": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "swim": {
+            "hits": 1,
+            "distinct": 1,
+            "sentences": 1,
+            "score": 0.27,
+            "terms": [
+              "ныряешь"
+            ],
+            "segment_support": 1
+          },
+          "philosophy": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "path": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "talk": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          }
+        },
+        "description_evidence": {
+          "food": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "train": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "run": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "swim": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "philosophy": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "path": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "talk": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          }
+        },
+        "action_evidence": {
+          "running": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0351,
+            "established": false
+          },
+          "gym_exercise": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0755,
+            "established": false
+          },
+          "swimming": {
+            "supported_positions": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "fraction": 0.8571428571428571,
+            "mean_score": 0.3751,
+            "established": true
+          },
+          "juice_preparation": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0197,
+            "established": false
+          },
+          "pouring_drinking": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0553,
+            "established": false
+          },
+          "eating_cooking": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0621,
+            "established": false
+          },
+          "talking": {
+            "supported_positions": [
+              0
+            ],
+            "fraction": 0.14285714285714285,
+            "mean_score": 0.1912,
+            "established": false
+          },
+          "other": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.1861,
+            "established": false
+          }
+        },
+        "review_reasons": [],
+        "text_sha256": "f5920422e8c0b5751e93b18ed1e28bbb7a7e18779bba1cd362789b9e4437ba38"
+      },
+      "thumbnail_origin": {
+        "kind": "own_video_frame",
+        "video_sha256": "44351146cf57efef63e73658743f4f4f9bb4f2bb5a55d1c1e33a4627af559e67",
+        "time": 33.934
+      }
+    },
+    {
+      "id": 584,
+      "message_id": 584,
+      "uid": "telegram:-1003789866860:584",
+      "channel_id": -1003789866860,
+      "title": "Железо в руках улыбка на устах🤟",
+      "caption": "Железо в руках улыбка на устах🤟",
+      "date": "2026-10-27T08:16:40+00:00",
+      "url": "https://t.me/masik2977/584",
+      "thumbnail": "https://masik19772097-ux.github.io/videoteka-mirnogo-voina/thumbnails/584.jpg?v=6163618bf1b062ef",
+      "categories": [
+        "train"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:584",
+        "root_post": "masik2977/584",
+        "date_url": "https://t.me/masik2977/584",
+        "media_urls": [
+          "https://t.me/masik2977/584"
+        ],
+        "caption_sha256": "2cbc0ef137ce403fca003d5e903701077d9d7de10c2cc8cdcd4a39f417319cd8",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:584",
+      "thumbnail_url_sha256": "362179a1f43ae3d40a988533a245bb29e5750b5faf115a22527882c522e8eff7",
+      "integrity_issues": [],
+      "classification": {
+        "version": "identity-multilabel-v4",
+        "engine": "speech-frames-description-v5",
+        "method": "local_whisper_clip_frames_and_description",
+        "reason": "multimodal_evidence",
+        "primary": "train",
+        "suggested_categories": [
+          "train"
+        ],
+        "confidence": 0.8,
+        "confidence_kind": "uncalibrated_evidence_score",
+        "speech_topics": [],
+        "visual_actions": [
+          "gym_exercise"
+        ],
+        "topic_scores": {
+          "food": 0.0,
+          "train": 0.8,
+          "run": 0.0,
+          "swim": 0.0,
+          "philosophy": 0.0,
+          "path": 0.0,
+          "talk": 0.0
+        },
+        "topic_sources": {
+          "food": [],
+          "train": [
+            "frames:gym_exercise"
+          ],
+          "run": [],
+          "swim": [],
+          "philosophy": [],
+          "path": [],
+          "talk": []
+        },
+        "speech_evidence": {
+          "food": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "train": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "run": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "swim": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "philosophy": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "path": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "talk": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          }
+        },
+        "description_evidence": {
+          "food": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "train": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "run": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "swim": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "philosophy": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "path": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "talk": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          }
+        },
+        "action_evidence": {
+          "running": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0265,
+            "established": false
+          },
+          "gym_exercise": {
+            "supported_positions": [
+              0,
+              1,
+              2,
+              5,
+              6
+            ],
+            "fraction": 0.7142857142857143,
+            "mean_score": 0.3549,
+            "established": true
+          },
+          "swimming": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0134,
+            "established": false
+          },
+          "juice_preparation": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0097,
+            "established": false
+          },
+          "pouring_drinking": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0272,
+            "established": false
+          },
+          "eating_cooking": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0253,
+            "established": false
+          },
+          "talking": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0562,
+            "established": false
+          },
+          "other": {
+            "supported_positions": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "fraction": 1.0,
+            "mean_score": 0.4867,
+            "established": true
+          }
+        },
+        "review_reasons": [],
+        "text_sha256": "e86872f171c210289c415ba8b51427558a2f92206107c077b44fc32490de1652"
+      },
+      "thumbnail_origin": {
+        "kind": "own_video_frame",
+        "video_sha256": "73f602322131b4d4c6c40ad3199d7926222d24a5fa32f41fcb97d2bcb199059c",
+        "time": 23.328
+      }
+    },
+    {
+      "id": 583,
+      "message_id": 583,
+      "uid": "telegram:-1003789866860:583",
+      "channel_id": -1003789866860,
+      "title": "Прекрасное утро, +1 — мороз бодрит! ❄️ «Алкаш или ЗОЖ?» — пусть каждый сам решит! 😄 #ПутьМирногоВоина",
+      "caption": "Прекрасное утро, +1 — мороз бодрит! ❄️ «Алкаш или ЗОЖ?» — пусть каждый сам решит! 😄 #ПутьМирногоВоина",
+      "date": "2026-10-27T06:05:12+00:00",
+      "url": "https://t.me/masik2977/583",
+      "thumbnail": "https://masik19772097-ux.github.io/videoteka-mirnogo-voina/thumbnails/583.jpg?v=177c04fd358d0b4b",
+      "categories": [
+        "run"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:583",
+        "root_post": "masik2977/583",
+        "date_url": "https://t.me/masik2977/583",
+        "media_urls": [
+          "https://t.me/masik2977/583"
+        ],
+        "caption_sha256": "85c114c278e3264cc28e69f569d74dbc9749a8293dd6ca05eca73c4ae609738b",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:583",
+      "thumbnail_url_sha256": "655a2efc739e4d20808ec7fc0d7f6c64de1f2264ab64cd05890409878555880c",
+      "integrity_issues": [],
+      "classification": {
+        "version": "identity-multilabel-v4",
+        "engine": "speech-frames-description-v5",
+        "method": "local_whisper_clip_frames_and_description",
+        "reason": "multimodal_evidence",
+        "primary": "run",
+        "suggested_categories": [
+          "run"
+        ],
+        "confidence": 0.66,
+        "confidence_kind": "uncalibrated_evidence_score",
+        "speech_topics": [
+          "run"
+        ],
+        "visual_actions": [],
+        "topic_scores": {
+          "food": 0.0,
+          "train": 0.0,
+          "run": 0.66,
+          "swim": 0.0,
+          "philosophy": 0.0,
+          "path": 0.0,
+          "talk": 0.0
+        },
+        "topic_sources": {
+          "food": [],
+          "train": [],
+          "run": [
+            "speech"
+          ],
+          "swim": [],
+          "philosophy": [],
+          "path": [],
+          "talk": []
+        },
+        "speech_evidence": {
+          "food": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "train": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "run": {
+            "hits": 7,
+            "distinct": 1,
+            "sentences": 7,
+            "score": 0.66,
+            "terms": [
+              "бегать",
+              "бегу",
+              "бежим"
+            ],
+            "segment_support": 7
+          },
+          "swim": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "philosophy": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "path": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "talk": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          }
+        },
+        "description_evidence": {
+          "food": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "train": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "run": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "swim": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "philosophy": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "path": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "talk": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          }
+        },
+        "action_evidence": {
+          "running": {
+            "supported_positions": [
+              0,
+              2
+            ],
+            "fraction": 0.2857142857142857,
+            "mean_score": 0.2174,
+            "established": false
+          },
+          "gym_exercise": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.1287,
+            "established": false
+          },
+          "swimming": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.1834,
+            "established": false
+          },
+          "juice_preparation": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0146,
+            "established": false
+          },
+          "pouring_drinking": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0543,
+            "established": false
+          },
+          "eating_cooking": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0674,
+            "established": false
+          },
+          "talking": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.1636,
+            "established": false
+          },
+          "other": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.1705,
+            "established": false
+          }
+        },
+        "review_reasons": [],
+        "text_sha256": "52ec7ff22145f05bc8ede2145bc437a1e3e03eceaaf6bb0a321a0eeea15e55a4"
+      },
+      "thumbnail_origin": {
+        "kind": "own_video_frame",
+        "video_sha256": "f671c08c6d4bd0967e0e7e15ef85ee0b761d1ac805e6abaeb96eef79569cb387",
+        "time": 59.131
+      }
+    },
+    {
+      "id": 582,
+      "message_id": 582,
+      "uid": "telegram:-1003789866860:582",
+      "channel_id": -1003789866860,
+      "title": "Прелестная водица — бодрость в нас искрится! Волна играет — душа пылает! 🌊🔥",
+      "caption": "Прелестная водица — бодрость в нас искрится! Волна играет — душа пылает! 🌊🔥",
+      "date": "2026-10-26T11:03:05+00:00",
+      "url": "https://t.me/masik2977/582",
+      "thumbnail": "https://masik19772097-ux.github.io/videoteka-mirnogo-voina/thumbnails/582.jpg?v=bf989af5eb4a7f22",
+      "categories": [
+        "swim"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:582",
+        "root_post": "masik2977/582",
+        "date_url": "https://t.me/masik2977/582",
+        "media_urls": [
+          "https://t.me/masik2977/582"
+        ],
+        "caption_sha256": "0367499fd5d118efe2483ea677cf40162c4aba979856ab22457075261ac4db21",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:582",
+      "thumbnail_url_sha256": "a29e126eb8277e2aa0a625212a43e4fb580ec16fedf3477f26247848c1b2dc19",
+      "integrity_issues": [],
+      "classification": {
+        "version": "identity-multilabel-v4",
+        "engine": "speech-frames-description-v5",
+        "method": "local_whisper_clip_frames_and_description",
+        "reason": "multimodal_evidence",
+        "primary": "swim",
+        "suggested_categories": [
+          "swim"
+        ],
+        "confidence": 0.88,
+        "confidence_kind": "uncalibrated_evidence_score",
+        "speech_topics": [],
+        "visual_actions": [
+          "swimming"
+        ],
+        "topic_scores": {
+          "food": 0.0,
+          "train": 0.0,
+          "run": 0.0,
+          "swim": 0.88,
+          "philosophy": 0.0,
+          "path": 0.0,
+          "talk": 0.0
+        },
+        "topic_sources": {
+          "food": [],
+          "train": [],
+          "run": [],
+          "swim": [
+            "frames:swimming"
+          ],
+          "philosophy": [],
+          "path": [],
+          "talk": []
+        },
+        "speech_evidence": {
+          "food": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "train": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "run": {
+            "hits": 3,
+            "distinct": 1,
+            "sentences": 3,
+            "score": 0.53,
+            "terms": [
+              "бежал",
+              "пробежались",
+              "пробежаться"
+            ],
+            "segment_support": 3
+          },
+          "swim": {
+            "hits": 1,
+            "distinct": 1,
+            "sentences": 1,
+            "score": 0.27,
+            "terms": [
+              "купался"
+            ],
+            "segment_support": 1
+          },
+          "philosophy": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "path": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "talk": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          }
+        },
+        "description_evidence": {
+          "food": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "train": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "run": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "swim": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "philosophy": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "path": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "talk": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          }
+        },
+        "action_evidence": {
+          "running": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0299,
+            "established": false
+          },
+          "gym_exercise": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0499,
+            "established": false
+          },
+          "swimming": {
+            "supported_positions": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "fraction": 1.0,
+            "mean_score": 0.5536,
+            "established": true
+          },
+          "juice_preparation": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.011,
+            "established": false
+          },
+          "pouring_drinking": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0471,
+            "established": false
+          },
+          "eating_cooking": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0447,
+            "established": false
+          },
+          "talking": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0586,
+            "established": false
+          },
+          "other": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.2053,
+            "established": false
+          }
+        },
+        "review_reasons": [],
+        "text_sha256": "c6fa4fcc8e12d4fd88b0337baed54711164371bdb4a7c586a2cf8e02891234f9"
+      },
+      "thumbnail_origin": {
+        "kind": "own_video_frame",
+        "video_sha256": "862c1f218e78cd46dbde1cc8d2a3b068f70477be49f0a7d09d5a5115cb0abed9",
+        "time": 33.948
+      }
+    },
+    {
+      "id": 581,
+      "message_id": 581,
+      "uid": "telegram:-1003789866860:581",
+      "channel_id": -1003789866860,
+      "title": "Луна над Волгой, впереди заря, 🌙 Природа дарит силы нам не зря!",
+      "caption": "Луна над Волгой, впереди заря, 🌙 Природа дарит силы нам не зря!",
+      "date": "2026-10-26T06:03:02+00:00",
+      "url": "https://t.me/masik2977/581",
+      "thumbnail": "https://masik19772097-ux.github.io/videoteka-mirnogo-voina/thumbnails/581.jpg?v=1b46c7ffc2702261",
+      "categories": [
+        "run"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:581",
+        "root_post": "masik2977/581",
+        "date_url": "https://t.me/masik2977/581",
+        "media_urls": [
+          "https://t.me/masik2977/581"
+        ],
+        "caption_sha256": "e09e06eeee531c73acfe25992c94642786d3634902a592fdce1256333c539a6c",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:581",
+      "thumbnail_url_sha256": "e10296cfae82013c4a8374a0afad0cacb92e7bce2398c39465beac3fdfa1d693",
+      "integrity_issues": [],
+      "classification": {
+        "version": "identity-multilabel-v4",
+        "engine": "speech-frames-description-v5",
+        "method": "local_whisper_clip_frames_and_description",
+        "reason": "multimodal_evidence",
+        "primary": "run",
+        "suggested_categories": [
+          "run"
+        ],
+        "confidence": 0.7,
+        "confidence_kind": "uncalibrated_evidence_score",
+        "speech_topics": [],
+        "visual_actions": [
+          "running"
+        ],
+        "topic_scores": {
+          "food": 0.0,
+          "train": 0.0,
+          "run": 0.7000000000000001,
+          "swim": 0.0,
+          "philosophy": 0.0,
+          "path": 0.0,
+          "talk": 0.0
+        },
+        "topic_sources": {
+          "food": [],
+          "train": [],
+          "run": [
+            "frames:running"
+          ],
+          "swim": [],
+          "philosophy": [],
+          "path": [],
+          "talk": []
+        },
+        "speech_evidence": {
+          "food": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "train": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "run": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "swim": {
+            "hits": 1,
+            "distinct": 1,
+            "sentences": 1,
+            "score": 0.27,
+            "terms": [
+              "купался"
+            ],
+            "segment_support": 1
+          },
+          "philosophy": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "path": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "talk": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          }
+        },
+        "description_evidence": {
+          "food": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "train": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "run": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "swim": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "philosophy": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "path": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "talk": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          }
+        },
+        "action_evidence": {
+          "running": {
+            "supported_positions": [
+              0,
+              2,
+              4
+            ],
+            "fraction": 0.42857142857142855,
+            "mean_score": 0.2971,
+            "established": true
+          },
+          "gym_exercise": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.1501,
+            "established": false
+          },
+          "swimming": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.123,
+            "established": false
+          },
+          "juice_preparation": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0147,
+            "established": false
+          },
+          "pouring_drinking": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.047,
+            "established": false
+          },
+          "eating_cooking": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0575,
+            "established": false
+          },
+          "talking": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.1687,
+            "established": false
+          },
+          "other": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.1418,
+            "established": false
+          }
+        },
+        "review_reasons": [],
+        "text_sha256": "17b65b190e9bf0b8431f270fa0664ae4e396b1eeb9412ad00e25c76970ae1496"
+      },
+      "thumbnail_origin": {
+        "kind": "own_video_frame",
+        "video_sha256": "18fa79749f4ab1d5b4136d8773f46b5a4430a490477386f0355e872b07b98841",
+        "time": 35.216
+      }
+    },
+    {
+      "id": 579,
+      "message_id": 579,
+      "uid": "telegram:-1003789866860:579",
+      "channel_id": -1003789866860,
+      "title": "Видеопубликация №579",
+      "caption": "",
+      "date": "2026-10-25T10:06:58+00:00",
+      "url": "https://t.me/masik2977/579",
+      "thumbnail": "https://masik19772097-ux.github.io/videoteka-mirnogo-voina/thumbnails/579.jpg?v=18a81c7e5c5b3a53",
+      "categories": [
+        "swim"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:579",
+        "root_post": "masik2977/579",
+        "date_url": "https://t.me/masik2977/579",
+        "media_urls": [
+          "https://t.me/masik2977/579"
+        ],
+        "caption_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:579",
+      "thumbnail_url_sha256": "4a6e4f975e1cc6d09edc0ff710ebad4db316a2bfa481bdd29c92822c5f7a5f64",
+      "integrity_issues": [],
+      "classification": {
+        "version": "identity-multilabel-v4",
+        "engine": "speech-frames-description-v5",
+        "method": "local_whisper_clip_frames_and_description",
+        "reason": "multimodal_evidence",
+        "primary": "swim",
+        "suggested_categories": [
+          "swim"
+        ],
+        "confidence": 0.7,
+        "confidence_kind": "uncalibrated_evidence_score",
+        "speech_topics": [],
+        "visual_actions": [
+          "swimming"
+        ],
+        "topic_scores": {
+          "food": 0.0,
+          "train": 0.0,
+          "run": 0.0,
+          "swim": 0.7000000000000001,
+          "philosophy": 0.0,
+          "path": 0.0,
+          "talk": 0.0
+        },
+        "topic_sources": {
+          "food": [],
+          "train": [],
+          "run": [],
+          "swim": [
+            "frames:swimming"
+          ],
+          "philosophy": [],
+          "path": [],
+          "talk": []
+        },
+        "speech_evidence": {
+          "food": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "train": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "run": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "swim": {
+            "hits": 1,
+            "distinct": 1,
+            "sentences": 1,
+            "score": 0.27,
+            "terms": [
+              "купаемся"
+            ],
+            "segment_support": 1
+          },
+          "philosophy": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "path": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "talk": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          }
+        },
+        "description_evidence": {
+          "food": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "train": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "run": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "swim": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "philosophy": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "path": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "talk": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          }
+        },
+        "action_evidence": {
+          "running": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0473,
+            "established": false
+          },
+          "gym_exercise": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.1155,
+            "established": false
+          },
+          "swimming": {
+            "supported_positions": [
+              1,
+              4,
+              6
+            ],
+            "fraction": 0.42857142857142855,
+            "mean_score": 0.381,
+            "established": true
+          },
+          "juice_preparation": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0175,
+            "established": false
+          },
+          "pouring_drinking": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0664,
+            "established": false
+          },
+          "eating_cooking": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.064,
+            "established": false
+          },
+          "talking": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.1068,
+            "established": false
+          },
+          "other": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.2014,
+            "established": false
+          }
+        },
+        "review_reasons": [],
+        "text_sha256": "6a575cb74c28d13c2d2a5ebbd63d72ba13591231d176749f9e78119e8acedcd7"
+      },
+      "thumbnail_origin": {
+        "kind": "own_video_frame",
+        "video_sha256": "dace46c8701a6d1b07736b0be25887195e4b282ddcd58ba791433f8274bef551",
+        "time": 22.647
+      }
+    },
+    {
+      "id": 578,
+      "message_id": 578,
+      "uid": "telegram:-1003789866860:578",
+      "channel_id": -1003789866860,
+      "title": "Я сыну верю — благодать! В купель холодную — опять! Вода бодрит, душа поёт, А счастье изнутри идёт!",
+      "caption": "Я сыну верю — благодать! В купель холодную — опять! Вода бодрит, душа поёт, А счастье изнутри идёт!",
+      "date": "2026-10-24T08:46:55+00:00",
+      "url": "https://t.me/masik2977/578",
+      "thumbnail": "https://masik19772097-ux.github.io/videoteka-mirnogo-voina/thumbnails/578.jpg?v=e605e1ea5343fefd",
+      "categories": [
+        "swim"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:578",
+        "root_post": "masik2977/578",
+        "date_url": "https://t.me/masik2977/578",
+        "media_urls": [
+          "https://t.me/masik2977/578"
+        ],
+        "caption_sha256": "451b705247d9aaaf7c5ba7c2d072fa0d94a44c25c5dee5bfeaeae441e1792955",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:578",
+      "thumbnail_url_sha256": "4250f342b75174034b6ac4ff1c92613d39b6b5c66f1684b1f2f23b57ee9418c9",
+      "integrity_issues": [],
+      "classification": {
+        "version": "identity-multilabel-v4",
+        "engine": "speech-frames-description-v5",
+        "method": "local_whisper_clip_frames_and_description",
+        "reason": "multimodal_evidence",
+        "primary": "swim",
+        "suggested_categories": [
+          "swim"
+        ],
+        "confidence": 0.85,
+        "confidence_kind": "uncalibrated_evidence_score",
+        "speech_topics": [],
+        "visual_actions": [
+          "swimming"
+        ],
+        "topic_scores": {
+          "food": 0.0,
+          "train": 0.0,
+          "run": 0.0,
+          "swim": 0.8500000000000001,
+          "philosophy": 0.0,
+          "path": 0.0,
+          "talk": 0.0
+        },
+        "topic_sources": {
+          "food": [],
+          "train": [],
+          "run": [],
+          "swim": [
+            "frames:swimming"
+          ],
+          "philosophy": [],
+          "path": [],
+          "talk": []
+        },
+        "speech_evidence": {
+          "food": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "train": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "run": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "swim": {
+            "hits": 1,
+            "distinct": 1,
+            "sentences": 1,
+            "score": 0.27,
+            "terms": [
+              "купаемся"
+            ],
+            "segment_support": 1
+          },
+          "philosophy": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "path": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "talk": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          }
+        },
+        "description_evidence": {
+          "food": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "train": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "run": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "swim": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "philosophy": {
+            "hits": 1,
+            "distinct": 1,
+            "sentences": 1,
+            "score": 0.27,
+            "terms": [
+              "счастье"
+            ]
+          },
+          "path": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "talk": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          }
+        },
+        "action_evidence": {
+          "running": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0195,
+            "established": false
+          },
+          "gym_exercise": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0525,
+            "established": false
+          },
+          "swimming": {
+            "supported_positions": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5
+            ],
+            "fraction": 0.8571428571428571,
+            "mean_score": 0.5596,
+            "established": true
+          },
+          "juice_preparation": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0265,
+            "established": false
+          },
+          "pouring_drinking": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0544,
+            "established": false
+          },
+          "eating_cooking": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0338,
+            "established": false
+          },
+          "talking": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0527,
+            "established": false
+          },
+          "other": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.201,
+            "established": false
+          }
+        },
+        "review_reasons": [],
+        "text_sha256": "10a01526a50fe04dbb26ecf1d0548528c7c1d4432f405a98be0cddb98f3b6394"
+      },
+      "thumbnail_origin": {
+        "kind": "own_video_frame",
+        "video_sha256": "a36d111297c080d67a7c7df68b43c0431eb8d26503bfbd844f64f464783d02de",
+        "time": 46.752
+      }
+    },
+    {
       "id": 575,
       "message_id": 575,
       "uid": "telegram:-1003789866860:575",
