@@ -1,6 +1,252 @@
 {
   "videos": [
     {
+      "id": 675,
+      "message_id": 675,
+      "uid": "telegram:-1003789866860:675",
+      "channel_id": -1003789866860,
+      "title": "Гантели в руках, огонь в груди — Сильнее себя вчерашнего стань и иди!",
+      "caption": "Гантели в руках, огонь в груди — Сильнее себя вчерашнего стань и иди!",
+      "date": "2026-11-24T12:44:53+00:00",
+      "url": "https://t.me/masik2977/675",
+      "thumbnail": "https://masik19772097-ux.github.io/videoteka-mirnogo-voina/thumbnails/675.jpg?v=7dc394c733a4a2c5",
+      "categories": [
+        "train"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:675",
+        "root_post": "masik2977/675",
+        "date_url": "https://t.me/masik2977/675",
+        "media_urls": [
+          "https://t.me/masik2977/675"
+        ],
+        "caption_sha256": "b523628fbe6faff13e083a06e83ae90d68a87c34a2a711dcf66528d417322611",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:675",
+      "thumbnail_url_sha256": "a5d55afcd5124124ec24835177b0d83b7bb4ccac0e31bc57f6eb2f65a81f93ea",
+      "integrity_issues": [],
+      "classification": {
+        "version": "identity-multilabel-v4",
+        "engine": "speech-frames-description-v5",
+        "method": "local_whisper_clip_frames_and_description",
+        "reason": "multimodal_evidence",
+        "primary": "train",
+        "suggested_categories": [
+          "train"
+        ],
+        "confidence": 0.8,
+        "confidence_kind": "uncalibrated_evidence_score",
+        "speech_topics": [],
+        "visual_actions": [
+          "gym_exercise"
+        ],
+        "topic_scores": {
+          "food": 0.0,
+          "train": 0.8,
+          "run": 0.0,
+          "swim": 0.0,
+          "philosophy": 0.0,
+          "path": 0.0,
+          "talk": 0.0
+        },
+        "topic_sources": {
+          "food": [],
+          "train": [
+            "frames:gym_exercise"
+          ],
+          "run": [],
+          "swim": [],
+          "philosophy": [],
+          "path": [],
+          "talk": []
+        },
+        "speech_evidence": {
+          "food": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "train": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "run": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "swim": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "philosophy": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "path": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "talk": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          }
+        },
+        "description_evidence": {
+          "food": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "train": {
+            "hits": 1,
+            "distinct": 1,
+            "sentences": 1,
+            "score": 0.27,
+            "terms": [
+              "гантели"
+            ]
+          },
+          "run": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "swim": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "philosophy": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "path": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "talk": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          }
+        },
+        "action_evidence": {
+          "running": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0295,
+            "established": false
+          },
+          "gym_exercise": {
+            "supported_positions": [
+              0,
+              1,
+              2,
+              4,
+              5
+            ],
+            "fraction": 0.7142857142857143,
+            "mean_score": 0.3166,
+            "established": true
+          },
+          "swimming": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0366,
+            "established": false
+          },
+          "juice_preparation": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0096,
+            "established": false
+          },
+          "pouring_drinking": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0221,
+            "established": false
+          },
+          "eating_cooking": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0254,
+            "established": false
+          },
+          "talking": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0529,
+            "established": false
+          },
+          "other": {
+            "supported_positions": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "fraction": 0.8571428571428571,
+            "mean_score": 0.5073,
+            "established": true
+          }
+        },
+        "review_reasons": [],
+        "text_sha256": "a316777b22ecde99b1b381c9e9b79137eec53a29d49a61080569c27660348621"
+      },
+      "thumbnail_origin": {
+        "kind": "own_video_frame",
+        "video_sha256": "cb7a6ba6b5f0b3167710664b576534942e019fea0b00101ba397b107f8053f68",
+        "time": 31.863
+      }
+    },
+    {
       "id": 670,
       "message_id": 670,
       "uid": "telegram:-1003789866860:670",
@@ -27773,7 +28019,7 @@
       "caption": "Попробовал жим на брусьях с 40 кг ,последний раз 2 недели назад отжимался с 34 кг на 8 раз ,а тут пожал штангу ,хорошо 112 кг 5 подходов по 5 ,сил еще осталось и решил с 40 и был сам удивлен😊",
       "date": "2026-01-26T10:05:19+00:00",
       "url": "https://t.me/masik2977/7",
-      "thumbnail": "https://cdn4.telesco.pe/file/vZPcLpCHcNYwh1NME12NOdODEhzVyOC8XYmy7yVLTGfou-xMweTos29jOYj_eGqWFximoKj74KyTnMCyC5PvL7Y6vGXvq6l65U8QXuzjnL-YA_w-v0xkVBHsAnq7lTeiZYGptE__0oeu7fvJY0Nlxa8by1vUnxPnqgVwWe-cexk2So0408Qbj6CE9-dDr7jgicIjNx8Hj0mBNPya7F_kYz0pE3AjPJo5KhTDDB73Z4k2AwhI8ue4dAPhrebJLDEWMqqAI6XOkxklGnGzAri22JRFFoUp_pak9onOXZ4ohF4mfFyEXPL3nATvR-Y8HwmhCrqFWuBKRoFJnGJDPoh_TA",
+      "thumbnail": "https://cdn4.telesco.pe/file/pLMeTu1JA6qkaAC81eZrLE9w_X_FeKld-LIOqfI8zM7A4oGRjt5BvqRRTRZtp59oNCc-eihm7Joc-b_I1TeDcL18iA48FCeqVWi3kJlJk7v_FBcR0JZhWlabMxTSJp2WE9_Fslnh15S83FnIgRdtJb5DYLt57Qpb3p0XVXUamAflErQCVtiat6HMyt8TAaB5bjvYivHLSq55ZX1rTpCoDriow3FSmyRx4baQTeNmy_zZ4RI3CDIzxZha3ZOo5RmvdpJO8n4Xfgw6lIabVnC1qM0Cc6UvHEMkYyJHxculYMSWVO1fDXLZS_hBi4TRwv9ddnevx4RfDPur4uf9N8ZXvg",
       "categories": [
         "train"
       ],
@@ -27790,7 +28036,7 @@
         "verified": true
       },
       "thumbnail_owner_uid": "telegram:-1003789866860:7",
-      "thumbnail_url_sha256": "6b88d2dacd9983c5b43a0848b0ca229bc6e700f1bf33cf9b57943fa7051021ed",
+      "thumbnail_url_sha256": "c63389293ee733731515499b1219842a6b77b003686189f331c0065945a9f914",
       "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
