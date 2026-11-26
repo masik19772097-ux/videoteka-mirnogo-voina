@@ -11477,6 +11477,248 @@
       }
     },
     {
+      "id": 591,
+      "message_id": 591,
+      "uid": "telegram:-1003789866860:591",
+      "channel_id": -1003789866860,
+      "title": "Магия природы меня зовёт, Бег дарит энергию — душа поёт! 🌊",
+      "caption": "Магия природы меня зовёт, Бег дарит энергию — душа поёт! 🌊",
+      "date": "2026-10-29T05:38:04+00:00",
+      "url": "https://t.me/masik2977/591",
+      "thumbnail": "https://masik19772097-ux.github.io/videoteka-mirnogo-voina/thumbnails/591.jpg?v=3b9208b866ddf70e",
+      "categories": [
+        "run"
+      ],
+      "status": "published",
+      "source": "public_channel",
+      "source_identity": {
+        "uid": "telegram:-1003789866860:591",
+        "root_post": "masik2977/591",
+        "date_url": "https://t.me/masik2977/591",
+        "media_urls": [
+          "https://t.me/masik2977/591"
+        ],
+        "caption_sha256": "5a768abc3d0101e60348b79959aa41b574db3735541d24b80666fdb516218ca5",
+        "verified": true
+      },
+      "thumbnail_owner_uid": "telegram:-1003789866860:591",
+      "thumbnail_url_sha256": "ac1774a92fbbca5e6d2f451b9531133e484e6694b41c7634069095522b7a4c69",
+      "integrity_issues": [],
+      "telegram_video_unique_id": "AgADNKYAAvrnGEs",
+      "classification": {
+        "version": "identity-multilabel-v4",
+        "engine": "speech-frames-description-v5",
+        "decision_version": "topic-evidence-v6",
+        "method": "local_whisper_clip_frames_and_description",
+        "reason": "multimodal_evidence",
+        "primary": "run",
+        "suggested_categories": [
+          "run"
+        ],
+        "confidence": 0.7,
+        "confidence_kind": "uncalibrated_evidence_score",
+        "speech_topics": [],
+        "visual_actions": [],
+        "topic_scores": {
+          "food": 0.0,
+          "train": 0.0,
+          "run": 0.7,
+          "swim": 0.0,
+          "philosophy": 0.0,
+          "path": 0.0,
+          "talk": 0.0
+        },
+        "topic_sources": {
+          "food": [],
+          "train": [],
+          "run": [
+            "spoken_current_activity"
+          ],
+          "swim": [],
+          "philosophy": [],
+          "path": [],
+          "talk": []
+        },
+        "speech_evidence": {
+          "food": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "train": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "run": {
+            "hits": 3,
+            "distinct": 1,
+            "sentences": 3,
+            "score": 0.53,
+            "terms": [
+              "бегаю",
+              "бегу",
+              "бежит"
+            ],
+            "segment_support": 3
+          },
+          "swim": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "philosophy": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "path": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": [],
+            "segment_support": 0
+          },
+          "talk": {
+            "hits": 1,
+            "distinct": 1,
+            "sentences": 1,
+            "score": 0.27,
+            "terms": [
+              "рассказываю"
+            ],
+            "segment_support": 1
+          }
+        },
+        "description_evidence": {
+          "food": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "train": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "run": {
+            "hits": 1,
+            "distinct": 1,
+            "sentences": 1,
+            "score": 0.27,
+            "terms": [
+              "бег"
+            ]
+          },
+          "swim": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "philosophy": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "path": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          },
+          "talk": {
+            "hits": 0,
+            "distinct": 0,
+            "sentences": 0,
+            "score": 0.0,
+            "terms": []
+          }
+        },
+        "action_evidence": {
+          "running": {
+            "supported_positions": [
+              0,
+              5
+            ],
+            "fraction": 0.2857142857142857,
+            "mean_score": 0.1986,
+            "established": false
+          },
+          "gym_exercise": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.1211,
+            "established": false
+          },
+          "swimming": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.2371,
+            "established": false
+          },
+          "juice_preparation": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0112,
+            "established": false
+          },
+          "pouring_drinking": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0624,
+            "established": false
+          },
+          "eating_cooking": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.0543,
+            "established": false
+          },
+          "talking": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.1741,
+            "established": false
+          },
+          "other": {
+            "supported_positions": [],
+            "fraction": 0.0,
+            "mean_score": 0.1412,
+            "established": false
+          }
+        },
+        "review_reasons": [],
+        "text_sha256": "abab875731dc4631ffe5b33dbe0f358920686a728e29153d8eb4845282f37228"
+      },
+      "thumbnail_origin": {
+        "kind": "own_video_frame",
+        "video_sha256": "77cae4578a65d3758b0f28a0c284e22a1ff373728fe868aefc634bc6a37dab0f",
+        "time": 40.61
+      }
+    },
+    {
       "id": 589,
       "message_id": 589,
       "uid": "telegram:-1003789866860:589",
@@ -17992,7 +18234,7 @@
       "caption": "Аскезы это хорошо и нужно,но как же потом божественнен вкус простого свежевыжатого сока,рецепторы организма очищены и пить сок просто Райское наслаждение",
       "date": "2026-08-21T08:48:40+00:00",
       "url": "https://t.me/masik2977/421",
-      "thumbnail": "https://cdn4.telesco.pe/file/V4K0krvuun0BGddkIgYPRaaBqaXUCy8mo8KxnKhaDmDlXqTGFcfrybkfET3MHTWkzttHKSQo7p5e5VHSyvOSXgaR_G9ST48tKyV52LdrwXXvXymb3ZpG9hsI59tEgxWEzLaQHRq74P0Yn4bny1LIWu5JC9PZ5ck5j2C19LVcz0rnyBCBJ4KTmp5VRyIG9C5HBPu2qaXEZw5xUpz_i4GGYRlKFSPU-9I6AN1tcbKN0N6tar6-A1as8fcnxEvUNqZpkrT9w6CT4DwuERJzY_ys0jEEg-1cgnpmQQtIcKGypCJAXLDEg2udEzTk4l4PwzZBmBIIGEKm32oDnNffLL7uLA",
+      "thumbnail": "https://cdn4.telesco.pe/file/Eqjst_fZ8zbTIIMN6mXpzEez22nmc17gDQOriPAmnhcyyVDfuGKmgNpLB2xR8zdafvdr5-vs7tvEJhJ7o6bIFR4sFy8LslpWX3D3NzifiVnOxKuGNlKrlTyf-rK5Aa_Yib0epg5fpZi7IPckU396UVh9zfN60i0MwW0-muFIMARjMuT46HGt1bHC89Mq7uUT6VxQJYUNP8nWW34X5WEL6wMTRsd_qEpNRCbbI7sjH4WlCFqVVqcUUUe6jajmWOZYE4synuQfhrArFYU6tEm55YvaMGOklnsd425fP8zN6_JcMvwrKOK13Rp9q49aa9t4DQP8G8Rz7bNBpm353CffpA",
       "categories": [
         "food"
       ],
@@ -18009,7 +18251,7 @@
         "verified": true
       },
       "thumbnail_owner_uid": "telegram:-1003789866860:421",
-      "thumbnail_url_sha256": "9d73c653478c9879b654c55912d6ff8d27c433980bc2fdd51e886aafd3154e4b",
+      "thumbnail_url_sha256": "8820946a4d34c25c643423f6dbaeda040a61817e50c01d5cdd65e84f01d01c18",
       "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
@@ -18246,7 +18488,7 @@
       "caption": "Пятница, весёлый день, Солнце светит, зелень близко. Волга плещется, не лень Пробежаться рядом с ней. 🌿 Воздух свежий, красота, Птицы что-то напевают. И от этой простоты На душе светлей бывает. Пробежался вдоль реки, А потом нырнул в прохладу. 🌊 Вот такие пустяки Иногда и есть награда. Ничего не надо больше: Просто утро, Волга, свет. И вдруг сердце принимает Радости живой привет. 🌿🌊☀️",
       "date": "2026-08-21T05:59:27+00:00",
       "url": "https://t.me/masik2977/420",
-      "thumbnail": "https://cdn4.telesco.pe/file/h-blrvR7MqFZKPk3hYR770CMk1MGz60WjYOGDNIsMZts29w09wqaasUpvY9LGGgnKjMSsNttxO0sqfulj-y04958da5bisj3B_wF-GUMPhxZJgU5mLAucsBiVTIhq3ASLl15lJvJncau4KNNQGNU5LNNRMtTALlI0_ksik26kiDDcybbnB2mIAjsdOBDgjofguqpX-BmTO4ywqgXeGaBpuxLy2LhiE6mtrumd0HMIugBN3CH4DYEAYj10QbDyKJe-KsoxLQnQfUFoXrI-yJqcRvZnppDhcWzq89LYORsZZNtqTd2H4C3fqeH4WPlpitnd-Xeo_0GtTVwlacOoEogpw",
+      "thumbnail": "https://cdn4.telesco.pe/file/N2qfUpbBpmrkDA8Fe8OQEU-RvkfY-OSiCP2rZYsWzqCg4KViMz6z5wQUcvu-onhgq5WLNt176U-Sg38UXq1ccg3Br8iDKv3RZktutvr4F1oH1fgDJ6b5G_ovhb05GuXPDsNwIykJZ9Cm-d3EZZbSvftziLOoK7AlYc6uCSsUlKyzRda5xQCmxtOQgQ-V3kmv9nJ4KgeTEVLwZLVO4Re3JktRJmA7NZbr2Etf3rOvCVCnR1je6hb7rZ8-wkdMHF1P05jPch3SZpqNLKMg3IwY_shD8Io612_XiBVQK7SNnSFi1ylD8I7WG0SNF4gJtDEypc7aLo6fTOnXuBCF44OuNg",
       "categories": [
         "run"
       ],
@@ -18263,7 +18505,7 @@
         "verified": true
       },
       "thumbnail_owner_uid": "telegram:-1003789866860:420",
-      "thumbnail_url_sha256": "d822239bd146093f8d34ba275590a72bf89788ac2ba52e3cbe3b8819e2576539",
+      "thumbnail_url_sha256": "a65755ae3f3c5eea5eba2f1f0658549d0de63fd9795ce635c28b56351a4fc7ff",
       "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
@@ -18314,7 +18556,7 @@
       "caption": "Новый смузи 👍спустя 96 часов покушал😜",
       "date": "2026-08-20T18:28:54+00:00",
       "url": "https://t.me/masik2977/419",
-      "thumbnail": "https://cdn4.telesco.pe/file/kY8-MQ75Uy5t9qaSjVrIRRSQ3KfPG8-npS3KxeR7mmL0VZ3WqsVDKMJdGevFkzKu4jwhb90GFRM-WP4V0-1vU05oGCRJFVzePrl9ZKrEgqEUqiBdEXbkGuWjqo4ZVCdDI7irqNIsz4MyzegxECdZ05IX-poeHzMqlq9QXJkBUUhqupveEtJZ6mjPIo9YbrwuIq1njFanaw7w9KfnwfbMv9JXqAyJ6kzZuVVLDqUTx2LksTOkX73JX07aQ39JpyAzIXyguZfA48oVWB-YKT7GlHW1i1wJTsmDRxzMR7a_AKnQuVlQiM_IFdbM7Xuhl7znjfBjMMxjcbsOgqD6J4URcA",
+      "thumbnail": "https://cdn4.telesco.pe/file/JVGGD1Cm_-cHVWipkf_de0KTbJ62byRjsOrB-7HrnREXwFSz-X0Fvv4qwby-qTfJqkM4xVnCbBYg4YRN6KmF-YLri4FlnILubYrAaFe2YywK7-jl0MSH_JliLJyhnBDAO3YudDzHjUFuaEnZSgUSna_ZTG7PQuNq_ZWxJxo8GD6Y1OSYVk5Y702ZJgBHn2AuJKCxC-mN17GuAQf0txwEizAbMq59n3vAu2ElmBgJvjJqC4Lgc_E_5fAJ_nv2pV8CA1r9goHcwbfJJ9PpyiHyl9MK736V8cod0aArtu-qHqurQz8qL5gHvlP0ipLT3y5N2mV0IExEBStQWlUGrpTqrQ",
       "categories": [
         "food"
       ],
@@ -18331,7 +18573,7 @@
         "verified": true
       },
       "thumbnail_owner_uid": "telegram:-1003789866860:419",
-      "thumbnail_url_sha256": "6cffe762760dba6e70044d8b4e41c4a899a66e2d262b07e53cdaf8da77f83e36",
+      "thumbnail_url_sha256": "c8f56ce2fa738aa2f3666e4905dfbee699ac7c680713d0ee585830afb381d538",
       "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
@@ -18382,7 +18624,7 @@
       "caption": "Тренировка без еды 60 часов проходит жарко👍",
       "date": "2026-08-19T11:22:48+00:00",
       "url": "https://t.me/masik2977/417",
-      "thumbnail": "https://cdn4.telesco.pe/file/wBdt9mmjWAUVguMQKc921VsOZ8psBpqvKP2ni8IotqVB9TX6JcYlV7ij31Z2Dm-HbmgU6M2efmit2SaNouOfaWo0tvO_vECX0-aPWQzrx2ZgT57xP6IfK6i9VrE35goyKMAp-OzoHiYUlay6CuoZ_1OutX3fIUezmGxsBhcor_gr7B99AwbQQ6Smi3cjRZUGZ0Vxr3VgeS-K1wge-bZk-bb0dhXaMuT3OS3ZDM67PhGHSqRcQ2rm2_WxPwKj-plHRs9cSeItUzphnpjqBQT75q5lF49qWRLrKK3bN1FshMIILQB9JVLue-FQyBfSorOKxowNnwEcsXfwlnAldh62Lw",
+      "thumbnail": "https://cdn4.telesco.pe/file/DCmULPw1sgzRaBpxFWRByyeShvGsO0vqJlGmzdFcb2TdvC32hVt4nFiRc1f8Q14FldZV9ZYvu_-THq7OYaXhVKOCjSvNlRW7-Bykx6wb0L5uGG05WPROPlx_ouulfgvpsSpEtlyeAWdSgmJzvL_WQiUo55sjP2-crY9E6HdfENjWysUSh4ud74keF2PIRTSnRUQRhSeG1QyDAJa1xQ41-xV-Xak3SVziDz6Hphr3tNxVpRIjNV28hP975zwaca5-cOCYSfxWz3Fu-ps2T8fru-XECmebuQcEt2jJ4wQ2FFQRboGzgZbte4q_4on4MbZ_21O1qIwPDKC92XgNS8BdeA",
       "categories": [
         "train"
       ],
@@ -18399,7 +18641,7 @@
         "verified": true
       },
       "thumbnail_owner_uid": "telegram:-1003789866860:417",
-      "thumbnail_url_sha256": "7c34b11e1d269ae828f3b9f750b1e77cae209fd78c676ce692b4e1baad4b29c7",
+      "thumbnail_url_sha256": "3a10afcb942cbdd971b0b847a4c53b50f6583b1c1ce4431484f6790bc8d63889",
       "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
@@ -18450,7 +18692,7 @@
       "caption": "Какой прекрасный новый день! Так хочется любить, смеяться, И просто пить))) И наслаждаться видом прекрасных берегов. А позади 60 часов Чистейших и живых. Сознание чистое, душа лёгкая... После 60 часов без еды смотришь на природу особенно внимательно. Берёзы красивые. Волга прекрасная. Даже голуби какие-то духовные пошли... 😂 Стою на берегу, смотрю вдаль и понимаю: Вот оно! Просветление! Не надо ничего хотеть... Кроме стакана воды. 😄 Природа лечит, вода радует, солнце светит, ветер обнимает. А желудок сидит в сторонке и говорит: «Ну всё, философию мы поняли. Теперь давай уже по существу!» 😂 И ведь самое интересное, после Чистейших начинаешь замечать простые вещи. Как солнце играет на воде. Как птицы разговаривают. Как трава пахнет. Как ветер касается лица. И понимаешь, как прекрасна жизнь, когда ты не пытаешься её постоянно улучшать. Не надо никуда спешить. Просто стоишь у Волги... дышишь... смеёшься... любишь этот мир... И вдруг понимаешь: просветление, возможно, действительно существует. Просто у него, зараза, очень сильная жажда! 😂💧 Так что новый день встречаем с любовью, благодарностью и первым священным напитком просветлённого богатыря... ВОДОЙ! 💧😂 Волга течёт. Солнце светит. Сердце радуется. А жизнь продолжается. И, пожалуй, в этом и есть самая простая философия: быть здесь. Дышать. Любить. Смеяться. И вовремя пить воду. 😄🌿💧",
       "date": "2026-08-19T05:40:24+00:00",
       "url": "https://t.me/masik2977/415",
-      "thumbnail": "https://cdn4.telesco.pe/file/kDgUQh7dAMI9dTSMTeNimqgqxI6zmgTKbDAfr9QmgC4cdd3G4_t51XJM3couZJgwT6qRjA4H0aWQuQoLz70MEuTrbZtTXbfFj1JfKmaIP1bd1b9di2PwBaZUjkbUdZKT3ab8Pq45sxv7YskhWpH02F-6RXMfDJN520Seoi8dvAf5VL73FcAhbBfKKoTaij6qiyiDFUGJDhCfIvK88-in60t23r7IJGXu7MloyUGjpA9f76jhYpXB9QngAvJNEMHbAFjh_kD8jlJH9JQwaQoyG8nGkAPZ4GPwbTjv9_OMsE6I6S98Gx9u56mgZOJrEGxU6kPvazQw_7ltpVKcyvwKOQ",
+      "thumbnail": "https://cdn4.telesco.pe/file/O1wLa2ZCX-xxyITT7QSUmKrYdwSKeFbMZd_59hhm5-mLntiy3_TALI-HH4QTZb7OUND1hPb8LqnoCo-CKE2_ACC_M2yYUf41Ds_me9u_OFatfrVwoMMd8DkvoAwacTURvkn2XgQJsoFR_d5Pr1oT5ehxo-CPh0kFaX8aqyn78569F20DYH78aK_fIaMawUTlKsKh_PMJBGgLOoZkaGdpEiyO7x4v7EmXej3jVO8uEKcswFJoVHMhph-DRgDssEcxqNLCFxo5gTntrY05bKnb0RoeA3-ZH62gcQ65HDOI4s1VYZlJw6cchsPyBYFedx0OicYi6QFQ4zl8HZWzEwJryA",
       "categories": [
         "philosophy"
       ],
@@ -18467,7 +18709,7 @@
         "verified": true
       },
       "thumbnail_owner_uid": "telegram:-1003789866860:415",
-      "thumbnail_url_sha256": "b764b9985f3c81210954c85d101d706946b02b194645c6f925cd90c090ea7c74",
+      "thumbnail_url_sha256": "16b386324bce01d1db987ad9f0668d425774553f8b906c8cc39de8e58698fe52",
       "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
@@ -18518,7 +18760,7 @@
       "caption": "‎Вторник. Спортзал ‎ ‎Вот это я руки закачал, ‎Пот ручьём с меня бежал, ‎Вены вздулись, словно реки, ‎Кровь гуляет в человеке! ‎ ‎Бицепс нынче разгулялся, ‎До плеча почти добрался, ‎Штанга смотрит: «Ну, герой, ‎Ты сегодня что ль со мной?» ‎ ‎А я ей: «Давай, родная, ‎У нас жизнь с тобой такая! ‎Ты железная, я живой, ‎Но характер у нас стальной!» ‎ ‎Гантеля справа, гантеля слева, ‎Руки ноют, не помеха! ‎Я им: «Очень рано ныть, ‎Нужно молча, не флудить!» 😄 ‎ ‎Пот струится по спине, ‎Сила ходит по стране, ‎Бицепс круглый, как кувалда, ‎Вот она, мужская правда! 💪 ‎ ‎Руки, блин, как два бревна, ‎Но душа полна огня. ‎Тяжело? Ну и пускай, ‎Подышал и продолжай! ‎ ‎Ещё подход, ещё повтор, ‎И снова мышцы держат спор. ‎Пот со лба, железо в руки, ‎Вот где счастье, вот где муки! 😄 ‎ ‎Так что, братцы, если жизнь ‎Что-то стала не бодра, ‎На диване не лежите, ‎А в спортзале попыхтите! 😄 ‎ ‎Пот со лба, железо в руки, ‎Вот где счастье, вот где муки! 😄",
       "date": "2026-08-18T12:16:11+00:00",
       "url": "https://t.me/masik2977/413",
-      "thumbnail": "https://cdn4.telesco.pe/file/L1qH1aRbXl_cdChVndtLbfmejVdzZP_odzsBpobbOxvcRUqM2sV2G8PNWshGVvN-yMlma39bzQzUqh5vEpr0sRjgfEC8_0Yy7f5Kin5rCt6BHWvPIrQvuE0kjR8jNVTV5JLj1q0J1hVuAGNuiJBiP4UVVEyBNlcO0u_DEbc1ehJB58Z9hw_zbf8aHX7F_4CebCYT1IbLZzSmOIlVZelljH3qlsjeNmK2djeQudHqengOSUH13688afnge1KL5C_ZSWLRqzek16Husun1Rd31sK1bk-DbBDAIxUpxtGSkxG-TiKYkxKsnOpNHPxMYQ34-8tP9CRhcWSRuwrPW1i6uzg",
+      "thumbnail": "https://cdn4.telesco.pe/file/v_LcXwYDxf9hky2o7Ckt6Rof1oI0mT-bvIFrxPdYlYiKKjOg89qtcym4_9X3eocdigvb46KHZkqroI74lYTERfSyLrr4fD1e8nEek31LGuDyHVzZqi4vaJX88He0Ftcojszcr6cFqx0HtqOvyCO9lsI-7S6IB-4kFMYISsXPAesN3dvlSswwEewOAL7S81KdL1r6tcf-8w9ACUmlt2eDCaqvPd1AyzrRF6xOqSEwND8PuvKiDcRADBwLcZ7J8xaVVQkQhGjXeeZWX9DjY3mkm9TApyzEZQtyfjKkuBjdnRCv10IUXnwSk54wpbePQkGsErhPkqUeqCITdbYoSnKdrg",
       "categories": [
         "train"
       ],
@@ -18535,7 +18777,7 @@
         "verified": true
       },
       "thumbnail_owner_uid": "telegram:-1003789866860:413",
-      "thumbnail_url_sha256": "6261bbbf60b35975b7e62ac7e1d7253f5b4181da3debb57559971b3be4a395e2",
+      "thumbnail_url_sha256": "bbb0019aa727cbc3d8125a28e024f098ad66e9ea2997de0dd78be04f546e2498",
       "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
@@ -18586,7 +18828,7 @@
       "caption": "Вторник, новый добрый день, А я всё бегу, и мне не лень. Заряжаюсь от земли, И бодрюся от воды. Тридцать шесть часов очистки организма от еды! Как же хорошо с утра Быть в гармонии с собой, Где душа уже поёт, А желудок… держит строй! 😄 Тело говорит: «Давай!» Разум: «Просто продолжай!» Счастье в том, чтоб утром встать, Пробежаться, постоять, Окунуться в Волгу-мать И принять ту Благодать. 🙏🌊 Но гармония проста: Земля, вода и чистота. И за этот новый день, За рассвет и солнца тень, За возможность жить, дышать, Бегать, чувствовать, мечтать, Я скажу без лишних слов: Благодарен за любовь. 🌿 Спасибо, Волга, за рассвет, За силу, воду и привет. Спасибо жизни за пути, За то, что можно жить в Любви. 🙏🌿",
       "date": "2026-08-18T05:36:41+00:00",
       "url": "https://t.me/masik2977/412",
-      "thumbnail": "https://cdn4.telesco.pe/file/G5GDp8w1WQBPj_iUuH2XvwnQpiuaV6FLgdRiit6tMeB_9H6caQLaGJxsxe-FXu5Oyk_-NXbL7KHoxzF-Rvdm2IUrVpkKYR4fHxSTs8pSd81VtyD0YZ5YGol6cG0ST2K8CXWumxJ7EFVpy4pQmZliG65J3fFFNzKkGEkZuw_ZuEpFyVjJ-5aH5pIVFTn1Cf0_0pWRkIWkPaR0D45PUc4DoF3SGkWvZy7YyCWfjaq4vgKVNTroyOYMMfSusk-ZUH_naNAhxGjoWN2Z_F2xleNl5yYDb6k3X5STylU7n9aczHQWNgV2eGhaXbHLQKXPmzcxA3MUP_Vnt7j9iLpfRVdvaQ",
+      "thumbnail": "https://cdn4.telesco.pe/file/vJoJXkTrGRiFPaHMpsfR-6vDhs3qF7mwe_a87HIHAIOETeNI2Vznz1Ov4lNdxL0eyIYBKkHYrnBBhELyoWM__kdZ1MFotTG5W3cvSPpFuBXrYg15MyvlMMHOQdWMdK10RCUeM4mf1o-jo1RG1dI6-B2G_iHbmyhX12VCBhMnb__kS54qxfBvZZGOjmr1isgOj5bXKa1fouzg_ZUsLQwAI4a1crE2Zfdp9erakfUSq-YrVH-AjhnoJCHS4IP8J3UZDdjyyhFaIsQ0PH--CacI8438lHE9OSLY96YAtJFo8K3yzmu2ZL-i0CQv8Lmt_fJe8pSZyanFyEENmbxYBhlUIA",
       "categories": [
         "run"
       ],
@@ -18603,7 +18845,7 @@
         "verified": true
       },
       "thumbnail_owner_uid": "telegram:-1003789866860:412",
-      "thumbnail_url_sha256": "780162c7bb03272fa288c906b2892fda1bcc7e6ddaa4eaedf7c5eba21fbb1a08",
+      "thumbnail_url_sha256": "6bae12252832c172b83cc0cd22eed5de696df3b8978d2f8b85745f44ca192741",
       "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
@@ -18654,7 +18896,7 @@
       "caption": "Неделя началась, а красота вокруг не кончилась! 😊 Босиком по песку бегу, природой дышу, в воду ныряю, позитивом заряжаюсь! И вроде ничего особенного… А настроение такое, будто жизнь опять выиграла главный приз! 😂 Всем лёгкого понедельника, свежего дыхания и побольше радости вокруг! 🙏",
       "date": "2026-08-17T05:49:21+00:00",
       "url": "https://t.me/masik2977/409",
-      "thumbnail": "https://cdn4.telesco.pe/file/jZmllcenszqZN7u2iSVAP_VA7zKxG6WWlFsO1x1Dmyg-HMqMiDlkKRaSMiOmA9ds4r5-jogJhPLGgoZ7YQNwzcnAkgKEnyAiG885FhwoZ8N0vaZNuXZZRixMsLSOiTErkAoFvuKYaKNm5NN3Rnh4oVkVw2P_ggI4bVBuZTqLl5YZe1MsS-5hzbw40G6JJsKTrlmocoq6poT-v49kIVBGvKAkySDXdhIMT24qxgHsmpgBRAioH5lqwf1ETxRvrxCgxJNyxcK3SW7S7Dnstreq1ltdPLTyHeoswsClOE4Cq3GcS8BUAc7WGECndBBJlQMDwQcI_1nc5_Yhf2fY0RGOGA",
+      "thumbnail": "https://cdn4.telesco.pe/file/NtnP2IvSnmfzcbYZGxrzaBcRIW4JnXOo-j_mg6HahUG4sMkQNa7nK3GJNskwqHIshNhtS7FLAXHXKoSTCF6cWjO-ZSgIWbBInfRXlZKAMwN4iLscOVdmUpbolWXyYUt_1SlKHWr2tRpK1YEmZROKyCN4QuwiRucztxFre05bme3bIbt5zIoMZVf0BBcDVY8WVBFB27qZHDNwFJO8yJn0snPQe3qs-wmkF6dsy7VpRjqLAfO2aMfiCuN5X8tbGgiauHPO6dH-FPQm8Pz_l8fQ6PkCMrjbsd1JC3Q9YePoozCImS9c1Mq_oNuoOkisb-U-lxx6Xyw83mgQZkqxfW1MjA",
       "categories": [
         "swim"
       ],
@@ -18671,7 +18913,7 @@
         "verified": true
       },
       "thumbnail_owner_uid": "telegram:-1003789866860:409",
-      "thumbnail_url_sha256": "cd4deba2e6d0f126d3a9c45a99f2b09dc6b926b541d51f63ed44d2430092ff0a",
+      "thumbnail_url_sha256": "820559dbd6e43552594f57d988d1f6d49e98633b055cf23b7f5218e6f02d78c9",
       "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
@@ -18722,7 +18964,7 @@
       "caption": "Утром встаю — и мир мне открыт, Внутри не спешка, а ровный магнит. Я слушаю тело, не спорю с собой: Где нужно — замедлю, где нужно — прибой. И каждый мой шаг — это выбор живой: Быть ближе к природе, быть просто собой. Долголетие — это не цифры в годах, А свет, что не гаснет в уставших глазах. Это чистая сила в простых вещах — Быть в тишине, быть на ветру, быть в лесах. И это движение — к чистой воде, Где утро рождается в лёгкой реке. Ледяная вода встречает меня, И тело просыпается, жизнь сохраняя. Как будто уходит усталости след, И заново в теле рождается свет. И каждая капля — как новый заряд, Который сильнее любых наград. И в мягком дыхании, в плавных шагах Живёт тишина, растворяя мой страх. И лёгкость в движении — мой внутренний путь, Где можно к себе и природе вернуться. Энергия мира проходит сквозь грудь, И легче становится выбранный путь. И время не давит, не гонит вперёд, А просто присутствием тихо живёт. Я слушаю тело, дыхание, путь — И в этом моя настоящая суть. Без спешки, без шума, без лишних оков — Лишь сила природы и мудрость веков. Живу полной Жизнью — и Свет раздаю, Не просто дышу — я всем сердцем живу. Чем больше я даю — тем богаче внутри, И Мир отвечает мне теплом и Любовью. И тело моё — как храм и как Путь, Где можно проснуться, а не уснуть. И если когда-то притихнет мой свет, Не огорчусь я, ведь я человек. Не в скорости смысл, а в том, чтобы жить, Любить, понимать и осознанным быть. И где-то за этим простым бытием Рождается тихо мой главный закон: Жить долго и счастливо, вне счёта веков, Сквозь время неся глубину и Любовь. Не в Деньгах измерить богатство Души, А в Мудрости Света, что зреет внутри. И чем больше Добра ты несёшь для Людей, Тем больше ты Любишь и сердце добрей. И путь мой не в спешке, не в шуме пустом — А в качестве Света, рождённого в нём. 🙏🙏🙏",
       "date": "2026-08-15T08:49:56+00:00",
       "url": "https://t.me/masik2977/405",
-      "thumbnail": "https://cdn4.telesco.pe/file/O-JNH4nzn0K5UIA94hQuDmU5HWRQIJFoD92YSIpZpG7eqL9CtjCP64U5jIuvFrstIUjj7JfsICgqhNBiY0Gx19q5--BTFYPle0PPg7QKGlnZbrCpr2_xq3pTT5vfECwnCTTUI8qkc3PADrxCUAn7gL8DRPZYPXETYVogh-FdKeIL3e9qFD9tICMCtu9aQVVz4F4F1Me_gbNiAzHGuxSZ9rvXWiOczBe7E6bQ1PQrmzHWn0lFtXraJVkZAfOkHjDTi3yTnCJ_GhtqmoNRqpN36yhdnOM_Q_sqpmL4b_vYOTEBWrGnDUYmSJs4taIgdjYlRBB0RROEJoDIa0iKMzN4iw",
+      "thumbnail": "https://cdn4.telesco.pe/file/kMXjA02I_6dppn9IM_D74V_0yhUnH7Ns0AlZxqSRXd1jYLv0vaq7-TGLw6XP1hGh4IQc0Sr4Tt2mJiQhQODON_L5NL8YwM8NJseiLBpJTwnNwzSFuTt0w3CZlikyBqIrnvozVKuKnl5na4ir5-LmS-afM_eXPOpfB0BOeCktQBpRr9fX7vRnqdBIRRogNzC_RoRhnhzlVS80kuigAntUyhsj-rEe2cFlpYEIJNK_zyvYbtJtc2socw1LNZme5o_gZdzkU8-Zg1wH64X0Kf7ttK37B_G_l0exNwAcHJ8oQRyITM1bUEq-9VXtyAnT5uff3MH0by66nD1txbyoKCSF2w",
       "categories": [
         "philosophy"
       ],
@@ -18739,7 +18981,7 @@
         "verified": true
       },
       "thumbnail_owner_uid": "telegram:-1003789866860:405",
-      "thumbnail_url_sha256": "5b4fab933befc7da890069ee5e66732946cc5c2483030d71f79cf2e63fdd6373",
+      "thumbnail_url_sha256": "5711ea4cd2092ea88e216acfee48ed45c0b14801d1156a391d07ad91ac0b79cc",
       "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
@@ -18790,7 +19032,7 @@
       "caption": "Пришло время завтрака Кружечкой Восхитительного свежевыжатого апельсинового сока🙏",
       "date": "2026-08-14T07:55:21+00:00",
       "url": "https://t.me/masik2977/403",
-      "thumbnail": "https://cdn4.telesco.pe/file/qXUYKsLuW75XUCs1rSOeEi19iL3gpdnH0GFspTn5Um8N-aaPlP_3L-BdqxrM_xUErylE-Yog5yV69kdOTiHduyo1HYoRyxcH89MEcXMbyWEzydUCKyYL4Slnh8HcnkiGL6Dfdh9jp1DmzvFNYabxf-DbVrEy0_pZEz3rEM_hpW4m82-vlnLnX-S9LWT7ZrM6qjnhlk8K4CeykwnBpMkO7XP9X9ZP2VzYSRLaLftasi8A5olNbYsvsJAbtQNQ5dzSpW9nrCi1ycS43ygnj71LwuwQBnZrtC2R0Tnx2ltOyX4GiRfq-tFMW9UDTpuZdmn-LDUEIi5o99PVXG9voQw6mA",
+      "thumbnail": "https://cdn4.telesco.pe/file/hlihMBX8rsDnS624DfNCz8mCvViu88LFrchongvvXlSZ9rEIwemn2r5MvKVfOEENFNT0OFoqnNCTEal3xP8e4DRiXXjq_mo9bfSfXNula93MXAX1GfwL_7TbSQQZ_-cyT97ZVsMgEF7b5ZUMxdIJqIedIYT-TO5cnm4hpYuAojeu2jNzz6B93vzImZlR3LSAX757mo3JdAeGe6ZoLfAY_b3GsJCSvYljRimqXS3Btt9l_PBMRDzRk0Lbbb8nCWMS9mgNqEtYMaGJyrxoMerarMKfmPhhly7Nj2530E7Y6MFJYzkpYEFvLaL3Fn9ibxozNoHhHfDgWQURBpWjc8fgyQ",
       "categories": [
         "food"
       ],
@@ -18807,7 +19049,7 @@
         "verified": true
       },
       "thumbnail_owner_uid": "telegram:-1003789866860:403",
-      "thumbnail_url_sha256": "a87ff3990391d3ba8c26618b1956a0b41155210ec192bbbf9243f9f028d7b072",
+      "thumbnail_url_sha256": "68385059027990a70cbde578f8688789b22410860cd04701e18d0017a2f7a4cd",
       "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
@@ -19041,7 +19283,7 @@
       "caption": "Сегодня пятница, вот финал: 13 километров я пробежал! По песочку, босиком, С ветерочком, с огоньком! 🌊🔥 Чайки мне песни с утра распевали, Криками дружно меня подгоняли: «Давай, богатырь, не сдавай!» А я им: «Кричите, родные, Мне силы своей добавляй!» 😄 Волга-матушка рядом шумела, Земля своей силой меня обогрела, Ветер усталость с меня прогонял, И я на весь день энергией стал! 💪🌿 Бегу босиком, улыбаюсь, живу, Природу люблю и заряд берегу! ❤️🌊",
       "date": "2026-08-14T06:13:33+00:00",
       "url": "https://t.me/masik2977/401",
-      "thumbnail": "https://cdn4.telesco.pe/file/s42ip2xV17EvjAigUi_ZDv21wi6-q4Y3uqjd8XE0hbwVyRRawmm4-0JJJxSKXedSKS_QcF_3NhPIrztO1jhpNR3jNVua2RA39JFDvGu6JjO_IYWZJZABgdDmYpzl4aCdfKTJ10GKK9XfbC3w-2en2dfRa1zXBQfA1GhpQA3zrT4QM0weRWpgY5opv-4uUrUSIypX3SxwrMFuOEBY1hXGhlAJfU1Ysap7m40AMBhq3RpRcvDjexYEd9niJdPE2M3z4wufHi6OS4skyrtR71tQMyhKbZ3gnUOtbPFBBhTmozb93dnsD6Y_V2XQ8EnyUSMrK-nSV8GLOGEUnQxGXhHDuA",
+      "thumbnail": "https://cdn4.telesco.pe/file/PhOwqCSJT1wAQ4P0Q6_Xsuqddr0sO5lSq6TsY77tTAilUX6OzbeaRZVdh0DL5o-flVSylSwKVB8KNswzMpOkf7wOXErCVVlsCCeHm9PWAQGcP1gKizUDKYfKDDbzrTr0MNxX17kI0NEksEniXQEYGWrvPZ680iMVGvZDaznNAFwyabiYPjqnXPRFbraXAZNw8nGqbrcFH7R9_-r-Us-cU1dvdd0spSUZxLYvhKatzrUVDd0Xr0VADf5Co0KPGyMDUdcVM5Ae7WUb-za9weWIH2PL-NT7FU-9GBEjsClLqktHiTTlv1e99IyKl_IlFHy-uhlFGFMkHz0aKwEis8neig",
       "categories": [
         "run"
       ],
@@ -19058,7 +19300,7 @@
         "verified": true
       },
       "thumbnail_owner_uid": "telegram:-1003789866860:401",
-      "thumbnail_url_sha256": "2f2155a1ca4fb070cbe3be1be029f34508bba9383c44bf67dc978318cd5fe1ee",
+      "thumbnail_url_sha256": "a583931d673c05cb2b42d5e727011c6d4c1e7fbd65823f2dcc98ad71fdb71095",
       "integrity_issues": [],
       "classification": {
         "version": "identity-multilabel-v4",
